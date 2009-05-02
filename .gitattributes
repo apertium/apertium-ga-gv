@@ -1,0 +1,4 @@
+* text=auto !eol
+/apertium-ga-gv.ga-gv.dix -text
+/apertium-ga-gv.gv-ga.rlx -text
+/apertium-ga-gv.gv.dix -text
