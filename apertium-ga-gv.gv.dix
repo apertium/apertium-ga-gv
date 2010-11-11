@@ -28,10 +28,20 @@
     <sdef n="mf"     c="Masculine + feminine"/>
     <sdef n="m"      c="Masculine"/>
     <sdef n="f"      c="Feminine"/>
+    <sdef n="GU"     c="Gender Unknown"/>
 
     <sdef n="sp"     c="Singular + plural"/>
     <sdef n="sg"     c="Singular"/>
     <sdef n="pl"     c="Plural"/>
+    <sdef n="com"    c="Common"/>
+
+    <sdef n="cni"    c="Conditional"/>
+    <sdef n="fti"    c="Future"/>
+    <sdef n="ftr"    c="Future Relative"/>
+    <sdef n="ger"    c="Gerund"/>
+    <sdef n="imp"    c="Imperative"/>
+    <sdef n="past"   c="Past"/>
+    <sdef n="pp"     c="Past Participle"/>
 
     <sdef n="ind"    c="Indefinite"/>
     <sdef n="pos"    c="Possessive"/>
@@ -1782,6 +1792,17 @@
       </e>
     </pardef>
 
+    <!-- Adverbs -->
+
+    <pardef n="ass__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+       
     <!-- Prepositions -->
 
     <pardef n="cur__pr">
