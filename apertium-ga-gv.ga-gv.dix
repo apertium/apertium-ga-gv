@@ -3,7 +3,53 @@
     <!-- Copyright 2010 Kevin Scannell and Phil Kelly -->
     <!-- Released under the same license as the apertium-ga-gv package -->
   <alphabet/>
-  <sdefs/>
+  <sdefs>
+    <sdef n="n"      c="Noun"/>
+    <sdef n="np"     c="Proper noun"/>
+    <sdef n="adj"    c="Adjective"/>
+    <sdef n="det"    c="Determiner"/>
+    <sdef n="adv"    c="Adverb"/>
+    <sdef n="pr"     c="Preposition"/>
+    <sdef n="prn"    c="Pronoun"/>
+    <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub" c="Sub-ordinating conjunction"/>
+    <sdef n="vblex"  c="Verb"/>
+    <sdef n="itg"    c="Interrogative"/>
+    <sdef n="ij"     c="Interjection"/>
+
+    <sdef n="ant"    c="Anthroponym"/>
+
+    <sdef n="subj"   c="Subject"/>
+    <sdef n="obj"    c="Object"/>
+
+    <sdef n="comp"   c="Comparative"/>
+
+    <sdef n="p1"     c="First person"/>
+    <sdef n="p2"     c="Second person"/>
+    <sdef n="p3"     c="Third person"/>
+
+    <sdef n="mf"     c="Masculine + feminine"/>
+    <sdef n="m"      c="Masculine"/>
+    <sdef n="f"      c="Feminine"/>
+    <sdef n="GU"     c="Gender Unknown"/>
+
+    <sdef n="sp"     c="Singular + plural"/>
+    <sdef n="sg"     c="Singular"/>
+    <sdef n="pl"     c="Plural"/>
+    <sdef n="com"    c="Common"/>
+
+    <sdef n="cni"    c="Conditional"/>
+    <sdef n="fti"    c="Future"/>
+    <sdef n="ftr"    c="Future Relative"/>
+    <sdef n="ger"    c="Gerund"/>
+    <sdef n="imp"    c="Imperative"/>
+    <sdef n="past"   c="Past"/>
+    <sdef n="pp"     c="Past Participle"/>
+
+    <sdef n="ind"    c="Indefinite"/>
+    <sdef n="pos"    c="Possessive"/>
+    <sdef n="dem"    c="Determiner"/>
+  </sdefs>
 
   <section id="main" type="standard">
     <!-- Prepositions -->
@@ -8331,7 +8377,7 @@
     <e><p><l>iníon<s n="n"/><s n="f"/></l><r>inneen<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>iníor<s n="n"/><s n="m"/></l><r>aber<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Inis<b/>Iocht<s n="n"/><s n="f"/></l><r>Ellan<b/>Eeaght<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Inis<b/>Meáin<s n="n"/><s n="f"/></l><r>Inis<b/>Meáin<s n="n"/><s n=",Inis<b/>Meáin"/></r></p></e>
+    <e><p><l>Inis<b/>Meáin<s n="n"/><s n="f"/></l><r>Inis<b/>Meáin<s n="n"/><s n="GU"/></r></p></e>
     <e><p><l>inísle<s n="n"/><s n="f"/></l><r>injillid<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>inis<s n="n"/><s n="f"/></l><r>innis<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>iniúchadh<s n="n"/><s n="m"/></l><r>scrutaght<s n="n"/><s n="f"/></r></p></e>
