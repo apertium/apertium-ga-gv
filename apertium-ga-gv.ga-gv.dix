@@ -17480,14 +17480,25 @@
     <!-- Adjectives -->
     <e><p><l>ábalta<s n="adj"/></l><r>jargal<s n="adj"/></r></p></e>
     <e><p><l>abartha<s n="adj"/></l><r>keayllagh<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>ceathair<s n="adj"/></l><r>kiare<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>cúig<s n="adj"/></l><r>queig<s n="adj"/></r></p></e>
     <e><p><l>á<b/>dheisiú<s n="adj"/></l><r>dy<b/>charraghey<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>dó<s n="adj"/></l><r>daa<s n="adj"/></r></p></e>
     <e><p><l>ábhachtach<s n="adj"/></l><r>spotchagh<s n="adj"/></r></p></e>
     <e><p><l>abhaile<s n="adj"/></l><r>dy<b/>valley<s n="adj"/></r></p></e>
     <e><p><l>ábhailleach<s n="adj"/></l><r>olkyssagh<s n="adj"/></r></p></e>
     <e><p><l>ábhalmhór<s n="adj"/></l><r>buillvollee<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>haon<b/>déag<s n="adj"/></l><r>nane-jeig<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>haon<s n="adj"/></l><r>unnane<s n="adj"/></r></p></e>
     <e><p><l>abhcach<s n="adj"/></l><r>crivassanagh<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>hocht<s n="adj"/></l><r>hoght<s n="adj"/></r></p></e>
     <e><p><l>a<b/>liacht<s n="adj"/></l><r>whilleen<s n="adj"/></r></p></e>
     <e><p><l>a<b/>mbeidh<b/>cuimhne<b/>air<s n="adj"/></l><r>imraagh<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>naoi<s n="adj"/></l><r>nuy<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>seacht<s n="adj"/></l><r>shiaght<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>sé<s n="adj"/></l><r>shey<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>trí<s n="adj"/></l><r>tree<s n="adj"/></r></p></e>
+    <e><p><l>acadúil<s n="adj"/></l><r>acadoil<s n="adj"/></r></p></e>
     <e><p><l>acaointeach<s n="adj"/></l><r>dobberanagh<s n="adj"/></r></p></e>
     <e><p><l>achainíoch<s n="adj"/></l><r>croaganagh<s n="adj"/></r></p></e>
     <e><p><l>achasánach<s n="adj"/></l><r>oghsanagh<s n="adj"/></r></p></e>
@@ -17496,13 +17507,16 @@
     <e><p><l>aclaí<s n="adj"/></l><r>jesh-laueagh<s n="adj"/></r></p></e>
     <e><p><l>acmhainneach<s n="adj"/></l><r>beayn-hassooagh<s n="adj"/></r></p></e>
     <e><p><l>acrach<s n="adj"/></l><r>ymmydoil<s n="adj"/></r></p></e>
+    <e><p><l>adamhach<s n="adj"/></l><r>breneenagh<s n="adj"/></r></p></e>
     <e><p><l>adhaltrach<s n="adj"/></l><r>adultrinagh<s n="adj"/></r></p></e>
     <e><p><l>adhantach<s n="adj"/></l><r>chentagh<s n="adj"/></r></p></e>
     <e><p><l>adhmadúil<s n="adj"/></l><r>fuyghoil<s n="adj"/></r></p></e>
+    <e><p><l>adhmaid<s n="adj"/></l><r>maidjey<s n="adj"/></r></p></e>
     <e><p><l>adhnáireach<s n="adj"/></l><r>nearagh<s n="adj"/></r></p></e>
     <e><p><l>ádhúil<s n="adj"/></l><r>sonney<s n="adj"/></r></p></e>
     <e><p><l>aduain<s n="adj"/></l><r>joarree<s n="adj"/></r></p></e>
     <e><p><l>Aeigéach<s n="adj"/></l><r>Aejeeanagh<s n="adj"/></r></p></e>
+    <e><p><l>aeistéitiúil<s n="adj"/></l><r>aesthetagh<s n="adj"/></r></p></e>
     <e><p><l>Aeólach<s n="adj"/></l><r>Aeoleeanagh<s n="adj"/></r></p></e>
     <e><p><l>aerach<s n="adj"/></l><r>aeragh<s n="adj"/></r></p></e>
     <e><p><l>aerachtúil<s n="adj"/></l><r>neuheiltagh<s n="adj"/></r></p></e>
@@ -17527,6 +17541,8 @@
     <e><p><l>aibhéiseach<s n="adj"/></l><r>charvaalagh<s n="adj"/></r></p></e>
     <e><p><l>aibhneach<s n="adj"/></l><r>awinagh<s n="adj"/></r></p></e>
     <e><p><l>Aibisíneach<s n="adj"/></l><r>Abysseenagh<s n="adj"/></r></p></e>
+    <e><p><l>aibí<s n="adj"/></l><r>appee<s n="adj"/></r></p></e>
+    <e><p><l>aibítreach<s n="adj"/></l><r>abbyrlhitagh<s n="adj"/></r></p></e>
     <e><p><l>aicídeach<s n="adj"/></l><r>gorlagh<s n="adj"/></r></p></e>
     <e><p><l>aiciseach<s n="adj"/></l><r>elgyssagh<s n="adj"/></r></p></e>
     <e><p><l>aicmiúil<s n="adj"/></l><r>scarreydagh<s n="adj"/></r></p></e>
@@ -17637,6 +17653,7 @@
     <e><p><l>amach<s n="adj"/></l><r>magh<s n="adj"/></r></p></e>
     <e><p><l>amadánta<s n="adj"/></l><r>ommidjagh<s n="adj"/></r></p></e>
     <e><p><l>amaideach<s n="adj"/></l><r>ommidagh<s n="adj"/></r></p></e>
+    <e><p><l>amaitéarach<s n="adj"/></l><r>ancheirdagh<s n="adj"/></r></p></e>
     <e><p><l>amárach<s n="adj"/></l><r>mairagh<s n="adj"/></r></p></e>
     <e><p><l>amfaibiach<s n="adj"/></l><r>daa-veaghagh<s n="adj"/></r></p></e>
     <e><p><l>amháin<s n="adj"/></l><r>ynrican<s n="adj"/></r></p></e>
@@ -17650,11 +17667,13 @@
     <e><p><l>amhulchach<s n="adj"/></l><r>lhome-gheayshagh<s n="adj"/></r></p></e>
     <e><p><l>amplach<s n="adj"/></l><r>jollyssagh<s n="adj"/></r></p></e>
     <e><p><l>amuigh<s n="adj"/></l><r>mooie<s n="adj"/></r></p></e>
+    <e><p><l>amú<s n="adj"/></l><r>er-shaghryn<s n="adj"/></r></p></e>
     <e><p><l>anabaí<s n="adj"/></l><r>anappee<s n="adj"/></r></p></e>
     <e><p><l>anacair<s n="adj"/></l><r>corragh<s n="adj"/></r></p></e>
     <e><p><l>anacrach<s n="adj"/></l><r>seaghnagh<s n="adj"/></r></p></e>
     <e><p><l>anaemach<s n="adj"/></l><r>aneemagh<s n="adj"/></r></p></e>
     <e><p><l>anailgéiseach<s n="adj"/></l><r>moogheyder<b/>pian<s n="adj"/></r></p></e>
+    <e><p><l>anaithnid<s n="adj"/></l><r>gyn<b/>enney<s n="adj"/></r></p></e>
     <e><p><l>análach<s n="adj"/></l><r>ennalagh<s n="adj"/></r></p></e>
     <e><p><l>analachúil<s n="adj"/></l><r>rere<b/>cosoyley<s n="adj"/></r></p></e>
     <e><p><l>analógach<s n="adj"/></l><r>cosoylaghyn<b/>rish<s n="adj"/></r></p></e>
@@ -17664,14 +17683,28 @@
     <e><p><l>anásta<s n="adj"/></l><r>maaigerey<s n="adj"/></r></p></e>
     <e><p><l>anbhann<s n="adj"/></l><r>annoonagh<s n="adj"/></r></p></e>
     <e><p><l>an-bheag<s n="adj"/></l><r>minniagagh<s n="adj"/></r></p></e>
+    <e><p><l>an-bhródúil<s n="adj"/></l><r>feer<b/>mooaralagh<s n="adj"/></r></p></e>
+    <e><p><l>an-bhuíoch<s n="adj"/></l><r>feer<b/>booiagh<s n="adj"/></r></p></e>
+    <e><p><l>an-chosúil<s n="adj"/></l><r>feer<b/>casley<s n="adj"/></r></p></e>
+    <e><p><l>an-chrua<s n="adj"/></l><r>feer<b/>creoi<s n="adj"/></r></p></e>
     <e><p><l>anchruthach<s n="adj"/></l><r>mee-chummit<s n="adj"/></r></p></e>
     <e><p><l>anchúinseach<s n="adj"/></l><r>anreiltagh<s n="adj"/></r></p></e>
     <e><p><l>anchumtha<s n="adj"/></l><r>mee-chummit<s n="adj"/></r></p></e>
+    <e><p><l>an-chúramach<s n="adj"/></l><r>feer<b/>currymagh<s n="adj"/></r></p></e>
     <e><p><l>andána<s n="adj"/></l><r>meearreydagh<s n="adj"/></r></p></e>
+    <e><p><l>an-deacair<s n="adj"/></l><r>feer<b/>doccar<s n="adj"/></r></p></e>
+    <e><p><l>an-dearfach<s n="adj"/></l><r>feer<b/>jarrooagh<s n="adj"/></r></p></e>
+    <e><p><l>an-deas<s n="adj"/></l><r>feer<b/>jesh<s n="adj"/></r></p></e>
+    <e><p><l>an-difriúil<s n="adj"/></l><r>feer<b/>anchasley<s n="adj"/></r></p></e>
+    <e><p><l>an-díomách<s n="adj"/></l><r>feer<b/>doolagh<s n="adj"/></r></p></e>
     <e><p><l>andóchasach<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>andúileach<s n="adj"/></l><r>neu-lhiggagh<s n="adj"/></r></p></e>
+    <e><p><l>an-éagsúil<s n="adj"/></l><r>feer<b/>anchasley<s n="adj"/></r></p></e>
+    <e><p><l>an-éasca<s n="adj"/></l><r>feer<b/>aashagh<s n="adj"/></r></p></e>
     <e><p><l>anfach<s n="adj"/></l><r>dorrinagh<s n="adj"/></r></p></e>
+    <e><p><l>an-fhada<s n="adj"/></l><r>feer<b/>liauyr<s n="adj"/></r></p></e>
     <e><p><l>angaíoch<s n="adj"/></l><r>ingyragh<s n="adj"/></r></p></e>
+    <e><p><l>an-ghnóthach<s n="adj"/></l><r>feer<b/>tarroogh<s n="adj"/></r></p></e>
     <e><p><l>anghrách<s n="adj"/></l><r>an-ghraagh<s n="adj"/></r></p></e>
     <e><p><l>Angla-Caitliceach<s n="adj"/></l><r>Anglo-Catoleagh<s n="adj"/></r></p></e>
     <e><p><l>Anglacánach<s n="adj"/></l><r>Anglicaanagh<s n="adj"/></r></p></e>
@@ -17679,31 +17712,44 @@
     <e><p><l>Angla-Indiach<s n="adj"/></l><r>Anglo-Injinagh<s n="adj"/></r></p></e>
     <e><p><l>anglánta<s n="adj"/></l><r>granganagh<s n="adj"/></r></p></e>
     <e><p><l>Angla-Shacsanach<s n="adj"/></l><r>Anglo-Hostnagh<s n="adj"/></r></p></e>
+    <e><p><l>an-íseal<s n="adj"/></l><r>feer<b/>injil<s n="adj"/></r></p></e>
+    <e><p><l>an-lag<s n="adj"/></l><r>feer<b/>lag<s n="adj"/></r></p></e>
+    <e><p><l>an-láidir<s n="adj"/></l><r>feer<b/>lajer<s n="adj"/></r></p></e>
     <e><p><l>an-lasánta<s n="adj"/></l><r>gyn<b/>thort<s n="adj"/></r></p></e>
     <e><p><l>anlathach<s n="adj"/></l><r>tranlaasagh<s n="adj"/></r></p></e>
     <e><p><l>an-mhaith<s n="adj"/></l><r>ard-ooasle<s n="adj"/></r></p></e>
     <e><p><l>an-mhór<s n="adj"/></l><r>foawragh<s n="adj"/></r></p></e>
     <e><p><l>annalach<s n="adj"/></l><r>fainoil<s n="adj"/></r></p></e>
-    <e><p><l>annamh<s n="adj"/></l><r>goaney<s n="adj"/></r></p></e>
+    <e><p><l>annamh<s n="adj"/></l><r>goan<s n="adj"/></r></p></e>
     <e><p><l>ann<b/>as<s n="adj"/></l><r>ayn-ass<s n="adj"/></r></p></e>
     <e><p><l>ann<b/>féin<s n="adj"/></l><r>undinagh<s n="adj"/></r></p></e>
+    <e><p><l>an-óg<s n="adj"/></l><r>feer<b/>aeg<s n="adj"/></r></p></e>
     <e><p><l>anóiteach<s n="adj"/></l><r>meegherjoilagh<s n="adj"/></r></p></e>
     <e><p><l>anróiteach<s n="adj"/></l><r>creoi<s n="adj"/></r></p></e>
     <e><p><l>ansa<s n="adj"/></l><r>s'deyr<s n="adj"/></r></p></e>
+    <e><p><l>an-sásta<s n="adj"/></l><r>feer<b/>sassit<s n="adj"/></r></p></e>
+    <e><p><l>an-simplí<s n="adj"/></l><r>feer<b/>neuchramp<s n="adj"/></r></p></e>
     <e><p><l>ansmachtúil<s n="adj"/></l><r>tranlaasagh<s n="adj"/></r></p></e>
+    <e><p><l>an-spéisiúil<s n="adj"/></l><r>feer<b/>symoil<s n="adj"/></r></p></e>
+    <e><p><l>an-suimiúil<s n="adj"/></l><r>feer<b/>symoil<s n="adj"/></r></p></e>
+    <e><p><l>an-suntasach<s n="adj"/></l><r>feer<b/>cronnalagh<s n="adj"/></r></p></e>
     <e><p><l>an-tábhachtach<s n="adj"/></l><r>scanshoil<s n="adj"/></r></p></e>
     <e><p><l>antaibheathach<s n="adj"/></l><r>noi-vaagh<s n="adj"/></r></p></e>
     <e><p><l>antaiseipteach<s n="adj"/></l><r>noi-yngyragh<s n="adj"/></r></p></e>
     <e><p><l>Antartach<s n="adj"/></l><r>Antarctagh<s n="adj"/></r></p></e>
+    <e><p><l>an-teoranta<s n="adj"/></l><r>feer<b/>cheorit<s n="adj"/></r></p></e>
+    <e><p><l>an-te<s n="adj"/></l><r>feer<b/>cheh<s n="adj"/></r></p></e>
     <e><p><l>an-tinn<s n="adj"/></l><r>donney<s n="adj"/></r></p></e>
     <e><p><l>antlásach<s n="adj"/></l><r>sondagh<s n="adj"/></r></p></e>
     <e><p><l>antrapóideach<s n="adj"/></l><r>antrapoydagh<s n="adj"/></r></p></e>
     <e><p><l>antráthach<s n="adj"/></l><r>antraaoil<s n="adj"/></r></p></e>
     <e><p><l>anuasal<s n="adj"/></l><r>anooasle<s n="adj"/></r></p></e>
+    <e><p><l>an-úsáideach<s n="adj"/></l><r>feer<b/>ymmydagh<s n="adj"/></r></p></e>
     <e><p><l>aoibhinn<s n="adj"/></l><r>eunyssagh<s n="adj"/></r></p></e>
     <e><p><l>aoibhiúil<s n="adj"/></l><r>ennoil<s n="adj"/></r></p></e>
     <e><p><l>aolmhar<s n="adj"/></l><r>theillagh<s n="adj"/></r></p></e>
     <e><p><l>Aonaíoch<s n="adj"/></l><r>Aneeagh<s n="adj"/></r></p></e>
+    <e><p><l>aonarach<s n="adj"/></l><r>ynrican<s n="adj"/></r></p></e>
     <e><p><l>aonaránach<s n="adj"/></l><r>lomarcan<s n="adj"/></r></p></e>
     <e><p><l>aon<b/>le<b/>haon<s n="adj"/></l><r>nane<b/>rish<b/>nane<s n="adj"/></r></p></e>
     <e><p><l>aonchéileach<s n="adj"/></l><r>uncheillagh<s n="adj"/></r></p></e>
@@ -17714,6 +17760,9 @@
     <e><p><l>aonfhiúsach<s n="adj"/></l><r>unchianglagh<s n="adj"/></r></p></e>
     <e><p><l>aonghnéasach<s n="adj"/></l><r>un-ghreasagh<s n="adj"/></r></p></e>
     <e><p><l>aonraic<s n="adj"/></l><r>ynrycan<s n="adj"/></r></p></e>
+    <e><p><l>aon<s n="adj"/></l><r>un<s n="adj"/></r></p></e>
+    <e><p><l>aontachtach<s n="adj"/></l><r>unnaneys<s n="adj"/></r></p></e>
+    <e><p><l>Aontachtach<s n="adj"/></l><r>Unnaneys<s n="adj"/></r></p></e>
     <e><p><l>aontaitheach<s n="adj"/></l><r>joinagh<s n="adj"/></r></p></e>
     <e><p><l>aontaithe<s n="adj"/></l><r>unnaneysit<s n="adj"/></r></p></e>
     <e><p><l>aontaobhach<s n="adj"/></l><r>un-cheuagh<s n="adj"/></r></p></e>
@@ -17721,6 +17770,7 @@
     <e><p><l>aontonach<s n="adj"/></l><r>unsheeanagh<s n="adj"/></r></p></e>
     <e><p><l>aontreoch<s n="adj"/></l><r>un-troagh<s n="adj"/></r></p></e>
     <e><p><l>aontumha<s n="adj"/></l><r>gyn<b/>poosey<s n="adj"/></r></p></e>
+    <e><p><l>aonú<s n="adj"/></l><r>chied<s n="adj"/></r></p></e>
     <e><p><l>aosáideach<s n="adj"/></l><r>sasdagh<s n="adj"/></r></p></e>
     <e><p><l>aosta<s n="adj"/></l><r>eashit<s n="adj"/></r></p></e>
     <e><p><l>apacailipteach<s n="adj"/></l><r>taishbynagh<s n="adj"/></r></p></e>
@@ -17880,6 +17930,7 @@
     <e><p><l>baineanda<s n="adj"/></l><r>dendeaysagh<s n="adj"/></r></p></e>
     <e><p><l>baineannach<s n="adj"/></l><r>bwoirrinagh<s n="adj"/></r></p></e>
     <e><p><l>baineann<s n="adj"/></l><r>bwoirrin<s n="adj"/></r></p></e>
+    <e><p><l>baininscneach<s n="adj"/></l><r>bwoirrin<s n="adj"/></r></p></e>
     <e><p><l>bainisteoireach<s n="adj"/></l><r>reiragh<s n="adj"/></r></p></e>
     <e><p><l>bainistíoch<s n="adj"/></l><r>ladoosagh<s n="adj"/></r></p></e>
     <e><p><l>bainniúil<s n="adj"/></l><r>bainnagh<s n="adj"/></r></p></e>
@@ -17892,6 +17943,7 @@
     <e><p><l>balbh<s n="adj"/></l><r>balloo<s n="adj"/></r></p></e>
     <e><p><l>ballach<s n="adj"/></l><r>breck<s n="adj"/></r></p></e>
     <e><p><l>balsamach<s n="adj"/></l><r>balsymagh<s n="adj"/></r></p></e>
+    <e><p><l>Baltach<s n="adj"/></l><r>Baltagh<s n="adj"/></r></p></e>
     <e><p><l>bambach<s n="adj"/></l><r>tooilleilagh<s n="adj"/></r></p></e>
     <e><p><l>bambairneach<s n="adj"/></l><r>tarmestagh<s n="adj"/></r></p></e>
     <e><p><l>bancbhriste<s n="adj"/></l><r>banc-vrisht<s n="adj"/></r></p></e>
@@ -17956,6 +18008,7 @@
     <e><p><l>beannach<s n="adj"/></l><r>eairkagh<s n="adj"/></r></p></e>
     <e><p><l>beannaitheach<s n="adj"/></l><r>flaunyssagh<s n="adj"/></r></p></e>
     <e><p><l>beannaithe<s n="adj"/></l><r>bannee<s n="adj"/></r></p></e>
+    <e><p><l>Béarla-Gaeilge<s n="adj"/></l><r>Baarlagh-Yernish<s n="adj"/></r></p></e>
     <e><p><l>bearnach<s n="adj"/></l><r>barnagh<s n="adj"/></r></p></e>
     <e><p><l>beartach<s n="adj"/></l><r>bartagh<s n="adj"/></r></p></e>
     <e><p><l>beartaithe<s n="adj"/></l><r>reaghit<s n="adj"/></r></p></e>
@@ -18150,6 +18203,7 @@
     <e><p><l>caidéiseach<s n="adj"/></l><r>fysseragh<s n="adj"/></r></p></e>
     <e><p><l>cáidheach<s n="adj"/></l><r>sallagh<s n="adj"/></r></p></e>
     <e><p><l>caifeach<s n="adj"/></l><r>ceautagh<s n="adj"/></r></p></e>
+    <e><p><l>caighdeánach<s n="adj"/></l><r>chadjinit<s n="adj"/></r></p></e>
     <e><p><l>caighdeánaithe<s n="adj"/></l><r>bun-towshanit<s n="adj"/></r></p></e>
     <e><p><l>cailceach<s n="adj"/></l><r>kelkagh<s n="adj"/></r></p></e>
     <e><p><l>Caildéach<s n="adj"/></l><r>Chaldeanagh<s n="adj"/></r></p></e>
@@ -18190,6 +18244,7 @@
     <e><p><l>camshrónach<s n="adj"/></l><r>cam-stronnagh<s n="adj"/></r></p></e>
     <e><p><l>cam<s n="adj"/></l><r>cam<s n="adj"/></r></p></e>
     <e><p><l>canablach<s n="adj"/></l><r>canniblagh<s n="adj"/></r></p></e>
+    <e><p><l>Canárach<s n="adj"/></l><r>Canaaragh<s n="adj"/></r></p></e>
     <e><p><l>cancrach<s n="adj"/></l><r>granganagh<s n="adj"/></r></p></e>
     <e><p><l>cannaithe<s n="adj"/></l><r>stainnit<s n="adj"/></r></p></e>
     <e><p><l>canónta<s n="adj"/></l><r>canoanagh<s n="adj"/></r></p></e>
@@ -18205,6 +18260,7 @@
     <e><p><l>caolchrúbach<s n="adj"/></l><r>keyl-chroobagh<s n="adj"/></r></p></e>
     <e><p><l>caolchúiseach<s n="adj"/></l><r>keyl-chooishagh<s n="adj"/></r></p></e>
     <e><p><l>caol<s n="adj"/></l><r>keyl<s n="adj"/></r></p></e>
+    <e><p><l>caomhach<s n="adj"/></l><r>cumaadagh<s n="adj"/></r></p></e>
     <e><p><l>caomhnach<s n="adj"/></l><r>cumaadagh<s n="adj"/></r></p></e>
     <e><p><l>caomh<s n="adj"/></l><r>bwoyagh<s n="adj"/></r></p></e>
     <e><p><l>caordhearg<s n="adj"/></l><r>ruissagh<s n="adj"/></r></p></e>
@@ -18221,11 +18277,12 @@
     <e><p><l>casaoideach<s n="adj"/></l><r>accanagh<s n="adj"/></r></p></e>
     <e><p><l>cásmhar<s n="adj"/></l><r>frioosagh<s n="adj"/></r></p></e>
     <e><p><l>cas<s n="adj"/></l><r>cast<s n="adj"/></r></p></e>
-    <e><p><l>casta<s n="adj"/></l><r>keishtagh<s n="adj"/></r></p></e>
+    <e><p><l>casta<s n="adj"/></l><r>co-chast<s n="adj"/></r></p></e>
     <e><p><l>catalaíoch<s n="adj"/></l><r>catalytagh<s n="adj"/></r></p></e>
     <e><p><l>Catalónach<s n="adj"/></l><r>Catalonagh<s n="adj"/></r></p></e>
     <e><p><l>cathach<s n="adj"/></l><r>caggoil<s n="adj"/></r></p></e>
     <e><p><l>cathaitheach<s n="adj"/></l><r>miolagh<s n="adj"/></r></p></e>
+    <e><p><l>cathartha<s n="adj"/></l><r>baljagh<s n="adj"/></r></p></e>
     <e><p><l>cathbhuach<s n="adj"/></l><r>barrialtagh<s n="adj"/></r></p></e>
     <e><p><l>cathrach<s n="adj"/></l><r>baljagh<s n="adj"/></r></p></e>
     <e><p><l>catúil<s n="adj"/></l><r>kaytoil<s n="adj"/></r></p></e>
@@ -18254,6 +18311,7 @@
     <e><p><l>ceannláidir<s n="adj"/></l><r>raghtanagh<s n="adj"/></r></p></e>
     <e><p><l>ceannliath<s n="adj"/></l><r>lheeah<s n="adj"/></r></p></e>
     <e><p><l>ceann-nochta<s n="adj"/></l><r>kione-rooisht<s n="adj"/></r></p></e>
+    <e><p><l>ceannródaíoch<s n="adj"/></l><r>kioneraadagh<s n="adj"/></r></p></e>
     <e><p><l>ceanntréan<s n="adj"/></l><r>raghtanagh<s n="adj"/></r></p></e>
     <e><p><l>ceanntrom<s n="adj"/></l><r>kione-hrome<s n="adj"/></r></p></e>
     <e><p><l>ceansa<s n="adj"/></l><r>meein<s n="adj"/></r></p></e>
@@ -18273,11 +18331,13 @@
     <e><p><l>céasta<s n="adj"/></l><r>crossit<s n="adj"/></r></p></e>
     <e><p><l>ceasúil<s n="adj"/></l><r>neulheieagh<s n="adj"/></r></p></e>
     <e><p><l>ceathach<s n="adj"/></l><r>fliaghee<s n="adj"/></r></p></e>
+    <e><p><l>ceathair<b/>déag<s n="adj"/></l><r>kiare-jeig<s n="adj"/></r></p></e>
     <e><p><l>ceathairchodach<s n="adj"/></l><r>kiare-filley<s n="adj"/></r></p></e>
     <e><p><l>ceathairchosach<s n="adj"/></l><r>kiare-chassagh<s n="adj"/></r></p></e>
     <e><p><l>ceathairchúinneach<s n="adj"/></l><r>kiare-corneilagh<s n="adj"/></r></p></e>
     <e><p><l>ceathair-rothach<s n="adj"/></l><r>kiare-wheeyllagh<s n="adj"/></r></p></e>
     <e><p><l>ceathairshleasach<s n="adj"/></l><r>kiare-lhiatteeagh<s n="adj"/></r></p></e>
+    <e><p><l>ceathair<s n="adj"/></l><r>kiare<s n="adj"/></r></p></e>
     <e><p><l>ceathairuilleach<s n="adj"/></l><r>kiare-uillinagh<s n="adj"/></r></p></e>
     <e><p><l>ceathartha<s n="adj"/></l><r>kiaroil<s n="adj"/></r></p></e>
     <e><p><l>ceathrú<s n="adj"/></l><r>kiarroo<s n="adj"/></r></p></e>
@@ -18290,6 +18350,7 @@
     <e><p><l>céimneach<s n="adj"/></l><r>feeacklagh<s n="adj"/></r></p></e>
     <e><p><l>céimseach<s n="adj"/></l><r>keimagh<s n="adj"/></r></p></e>
     <e><p><l>Céiniach<s n="adj"/></l><r>Keynyagh<s n="adj"/></r></p></e>
+    <e><p><l>ceirbheacsach<s n="adj"/></l><r>mhuinneelagh<s n="adj"/></r></p></e>
     <e><p><l>ceirde<s n="adj"/></l><r>keirdey<s n="adj"/></r></p></e>
     <e><p><l>céiriúil<s n="adj"/></l><r>kereagh<s n="adj"/></r></p></e>
     <e><p><l>ceirmeach<s n="adj"/></l><r>pashagh<s n="adj"/></r></p></e>
@@ -18381,6 +18442,7 @@
     <e><p><l>ciallmhar<s n="adj"/></l><r>resoonagh<s n="adj"/></r></p></e>
     <e><p><l>cianach<s n="adj"/></l><r>accanagh<s n="adj"/></r></p></e>
     <e><p><l>cianaosta<s n="adj"/></l><r>bun-eashagh<s n="adj"/></r></p></e>
+    <e><p><l>cian<s n="adj"/></l><r>foddey<s n="adj"/></r></p></e>
     <e><p><l>ciapach<s n="adj"/></l><r>caulgagh<s n="adj"/></r></p></e>
     <e><p><l>ciarach<s n="adj"/></l><r>kereagh<s n="adj"/></r></p></e>
     <e><p><l>ciarbhuí<s n="adj"/></l><r>cartagh<s n="adj"/></r></p></e>
@@ -18434,11 +18496,13 @@
     <e><p><l>cleachta<s n="adj"/></l><r>cliaghtit<s n="adj"/></r></p></e>
     <e><p><l>cleasach<s n="adj"/></l><r>cleaysagh<s n="adj"/></r></p></e>
     <e><p><l>cleiteach<s n="adj"/></l><r>fedjagagh<s n="adj"/></r></p></e>
+    <e><p><l>clé<s n="adj"/></l><r>kiare<s n="adj"/></r></p></e>
     <e><p><l>cliarlathach<s n="adj"/></l><r>ard-chleragh<s n="adj"/></r></p></e>
     <e><p><l>cliathach<s n="adj"/></l><r>innagh<s n="adj"/></r></p></e>
     <e><p><l>cliathánach<s n="adj"/></l><r>cheualagh<s n="adj"/></r></p></e>
     <e><p><l>clibíneach<s n="adj"/></l><r>dossanagh<s n="adj"/></r></p></e>
     <e><p><l>clingeach<s n="adj"/></l><r>lhiantagh<s n="adj"/></r></p></e>
+    <e><p><l>cliniciúil<s n="adj"/></l><r>clinicoil<s n="adj"/></r></p></e>
     <e><p><l>clíomach<s n="adj"/></l><r>speyragh<s n="adj"/></r></p></e>
     <e><p><l>cliste<s n="adj"/></l><r>schleioil<s n="adj"/></r></p></e>
     <e><p><l>clochach<s n="adj"/></l><r>clettagh<s n="adj"/></r></p></e>
@@ -18446,6 +18510,7 @@
     <e><p><l>clóchasach<s n="adj"/></l><r>assagagh<s n="adj"/></r></p></e>
     <e><p><l>clogach<s n="adj"/></l><r>troggit<s n="adj"/></r></p></e>
     <e><p><l>clóghrafach<s n="adj"/></l><r>clougraafagh<s n="adj"/></r></p></e>
+    <e><p><l>cloiche<s n="adj"/></l><r>cloaie<s n="adj"/></r></p></e>
     <e><p><l>cloichíneach<s n="adj"/></l><r>shilleeagh<s n="adj"/></r></p></e>
     <e><p><l>cloigíneach<s n="adj"/></l><r>dossanagh<s n="adj"/></r></p></e>
     <e><p><l>cloíteach<s n="adj"/></l><r>jeeigeyragh<s n="adj"/></r></p></e>
@@ -18513,6 +18578,7 @@
     <e><p><l>Coireallach<s n="adj"/></l><r>Kyrillagh<s n="adj"/></r></p></e>
     <e><p><l>cóirithe<s n="adj"/></l><r>kiarit<s n="adj"/></r></p></e>
     <e><p><l>cóiriúil<s n="adj"/></l><r>foayroil<s n="adj"/></r></p></e>
+    <e><p><l>coiriúil<s n="adj"/></l><r>kyndagh<s n="adj"/></r></p></e>
     <e><p><l>coirníneach<s n="adj"/></l><r>cruinneenagh<s n="adj"/></r></p></e>
     <e><p><l>cóir<s n="adj"/></l><r>coar<s n="adj"/></r></p></e>
     <e><p><l>coirteach<s n="adj"/></l><r>kortagh<s n="adj"/></r></p></e>
@@ -18521,6 +18587,7 @@
     <e><p><l>coisctheach<s n="adj"/></l><r>lhiettalagh<s n="adj"/></r></p></e>
     <e><p><l>coiscthe<s n="adj"/></l><r>castit<s n="adj"/></r></p></e>
     <e><p><l>coisricthe<s n="adj"/></l><r>casherick<s n="adj"/></r></p></e>
+    <e><p><l>coiteann<s n="adj"/></l><r>cadjin<s n="adj"/></r></p></e>
     <e><p><l>coitianta<s n="adj"/></l><r>cadjin<s n="adj"/></r></p></e>
     <e><p><l>coláisteach<s n="adj"/></l><r>colaashtagh<s n="adj"/></r></p></e>
     <e><p><l>colanda<s n="adj"/></l><r>callinagh<s n="adj"/></r></p></e>
@@ -18567,7 +18634,9 @@
     <e><p><l>comhlíonta<s n="adj"/></l><r>cooilleenit<s n="adj"/></r></p></e>
     <e><p><l>comhluadrach<s n="adj"/></l><r>cooidjaghtagh<s n="adj"/></r></p></e>
     <e><p><l>comhoideachasúil<s n="adj"/></l><r>co-ynsee<s n="adj"/></r></p></e>
+    <e><p><l>comhoiriúnach<s n="adj"/></l><r>freggyrtagh<s n="adj"/></r></p></e>
     <e><p><l>comhraiceach<s n="adj"/></l><r>co-strooanagh<s n="adj"/></r></p></e>
+    <e><p><l>comhráiteach<s n="adj"/></l><r>coloayrtysagh<s n="adj"/></r></p></e>
     <e><p><l>comhréireach<s n="adj"/></l><r>coreiragh<s n="adj"/></r></p></e>
     <e><p><l>comhshleasach<s n="adj"/></l><r>co-lystagh<s n="adj"/></r></p></e>
     <e><p><l>comhtháite<s n="adj"/></l><r>co-ghreimmagh<s n="adj"/></r></p></e>
@@ -18587,6 +18656,7 @@
     <e><p><l>confach<s n="adj"/></l><r>groamagh<s n="adj"/></r></p></e>
     <e><p><l>cóngarach<s n="adj"/></l><r>ienchyssagh<s n="adj"/></r></p></e>
     <e><p><l>conláisteach<s n="adj"/></l><r>ienchyssagh<s n="adj"/></r></p></e>
+    <e><p><l>Connachtach<s n="adj"/></l><r>Connaghtagh<s n="adj"/></r></p></e>
     <e><p><l>connalbhach<s n="adj"/></l><r>graihagh<s n="adj"/></r></p></e>
     <e><p><l>consaeitiúil<s n="adj"/></l><r>corvianagh<s n="adj"/></r></p></e>
     <e><p><l>consalach<s n="adj"/></l><r>consyllagh<s n="adj"/></r></p></e>
@@ -18600,6 +18670,7 @@
     <e><p><l>Cornach<s n="adj"/></l><r>Cornagh<s n="adj"/></r></p></e>
     <e><p><l>corónach<s n="adj"/></l><r>coroanagh<s n="adj"/></r></p></e>
     <e><p><l>corpanta<s n="adj"/></l><r>mooar-volgagh<s n="adj"/></r></p></e>
+    <e><p><l>corparáideach<s n="adj"/></l><r>co-chorpagh<s n="adj"/></r></p></e>
     <e><p><l>corpartha<s n="adj"/></l><r>callinagh<s n="adj"/></r></p></e>
     <e><p><l>corprach<s n="adj"/></l><r>nheeoil<s n="adj"/></r></p></e>
     <e><p><l>corrabhuaiseach<s n="adj"/></l><r>neuaashagh<s n="adj"/></r></p></e>
@@ -18668,6 +18739,7 @@
     <e><p><l>críonna<s n="adj"/></l><r>creeney<s n="adj"/></r></p></e>
     <e><p><l>críon<s n="adj"/></l><r>creen<s n="adj"/></r></p></e>
     <e><p><l>criosach<s n="adj"/></l><r>cryssagh<s n="adj"/></r></p></e>
+    <e><p><l>Críostaí<s n="adj"/></l><r>Creestee<s n="adj"/></r></p></e>
     <e><p><l>criostalta<s n="adj"/></l><r>crystallagh<s n="adj"/></r></p></e>
     <e><p><l>Críostúil<s n="adj"/></l><r>giastyllagh<s n="adj"/></r></p></e>
     <e><p><l>critheaglach<s n="adj"/></l><r>aggleydagh<s n="adj"/></r></p></e>
@@ -18720,8 +18792,11 @@
     <e><p><l>cuibhiúil<s n="adj"/></l><r>cooie<s n="adj"/></r></p></e>
     <e><p><l>cuideachtúil<s n="adj"/></l><r>cooidjaghtagh<s n="adj"/></r></p></e>
     <e><p><l>cuideáin<s n="adj"/></l><r>joarree<s n="adj"/></r></p></e>
+    <e><p><l>cuiditheach<s n="adj"/></l><r>coonee<s n="adj"/></r></p></e>
     <e><p><l>cuidiúil<s n="adj"/></l><r>keainal<s n="adj"/></r></p></e>
     <e><p><l>cuidsúlach<s n="adj"/></l><r>bwoyagh<s n="adj"/></r></p></e>
+    <e><p><l>cúig<b/>chéad<s n="adj"/></l><r>queig<b/>cheead<s n="adj"/></r></p></e>
+    <e><p><l>cúigiú<s n="adj"/></l><r>whieggoo<s n="adj"/></r></p></e>
     <e><p><l>cúigshleasach<s n="adj"/></l><r>queig-lhiatteeagh<s n="adj"/></r></p></e>
     <e><p><l>cúig<s n="adj"/></l><r>queig<s n="adj"/></r></p></e>
     <e><p><l>cuileáilte<s n="adj"/></l><r>jiooldit<s n="adj"/></r></p></e>
@@ -18763,7 +18838,9 @@
     <e><p><l>curata<s n="adj"/></l><r>trean<s n="adj"/></r></p></e>
     <e><p><l>curcach<s n="adj"/></l><r>tappagh<s n="adj"/></r></p></e>
     <e><p><l>cúthail<s n="adj"/></l><r>nearildagh<s n="adj"/></r></p></e>
+    <e><p><l>dá<b/>chéad<s n="adj"/></l><r>daa<b/>cheead<s n="adj"/></r></p></e>
     <e><p><l>daibhir<s n="adj"/></l><r>ymmyrchagh<s n="adj"/></r></p></e>
+    <e><p><l>daichead<s n="adj"/></l><r>daeed<s n="adj"/></r></p></e>
     <e><p><l>daigheartha<s n="adj"/></l><r>doccaragh<s n="adj"/></r></p></e>
     <e><p><l>dáigh<s n="adj"/></l><r>creoi<s n="adj"/></r></p></e>
     <e><p><l>dáileach<s n="adj"/></l><r>rheynnagh<s n="adj"/></r></p></e>
@@ -18797,10 +18874,12 @@
     <e><p><l>daonlathach<s n="adj"/></l><r>deynlagh<s n="adj"/></r></p></e>
     <e><p><l>daonnachtúil<s n="adj"/></l><r>miallagh<s n="adj"/></r></p></e>
     <e><p><l>daonna<s n="adj"/></l><r>dooinnoil<s n="adj"/></r></p></e>
+    <e><p><l>daonnúil<s n="adj"/></l><r>deincharrjoil<s n="adj"/></r></p></e>
     <e><p><l>daordhálach<s n="adj"/></l><r>barbaragh<s n="adj"/></r></p></e>
     <e><p><l>daor<s n="adj"/></l><r>deyr<s n="adj"/></r></p></e>
     <e><p><l>dara<s n="adj"/></l><r>derrey<s n="adj"/></r></p></e>
     <e><p><l>dásachtach<s n="adj"/></l><r>meenearagh<s n="adj"/></r></p></e>
+    <e><p><l>dá<s n="adj"/></l><r>daa<s n="adj"/></r></p></e>
     <e><p><l>dathannach<s n="adj"/></l><r>yl-daahagh<s n="adj"/></r></p></e>
     <e><p><l>dátheangach<s n="adj"/></l><r>daa-hengagh<s n="adj"/></r></p></e>
     <e><p><l>dathúil<s n="adj"/></l><r>daahoil<s n="adj"/></r></p></e>
@@ -18840,6 +18919,7 @@
     <e><p><l>deargna<s n="adj"/></l><r>neuhastagh<s n="adj"/></r></p></e>
     <e><p><l>deargrua<s n="adj"/></l><r>jiarg-ruy<s n="adj"/></r></p></e>
     <e><p><l>dearg<s n="adj"/></l><r>jiarg<s n="adj"/></r></p></e>
+    <e><p><l>dearmadach<s n="adj"/></l><r>jarroodagh<s n="adj"/></r></p></e>
     <e><p><l>dearóil<s n="adj"/></l><r>treih<s n="adj"/></r></p></e>
     <e><p><l>deasach<s n="adj"/></l><r>jeshagh<s n="adj"/></r></p></e>
     <e><p><l>deasghnách<s n="adj"/></l><r>staydoilagh<s n="adj"/></r></p></e>
@@ -18864,6 +18944,7 @@
     <e><p><l>défhócasach<s n="adj"/></l><r>daa-oacyssagh<s n="adj"/></r></p></e>
     <e><p><l>déghnéasach<s n="adj"/></l><r>daa-ghoogyssagh<s n="adj"/></r></p></e>
     <e><p><l>déhéidreach<s n="adj"/></l><r>daa-heedragh<s n="adj"/></r></p></e>
+    <e><p><l>deichiú<s n="adj"/></l><r>jeihoo<s n="adj"/></r></p></e>
     <e><p><l>deich<s n="adj"/></l><r>jeih<s n="adj"/></r></p></e>
     <e><p><l>deifreach<s n="adj"/></l><r>siyragh<s n="adj"/></r></p></e>
     <e><p><l>deilgneach<s n="adj"/></l><r>caulgagh<s n="adj"/></r></p></e>
@@ -18923,10 +19004,12 @@
     <e><p><l>difreálach<s n="adj"/></l><r>jifrealagh<s n="adj"/></r></p></e>
     <e><p><l>difriúil<s n="adj"/></l><r>anchasley<s n="adj"/></r></p></e>
     <e><p><l>dígeanta<s n="adj"/></l><r>kione-lajeragh<s n="adj"/></r></p></e>
+    <e><p><l>digiteach<s n="adj"/></l><r>bun-earrooagh<s n="adj"/></r></p></e>
     <e><p><l>díláraithe<s n="adj"/></l><r>jeeveanit<s n="adj"/></r></p></e>
     <e><p><l>díleách<s n="adj"/></l><r>lheieagh<s n="adj"/></r></p></e>
     <e><p><l>díleanta<s n="adj"/></l><r>thooilleydagh<s n="adj"/></r></p></e>
     <e><p><l>dílis<s n="adj"/></l><r>jeelys<s n="adj"/></r></p></e>
+    <e><p><l>dílseach<s n="adj"/></l><r>leighalagh<s n="adj"/></r></p></e>
     <e><p><l>dílsithe<s n="adj"/></l><r>jeelsit<s n="adj"/></r></p></e>
     <e><p><l>díluchtaithe<s n="adj"/></l><r>neulughtit<s n="adj"/></r></p></e>
     <e><p><l>dímheabhrach<s n="adj"/></l><r>neuhastagh<s n="adj"/></r></p></e>
@@ -18960,6 +19043,7 @@
     <e><p><l>diongbháilte<s n="adj"/></l><r>shickyr<s n="adj"/></r></p></e>
     <e><p><l>díonmhar<s n="adj"/></l><r>jeen<s n="adj"/></r></p></e>
     <e><p><l>díonta<s n="adj"/></l><r>coadit<s n="adj"/></r></p></e>
+    <e><p><l>dioplómaitiúil<s n="adj"/></l><r>diploamagh<s n="adj"/></r></p></e>
     <e><p><l>díoscánach<s n="adj"/></l><r>jeesternee<s n="adj"/></r></p></e>
     <e><p><l>díotálach<s n="adj"/></l><r>cassidagh<s n="adj"/></r></p></e>
     <e><p><l>díothach<s n="adj"/></l><r>boght<s n="adj"/></r></p></e>
@@ -19112,6 +19196,7 @@
     <e><p><l>doshuaimhnithe<s n="adj"/></l><r>neuveeinagh<s n="adj"/></r></p></e>
     <e><p><l>dosmachtaithe<s n="adj"/></l><r>do-smaghtey<s n="adj"/></r></p></e>
     <e><p><l>dosmálta<s n="adj"/></l><r>dovergit<s n="adj"/></r></p></e>
+    <e><p><l>dó<s n="adj"/></l><r>daa<s n="adj"/></r></p></e>
     <e><p><l>dóthanach<s n="adj"/></l><r>saiagh<s n="adj"/></r></p></e>
     <e><p><l>dothógtha<s n="adj"/></l><r>do-chorree<s n="adj"/></r></p></e>
     <e><p><l>dothrasnaithe<s n="adj"/></l><r>neuchassanagh<s n="adj"/></r></p></e>
@@ -19190,9 +19275,12 @@
     <e><p><l>dú<s n="adj"/></l><r>dooie<s n="adj"/></r></p></e>
     <e><p><l>duthain<s n="adj"/></l><r>neuveayn<s n="adj"/></r></p></e>
     <e><p><l>dúthrachtach<s n="adj"/></l><r>jeean<s n="adj"/></r></p></e>
+    <e><p><l>Eabhrach<s n="adj"/></l><r>Ewagh<s n="adj"/></r></p></e>
     <e><p><l>eachrach<s n="adj"/></l><r>markiagh<s n="adj"/></r></p></e>
     <e><p><l>éachtach<s n="adj"/></l><r>yindyssagh<s n="adj"/></r></p></e>
+    <e><p><l>eachtrach<s n="adj"/></l><r>joarree<s n="adj"/></r></p></e>
     <e><p><l>eachtrannach<s n="adj"/></l><r>frangagh<s n="adj"/></r></p></e>
+    <e><p><l>eachtrúil<s n="adj"/></l><r>contoyrtagh<s n="adj"/></r></p></e>
     <e><p><l>eacnamaíoch<s n="adj"/></l><r>tarmaynagh<s n="adj"/></r></p></e>
     <e><p><l>eacstaiseach<s n="adj"/></l><r>ard-eunyssagh<s n="adj"/></r></p></e>
     <e><p><l>éadaingean<s n="adj"/></l><r>neuhickyr<s n="adj"/></r></p></e>
@@ -19236,6 +19324,7 @@
     <e><p><l>earótach<s n="adj"/></l><r>an-ghraagh<s n="adj"/></r></p></e>
     <e><p><l>earrachúil<s n="adj"/></l><r>arraghoil<s n="adj"/></r></p></e>
     <e><p><l>earráideach<s n="adj"/></l><r>corragh<s n="adj"/></r></p></e>
+    <e><p><l>easaontach<s n="adj"/></l><r>jiooldagh<s n="adj"/></r></p></e>
     <e><p><l>éasca<s n="adj"/></l><r>aashagh<s n="adj"/></r></p></e>
     <e><p><l>easláinteach<s n="adj"/></l><r>aslayntagh<s n="adj"/></r></p></e>
     <e><p><l>easlán<s n="adj"/></l><r>aslane<s n="adj"/></r></p></e>
@@ -19272,6 +19361,7 @@
     <e><p><l>Eilvéiseach<s n="adj"/></l><r>Elveishagh<s n="adj"/></r></p></e>
     <e><p><l>éimheach<s n="adj"/></l><r>sheeanagh<s n="adj"/></r></p></e>
     <e><p><l>eimpíreach<s n="adj"/></l><r>treealagh<s n="adj"/></r></p></e>
+    <e><p><l>eipiciúil<s n="adj"/></l><r>ard-skeealagh<s n="adj"/></r></p></e>
     <e><p><l>eipileipseach<s n="adj"/></l><r>tuittymagh<s n="adj"/></r></p></e>
     <e><p><l>eireaballach<s n="adj"/></l><r>arbyllagh<s n="adj"/></r></p></e>
     <e><p><l>Éireannach<s n="adj"/></l><r>Yernagh<s n="adj"/></r></p></e>
@@ -19279,6 +19369,7 @@
     <e><p><l>éirimiúil<s n="adj"/></l><r>annymoil<s n="adj"/></r></p></e>
     <e><p><l>éiritheach<s n="adj"/></l><r>aigharagh<s n="adj"/></r></p></e>
     <e><p><l>eisbheartach<s n="adj"/></l><r>gortagh<s n="adj"/></r></p></e>
+    <e><p><l>eisceachtúil<s n="adj"/></l><r>neuchadjin<s n="adj"/></r></p></e>
     <e><p><l>eischéadfach<s n="adj"/></l><r>neucheayllagh<s n="adj"/></r></p></e>
     <e><p><l>Eiscimeach<s n="adj"/></l><r>Eskimagh<s n="adj"/></r></p></e>
     <e><p><l>éisealach<s n="adj"/></l><r>dendeaysagh<s n="adj"/></r></p></e>
@@ -19289,6 +19380,7 @@
     <e><p><l>éisteach<s n="adj"/></l><r>eaishtagh<s n="adj"/></r></p></e>
     <e><p><l>eistreach<s n="adj"/></l><r>cadjin-foshlit<s n="adj"/></r></p></e>
     <e><p><l>eiteach<s n="adj"/></l><r>skianagh<s n="adj"/></r></p></e>
+    <e><p><l>eiticiúil<s n="adj"/></l><r>ethicoil<s n="adj"/></r></p></e>
     <e><p><l>eitneach<s n="adj"/></l><r>kynneeagh<s n="adj"/></r></p></e>
     <e><p><l>eitreach<s n="adj"/></l><r>clashagh<s n="adj"/></r></p></e>
     <e><p><l>Eocairisteach<s n="adj"/></l><r>jeh'n<b/>Chreesteeaght<s n="adj"/></r></p></e>
@@ -19388,6 +19480,7 @@
     <e><p><l>feamainneach<s n="adj"/></l><r>dossanagh<s n="adj"/></r></p></e>
     <e><p><l>feanntach<s n="adj"/></l><r>fanntagh<s n="adj"/></r></p></e>
     <e><p><l>feannta<s n="adj"/></l><r>fant<s n="adj"/></r></p></e>
+    <e><p><l>féaráilte<s n="adj"/></l><r>corrym<s n="adj"/></r></p></e>
     <e><p><l>fearastúil<s n="adj"/></l><r>ymmydoil<s n="adj"/></r></p></e>
     <e><p><l>fearbach<s n="adj"/></l><r>barbagh<s n="adj"/></r></p></e>
     <e><p><l>feargach<s n="adj"/></l><r>fargagh<s n="adj"/></r></p></e>
@@ -19399,6 +19492,7 @@
     <e><p><l>feasach<s n="adj"/></l><r>oalyssagh<s n="adj"/></r></p></e>
     <e><p><l>feascartha<s n="adj"/></l><r>fastyragh<s n="adj"/></r></p></e>
     <e><p><l>féasógach<s n="adj"/></l><r>faasaagagh<s n="adj"/></r></p></e>
+    <e><p><l>feiceálach<s n="adj"/></l><r>reayrtagh<s n="adj"/></r></p></e>
     <e><p><l>feicseanach<s n="adj"/></l><r>fakinagh<s n="adj"/></r></p></e>
     <e><p><l>feicthe<s n="adj"/></l><r>fakinit<s n="adj"/></r></p></e>
     <e><p><l>feidearálach<s n="adj"/></l><r>conastagh<s n="adj"/></r></p></e>
@@ -19445,7 +19539,9 @@
     <e><p><l>fiarthrasna<s n="adj"/></l><r>tessenane<s n="adj"/></r></p></e>
     <e><p><l>fia<s n="adj"/></l><r>feie<s n="adj"/></r></p></e>
     <e><p><l>fiata<s n="adj"/></l><r>faitagh<s n="adj"/></r></p></e>
+    <e><p><l>fichiú<s n="adj"/></l><r>feedoo<s n="adj"/></r></p></e>
     <e><p><l>fileata<s n="adj"/></l><r>sheiltynagh<s n="adj"/></r></p></e>
+    <e><p><l>Filipíneach<s n="adj"/></l><r>Philippeenagh<s n="adj"/></r></p></e>
     <e><p><l>fimíneach<s n="adj"/></l><r>kialgeyragh<s n="adj"/></r></p></e>
     <e><p><l>fínéagrach<s n="adj"/></l><r>feeyn-gheayragh<s n="adj"/></r></p></e>
     <e><p><l>fíneálta<s n="adj"/></l><r>meeley<s n="adj"/></r></p></e>
@@ -19458,11 +19554,16 @@
     <e><p><l>fionnrua<s n="adj"/></l><r>fynn-ruy<s n="adj"/></r></p></e>
     <e><p><l>fionn<s n="adj"/></l><r>fynn<s n="adj"/></r></p></e>
     <e><p><l>fiontrach<s n="adj"/></l><r>ventyragh<s n="adj"/></r></p></e>
+    <e><p><l>fíorannamh<s n="adj"/></l><r>feer<b/>goan<s n="adj"/></r></p></e>
     <e><p><l>fíoránta<s n="adj"/></l><r>cummeydagh<s n="adj"/></r></p></e>
     <e><p><l>fíorasach<s n="adj"/></l><r>feerysagh<s n="adj"/></r></p></e>
+    <e><p><l>fíorbheag<s n="adj"/></l><r>feer<b/>beg<s n="adj"/></r></p></e>
+    <e><p><l>fíordheacair<s n="adj"/></l><r>feer<b/>doccar<s n="adj"/></r></p></e>
     <e><p><l>fíorga<s n="adj"/></l><r>cairal<s n="adj"/></r></p></e>
     <e><p><l>fíorluachmhar<s n="adj"/></l><r>erskyn<b/>leagh<s n="adj"/></r></p></e>
+    <e><p><l>fíormhaith<s n="adj"/></l><r>feer<b/>mie<s n="adj"/></r></p></e>
     <e><p><l>fíor<s n="adj"/></l><r>feer<s n="adj"/></r></p></e>
+    <e><p><l>fíorthábhachtach<s n="adj"/></l><r>feer<b/>scanshoil<s n="adj"/></r></p></e>
     <e><p><l>fíortha<s n="adj"/></l><r>stoamey<s n="adj"/></r></p></e>
     <e><p><l>fioscach<s n="adj"/></l><r>argidagh<s n="adj"/></r></p></e>
     <e><p><l>fiosrach<s n="adj"/></l><r>fysseragh<s n="adj"/></r></p></e>
@@ -19471,6 +19572,7 @@
     <e><p><l>fíréan<s n="adj"/></l><r>ynrick<s n="adj"/></r></p></e>
     <e><p><l>fíréanta<s n="adj"/></l><r>firrinagh<s n="adj"/></r></p></e>
     <e><p><l>fírinneach<s n="adj"/></l><r>firrinagh<s n="adj"/></r></p></e>
+    <e><p><l>firinscneach<s n="adj"/></l><r>firryn<s n="adj"/></r></p></e>
     <e><p><l>fíriúil<s n="adj"/></l><r>kiaralagh<s n="adj"/></r></p></e>
     <e><p><l>fisiceach<s n="adj"/></l><r>fishigagh<s n="adj"/></r></p></e>
     <e><p><l>fite<b/>fuaite<s n="adj"/></l><r>cochast<b/>feeit<b/>ry-cheilley<s n="adj"/></r></p></e>
@@ -19481,6 +19583,7 @@
     <e><p><l>flaithiúil<s n="adj"/></l><r>flahoil<s n="adj"/></r></p></e>
     <e><p><l>flannbhuí<s n="adj"/></l><r>jiarg-bwee<s n="adj"/></r></p></e>
     <e><p><l>flann<s n="adj"/></l><r>fuilltagh<s n="adj"/></r></p></e>
+    <e><p><l>flapach<s n="adj"/></l><r>slobbagh<s n="adj"/></r></p></e>
     <e><p><l>fleách<s n="adj"/></l><r>rastagh<s n="adj"/></r></p></e>
     <e><p><l>fleaite<s n="adj"/></l><r>fiojit<s n="adj"/></r></p></e>
     <e><p><l>fliuch<s n="adj"/></l><r>fliugh<s n="adj"/></r></p></e>
@@ -19503,6 +19606,7 @@
     <e><p><l>foighneach<s n="adj"/></l><r>foddey-hurransagh<s n="adj"/></r></p></e>
     <e><p><l>fóinteach<s n="adj"/></l><r>jeantagh<s n="adj"/></r></p></e>
     <e><p><l>foircneach<s n="adj"/></l><r>foddey<b/>veih<b/>my<b/>cheilley<s n="adj"/></r></p></e>
+    <e><p><l>fóiréinseach<s n="adj"/></l><r>quaiyllagh<s n="adj"/></r></p></e>
     <e><p><l>foirfe<s n="adj"/></l><r>eashit<s n="adj"/></r></p></e>
     <e><p><l>foirmiúil<s n="adj"/></l><r>formoil<s n="adj"/></r></p></e>
     <e><p><l>fóirsteanach<s n="adj"/></l><r>cooie<s n="adj"/></r></p></e>
@@ -19534,6 +19638,7 @@
     <e><p><l>foraireach<s n="adj"/></l><r>tastagh<s n="adj"/></r></p></e>
     <e><p><l>fordhaite<s n="adj"/></l><r>mynghaahit<s n="adj"/></r></p></e>
     <e><p><l>fordhaonna<s n="adj"/></l><r>erskyn<b/>deiney<s n="adj"/></r></p></e>
+    <e><p><l>foréigneach<s n="adj"/></l><r>raghtal<s n="adj"/></r></p></e>
     <e><p><l>forfhliuch<s n="adj"/></l><r>bog<s n="adj"/></r></p></e>
     <e><p><l>forghruama<s n="adj"/></l><r>groamagh<s n="adj"/></r></p></e>
     <e><p><l>forleatach<s n="adj"/></l><r>lhieenagh<s n="adj"/></r></p></e>
@@ -19612,8 +19717,11 @@
     <e><p><l>gabhálach<s n="adj"/></l><r>goaillagh<s n="adj"/></r></p></e>
     <e><p><l>gabhlánach<s n="adj"/></l><r>banglaneagh<s n="adj"/></r></p></e>
     <e><p><l>gabhlógach<s n="adj"/></l><r>gollagagh<s n="adj"/></r></p></e>
+    <e><p><l>gach<b/>re<s n="adj"/></l><r>dagh<b/>ooilley<b/>cor<s n="adj"/></r></p></e>
     <e><p><l>gach<b/>uile<s n="adj"/></l><r>dy-chooilley<s n="adj"/></r></p></e>
     <e><p><l>gach<s n="adj"/></l><r>gagh<s n="adj"/></r></p></e>
+    <e><p><l>Gaeilge-Béarla<s n="adj"/></l><r>Yernish-Baarlagh<s n="adj"/></r></p></e>
+    <e><p><l>Gaelach<s n="adj"/></l><r>Gaelgagh<s n="adj"/></r></p></e>
     <e><p><l>Gaelach<s n="adj"/></l><r>Gailckagh<s n="adj"/></r></p></e>
     <e><p><l>gafa<s n="adj"/></l><r>tarroogh<s n="adj"/></r></p></e>
     <e><p><l>gágach<s n="adj"/></l><r>gaaigagh<s n="adj"/></r></p></e>
@@ -19621,6 +19729,7 @@
     <e><p><l>gaigiúil<s n="adj"/></l><r>friplassagh<s n="adj"/></r></p></e>
     <e><p><l>gailbheach<s n="adj"/></l><r>rastagh<s n="adj"/></r></p></e>
     <e><p><l>gailfeanach<s n="adj"/></l><r>sterrymagh<s n="adj"/></r></p></e>
+    <e><p><l>gainmheach<s n="adj"/></l><r>geinnee<s n="adj"/></r></p></e>
     <e><p><l>gairbhéalach<s n="adj"/></l><r>garvelagh<s n="adj"/></r></p></e>
     <e><p><l>gairbhéiseach<s n="adj"/></l><r>bonkanagh<s n="adj"/></r></p></e>
     <e><p><l>gairdeach<s n="adj"/></l><r>suntee<s n="adj"/></r></p></e>
@@ -19630,6 +19739,7 @@
     <e><p><l>gairid<s n="adj"/></l><r>girragh<s n="adj"/></r></p></e>
     <e><p><l>gáiriteach<s n="adj"/></l><r>gennal<s n="adj"/></r></p></e>
     <e><p><l>gairmeach<s n="adj"/></l><r>gerrymagh<s n="adj"/></r></p></e>
+    <e><p><l>gairmiúil<s n="adj"/></l><r>gerrymoil<s n="adj"/></r></p></e>
     <e><p><l>gairneoireach<s n="adj"/></l><r>gareydagh<s n="adj"/></r></p></e>
     <e><p><l>gáirsiúil<s n="adj"/></l><r>garroo<s n="adj"/></r></p></e>
     <e><p><l>gaisciúil<s n="adj"/></l><r>trean<s n="adj"/></r></p></e>
@@ -19637,6 +19747,7 @@
     <e><p><l>galánta<s n="adj"/></l><r>galaantagh<s n="adj"/></r></p></e>
     <e><p><l>galarghinteach<s n="adj"/></l><r>gorley-ghientagh<s n="adj"/></r></p></e>
     <e><p><l>Gallach<s n="adj"/></l><r>Gallagh<s n="adj"/></r></p></e>
+    <e><p><l>gallda<s n="adj"/></l><r>joarree<s n="adj"/></r></p></e>
     <e><p><l>Gall-Ghaelach<s n="adj"/></l><r>Anglo-Yernagh<s n="adj"/></r></p></e>
     <e><p><l>galrach<s n="adj"/></l><r>doghanagh<s n="adj"/></r></p></e>
     <e><p><l>gamalach<s n="adj"/></l><r>ommidjagh<s n="adj"/></r></p></e>
@@ -19862,7 +19973,9 @@
     <e><p><l>géar<s n="adj"/></l><r>geyre<s n="adj"/></r></p></e>
     <e><p><l>geasrógach<s n="adj"/></l><r>pishagagh<s n="adj"/></r></p></e>
     <e><p><l>géibheannach<s n="adj"/></l><r>seaghnagh<s n="adj"/></r></p></e>
+    <e><p><l>geilleagrach<s n="adj"/></l><r>tarmaynagh<s n="adj"/></r></p></e>
     <e><p><l>géilliúil<s n="adj"/></l><r>biallagh<s n="adj"/></r></p></e>
+    <e><p><l>géiniteach<s n="adj"/></l><r>gien-oaylleeagh<s n="adj"/></r></p></e>
     <e><p><l>geireach<s n="adj"/></l><r>geirragh<s n="adj"/></r></p></e>
     <e><p><l>geiteach<s n="adj"/></l><r>faitagh<s n="adj"/></r></p></e>
     <e><p><l>geocánach<s n="adj"/></l><r>peeaganeagh<s n="adj"/></r></p></e>
@@ -19871,6 +19984,7 @@
     <e><p><l>geoiméadrach<s n="adj"/></l><r>towse-oaylleeagh<s n="adj"/></r></p></e>
     <e><p><l>geoiseach<s n="adj"/></l><r>prinjeigagh<s n="adj"/></r></p></e>
     <e><p><l>geolaíoch<s n="adj"/></l><r>creg-oaylleeaght<s n="adj"/></r></p></e>
+    <e><p><l>ginearálta<s n="adj"/></l><r>cadjin<s n="adj"/></r></p></e>
     <e><p><l>ginideach<s n="adj"/></l><r>gienneydagh<s n="adj"/></r></p></e>
     <e><p><l>ginitiúil<s n="adj"/></l><r>comyssagh<s n="adj"/></r></p></e>
     <e><p><l>giniúnach<s n="adj"/></l><r>gientynagh<s n="adj"/></r></p></e>
@@ -19919,6 +20033,7 @@
     <e><p><l>gloiní<s n="adj"/></l><r>glenny<s n="adj"/></r></p></e>
     <e><p><l>gloiniúil<s n="adj"/></l><r>glonnoil<s n="adj"/></r></p></e>
     <e><p><l>glórach<s n="adj"/></l><r>kiaullaneagh<s n="adj"/></r></p></e>
+    <e><p><l>glórmhar<s n="adj"/></l><r>gloyroil<s n="adj"/></r></p></e>
     <e><p><l>glórshúileach<s n="adj"/></l><r>breck-hooillagh<s n="adj"/></r></p></e>
     <e><p><l>gluair<s n="adj"/></l><r>garg<s n="adj"/></r></p></e>
     <e><p><l>gnách<s n="adj"/></l><r>oashagh<s n="adj"/></r></p></e>
@@ -19927,6 +20042,7 @@
     <e><p><l>gnáthúil<s n="adj"/></l><r>oayllagh<s n="adj"/></r></p></e>
     <e><p><l>gnéasach<s n="adj"/></l><r>cannyssagh<s n="adj"/></r></p></e>
     <e><p><l>gnéitheach<s n="adj"/></l><r>ennagh<s n="adj"/></r></p></e>
+    <e><p><l>gníomhach<s n="adj"/></l><r>lheiltagh<s n="adj"/></r></p></e>
     <e><p><l>gnóthach<s n="adj"/></l><r>tarroogh<s n="adj"/></r></p></e>
     <e><p><l>gnúiseach<s n="adj"/></l><r>stoamey<s n="adj"/></r></p></e>
     <e><p><l>gobach<s n="adj"/></l><r>gobbagh<s n="adj"/></r></p></e>
@@ -19957,6 +20073,7 @@
     <e><p><l>grách<s n="adj"/></l><r>graihagh<s n="adj"/></r></p></e>
     <e><p><l>grádach<s n="adj"/></l><r>keimagh<s n="adj"/></r></p></e>
     <e><p><l>gradamach<s n="adj"/></l><r>ooasle<s n="adj"/></r></p></e>
+    <e><p><l>grafach<s n="adj"/></l><r>graafagh<s n="adj"/></r></p></e>
     <e><p><l>graifleach<s n="adj"/></l><r>garroo<s n="adj"/></r></p></e>
     <e><p><l>gráiniúil<s n="adj"/></l><r>graynoil<s n="adj"/></r></p></e>
     <e><p><l>gráinneach<s n="adj"/></l><r>grineagh<s n="adj"/></r></p></e>
@@ -20011,6 +20128,7 @@
     <e><p><l>gusmhar<s n="adj"/></l><r>postyragh<s n="adj"/></r></p></e>
     <e><p><l>gustalach<s n="adj"/></l><r>postyragh<s n="adj"/></r></p></e>
     <e><p><l>guthach<s n="adj"/></l><r>gooagh<s n="adj"/></r></p></e>
+    <e><p><l>han-mhaith<s n="adj"/></l><r>feer<b/>mie<s n="adj"/></r></p></e>
     <e><p><l>héiliciúil<s n="adj"/></l><r>scroddagh<s n="adj"/></r></p></e>
     <e><p><l>heitrighnéasach<s n="adj"/></l><r>hetracheintyssagh<s n="adj"/></r></p></e>
     <e><p><l>hibrideach<s n="adj"/></l><r>crosh-sheelragh<s n="adj"/></r></p></e>
@@ -20027,6 +20145,7 @@
     <e><p><l>Iaránach<s n="adj"/></l><r>Eeraanagh<s n="adj"/></r></p></e>
     <e><p><l>iarbháis<s n="adj"/></l><r>erreish<b/>da<b/>baase<s n="adj"/></r></p></e>
     <e><p><l>iarbhír<s n="adj"/></l><r>jarroo<s n="adj"/></r></p></e>
+    <e><p><l>iarchéime<s n="adj"/></l><r>erreish<b/>da'n<b/>cheim<s n="adj"/></r></p></e>
     <e><p><l>iarchogaidh<s n="adj"/></l><r>lurg<b/>y<b/>chaggey<s n="adj"/></r></p></e>
     <e><p><l>iarchurtha<s n="adj"/></l><r>currit<b/>jeh<s n="adj"/></r></p></e>
     <e><p><l>iarghnóch<s n="adj"/></l><r>seaghnit<s n="adj"/></r></p></e>
@@ -20080,7 +20199,9 @@
     <e><p><l>i<b/>ngreim<s n="adj"/></l><r>haare<s n="adj"/></r></p></e>
     <e><p><l>i<b/>scríbhinn<s n="adj"/></l><r>screeut<s n="adj"/></r></p></e>
     <e><p><l>íceach<s n="adj"/></l><r>lheihyssagh<s n="adj"/></r></p></e>
+    <e><p><l>idéalach<s n="adj"/></l><r>ardsmooinaghtagh<s n="adj"/></r></p></e>
     <e><p><l>idir<b/>dhá<b/>thine<b/>Bhealtaine<s n="adj"/></l><r>eddyr<b/>daa<b/>aile<b/>Boaldyn<s n="adj"/></r></p></e>
+    <e><p><l>idirchontae<s n="adj"/></l><r>eddyr-chountee<s n="adj"/></r></p></e>
     <e><p><l>idirchreidmheach<s n="adj"/></l><r>eddyrchraueeaghtagh<s n="adj"/></r></p></e>
     <e><p><l>idirdhealaithe<s n="adj"/></l><r>scarrit<s n="adj"/></r></p></e>
     <e><p><l>idireaglasta<s n="adj"/></l><r>eddyrchraueeaghtagh<s n="adj"/></r></p></e>
@@ -20136,6 +20257,7 @@
     <e><p><l>ináitrithe<s n="adj"/></l><r>cummalagh<s n="adj"/></r></p></e>
     <e><p><l>inárachais<s n="adj"/></l><r>urryssaghtoil<s n="adj"/></r></p></e>
     <e><p><l>inargóinte<s n="adj"/></l><r>so-arganeagh<s n="adj"/></r></p></e>
+    <e><p><l>in-athnuaite<s n="adj"/></l><r>yn-aanoaghey<s n="adj"/></r></p></e>
     <e><p><l>inathraitheach<s n="adj"/></l><r>ceaghlagh<s n="adj"/></r></p></e>
     <e><p><l>inathraithe<s n="adj"/></l><r>so-lhoobagh<s n="adj"/></r></p></e>
     <e><p><l>in<b/>aice<b/>láimhe<s n="adj"/></l><r>faggys<b/>da<s n="adj"/></r></p></e>
@@ -20165,11 +20287,14 @@
     <e><p><l>inchuardaithe<s n="adj"/></l><r>ronsoilagh<s n="adj"/></r></p></e>
     <e><p><l>inchúisithe<s n="adj"/></l><r>cassidagh<s n="adj"/></r></p></e>
     <e><p><l>incriminteach<s n="adj"/></l><r>brashagh<s n="adj"/></r></p></e>
+    <e><p><l>indéanta<s n="adj"/></l><r>yn-jantagh<s n="adj"/></r></p></e>
     <e><p><l>Ind-Eorpach<s n="adj"/></l><r>Ind-Europagh<s n="adj"/></r></p></e>
+    <e><p><l>Indiach<s n="adj"/></l><r>Injinagh<s n="adj"/></r></p></e>
     <e><p><l>indíleáite<s n="adj"/></l><r>yn-lheie<s n="adj"/></r></p></e>
     <e><p><l>Indinéiseach<s n="adj"/></l><r>Indoneesagh<s n="adj"/></r></p></e>
     <e><p><l>indíolta<s n="adj"/></l><r>creckeydagh<s n="adj"/></r></p></e>
     <e><p><l>indíotáilte<s n="adj"/></l><r>cassidagh<s n="adj"/></r></p></e>
+    <e><p><l>indíreach<s n="adj"/></l><r>neuyeeragh<s n="adj"/></r></p></e>
     <e><p><l>indíritheach<s n="adj"/></l><r>sthie-hyndaagh<s n="adj"/></r></p></e>
     <e><p><l>Ind-Síneach<s n="adj"/></l><r>Injey-Sheenagh<s n="adj"/></r></p></e>
     <e><p><l>inearráide<s n="adj"/></l><r>failleilagh<s n="adj"/></r></p></e>
@@ -20248,11 +20373,13 @@
     <e><p><l>íoctha<s n="adj"/></l><r>eeckit<s n="adj"/></r></p></e>
     <e><p><l>iodálach<s n="adj"/></l><r>iddaalagh<s n="adj"/></r></p></e>
     <e><p><l>Iodálach<s n="adj"/></l><r>Iddaalagh<s n="adj"/></r></p></e>
+    <e><p><l>íogair<s n="adj"/></l><r>ennaghtagh<s n="adj"/></r></p></e>
     <e><p><l>íolach<s n="adj"/></l><r>jallooagh<s n="adj"/></r></p></e>
     <e><p><l>iolarach<s n="adj"/></l><r>urleydagh<s n="adj"/></r></p></e>
     <e><p><l>iolartha<s n="adj"/></l><r>lhieenar<s n="adj"/></r></p></e>
     <e><p><l>iolraithe<s n="adj"/></l><r>bishit<s n="adj"/></r></p></e>
     <e><p><l>iomadúil<s n="adj"/></l><r>lhieenar<s n="adj"/></r></p></e>
+    <e><p><l>iomaíoch<s n="adj"/></l><r>cohirreydagh<s n="adj"/></r></p></e>
     <e><p><l>iomaireach<s n="adj"/></l><r>tonnagh<s n="adj"/></r></p></e>
     <e><p><l>iomaí<s n="adj"/></l><r>shimmey<s n="adj"/></r></p></e>
     <e><p><l>iomarbhách<s n="adj"/></l><r>troddanagh<s n="adj"/></r></p></e>
@@ -20263,6 +20390,7 @@
     <e><p><l>iomlánach<s n="adj"/></l><r>lane<s n="adj"/></r></p></e>
     <e><p><l>iomlán<s n="adj"/></l><r>slane<s n="adj"/></r></p></e>
     <e><p><l>iomlatach<s n="adj"/></l><r>gammanagh<s n="adj"/></r></p></e>
+    <e><p><l>iomráiteach<s n="adj"/></l><r>ardghooagh<s n="adj"/></r></p></e>
     <e><p><l>iomrallach<s n="adj"/></l><r>marranagh<s n="adj"/></r></p></e>
     <e><p><l>ionadach<s n="adj"/></l><r>far-ynnydagh<s n="adj"/></r></p></e>
     <e><p><l>ionann<s n="adj"/></l><r>unnane<s n="adj"/></r></p></e>
@@ -20284,7 +20412,9 @@
     <e><p><l>iontlaise<s n="adj"/></l><r>grainnit<s n="adj"/></r></p></e>
     <e><p><l>ionúch<s n="adj"/></l><r>anugh<s n="adj"/></r></p></e>
     <e><p><l>ionúineach<s n="adj"/></l><r>graihagh<s n="adj"/></r></p></e>
+    <e><p><l>ionúin<s n="adj"/></l><r>ennoil<s n="adj"/></r></p></e>
     <e><p><l>íorach<s n="adj"/></l><r>corree<s n="adj"/></r></p></e>
+    <e><p><l>íorónta<s n="adj"/></l><r>amlagh<s n="adj"/></r></p></e>
     <e><p><l>íortha<s n="adj"/></l><r>corree<s n="adj"/></r></p></e>
     <e><p><l>Ioruach<s n="adj"/></l><r>Loghlynagh<s n="adj"/></r></p></e>
     <e><p><l>Íosánach<s n="adj"/></l><r>Yeeseynagh<s n="adj"/></r></p></e>
@@ -20326,6 +20456,7 @@
     <e><p><l>laiste<s n="adj"/></l><r>lhiastey<s n="adj"/></r></p></e>
     <e><p><l>láithreach<s n="adj"/></l><r>siyragh<s n="adj"/></r></p></e>
     <e><p><l>Laitviach<s n="adj"/></l><r>Latvagh<s n="adj"/></r></p></e>
+    <e><p><l>lámhdhéanta<s n="adj"/></l><r>laue-jeant<s n="adj"/></r></p></e>
     <e><p><l>lámhfhada<s n="adj"/></l><r>laue-'oddey<s n="adj"/></r></p></e>
     <e><p><l>lámhiata<s n="adj"/></l><r>peajeogagh<s n="adj"/></r></p></e>
     <e><p><l>lámhscríofa<s n="adj"/></l><r>laue-screeuit<s n="adj"/></r></p></e>
@@ -20334,12 +20465,15 @@
     <e><p><l>lán<b/>go<b/>doras<s n="adj"/></l><r>lane<b/>da'n<b/>chrossag<s n="adj"/></r></p></e>
     <e><p><l>lán<b/>go<b/>draid<s n="adj"/></l><r>lane<b/>da'n<b/>chrossag<s n="adj"/></r></p></e>
     <e><p><l>lánbhruite<s n="adj"/></l><r>mie-rostit<s n="adj"/></r></p></e>
+    <e><p><l>lánchinnte<s n="adj"/></l><r>shickyr<s n="adj"/></r></p></e>
     <e><p><l>lánfhásta<s n="adj"/></l><r>lane<b/>assit<s n="adj"/></r></p></e>
+    <e><p><l>lán-ghaeilge<s n="adj"/></l><r>ooilley-Yernish<s n="adj"/></r></p></e>
     <e><p><l>lánmhar<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>lánmhéide<s n="adj"/></l><r>lane-howshanagh<s n="adj"/></r></p></e>
     <e><p><l>lannach<s n="adj"/></l><r>lhiannagh<s n="adj"/></r></p></e>
     <e><p><l>lannaithe<s n="adj"/></l><r>lhiannagh<s n="adj"/></r></p></e>
     <e><p><l>lansach<s n="adj"/></l><r>sleeanagh<s n="adj"/></r></p></e>
+    <e><p><l>lánsásta<s n="adj"/></l><r>feer<b/>saasit<s n="adj"/></r></p></e>
     <e><p><l>lán<s n="adj"/></l><r>lane<s n="adj"/></r></p></e>
     <e><p><l>laochta<s n="adj"/></l><r>trean<s n="adj"/></r></p></e>
     <e><p><l>laofa<s n="adj"/></l><r>cleaynit<s n="adj"/></r></p></e>
@@ -20352,6 +20486,7 @@
     <e><p><l>leabhlach<s n="adj"/></l><r>caartragh<s n="adj"/></r></p></e>
     <e><p><l>leacach<s n="adj"/></l><r>leacanagh<s n="adj"/></r></p></e>
     <e><p><l>leacanta<s n="adj"/></l><r>fakinagh<s n="adj"/></r></p></e>
+    <e><p><l>leachtach<s n="adj"/></l><r>ushlagh<s n="adj"/></r></p></e>
     <e><p><l>leadarthach<s n="adj"/></l><r>scelpagh<s n="adj"/></r></p></e>
     <e><p><l>leadhbach<s n="adj"/></l><r>thootagh<s n="adj"/></r></p></e>
     <e><p><l>leadhbógach<s n="adj"/></l><r>slibbinagh<s n="adj"/></r></p></e>
@@ -20371,6 +20506,7 @@
     <e><p><l>leasaitheach<s n="adj"/></l><r>freaylleyder<s n="adj"/></r></p></e>
     <e><p><l>leasaithe<s n="adj"/></l><r>lhiasit<s n="adj"/></r></p></e>
     <e><p><l>leasc<s n="adj"/></l><r>lhiastey<s n="adj"/></r></p></e>
+    <e><p><l>leasmhar<s n="adj"/></l><r>foayssagh<s n="adj"/></r></p></e>
     <e><p><l>léaspartach<s n="adj"/></l><r>keayllagh<s n="adj"/></r></p></e>
     <e><p><l>leataobhach<s n="adj"/></l><r>cleaynit<s n="adj"/></r></p></e>
     <e><p><l>leathanaigeanta<s n="adj"/></l><r>lhean-aignagh<s n="adj"/></r></p></e>
@@ -20432,6 +20568,7 @@
     <e><p><l>liathchorcra<s n="adj"/></l><r>laylac<s n="adj"/></r></p></e>
     <e><p><l>liathdhearg<s n="adj"/></l><r>bane-yiarg<s n="adj"/></r></p></e>
     <e><p><l>liathghlas<s n="adj"/></l><r>bane-ghlass<s n="adj"/></r></p></e>
+    <e><p><l>liath<s n="adj"/></l><r>lheeah<s n="adj"/></r></p></e>
     <e><p><l>Libéarach<s n="adj"/></l><r>Laibeeragh<s n="adj"/></r></p></e>
     <e><p><l>Libiach<s n="adj"/></l><r>Libyagh<s n="adj"/></r></p></e>
     <e><p><l>ligeach<s n="adj"/></l><r>faarnagh<s n="adj"/></r></p></e>
@@ -20444,6 +20581,7 @@
     <e><p><l>Liobánach<s n="adj"/></l><r>Livaanagh<s n="adj"/></r></p></e>
     <e><p><l>liobarnach<s n="adj"/></l><r>slibbinagh<s n="adj"/></r></p></e>
     <e><p><l>liobrálach<s n="adj"/></l><r>libraalagh<s n="adj"/></r></p></e>
+    <e><p><l>líofa<s n="adj"/></l><r>flaaoil<s n="adj"/></r></p></e>
     <e><p><l>líoga<s n="adj"/></l><r>sollyssagh<s n="adj"/></r></p></e>
     <e><p><l>liom<b/>leat<s n="adj"/></l><r>lhiam-lhiat<s n="adj"/></r></p></e>
     <e><p><l>líonmhar<s n="adj"/></l><r>lhieenar<s n="adj"/></r></p></e>
@@ -20589,6 +20727,7 @@
     <e><p><l>maslach<s n="adj"/></l><r>trome<s n="adj"/></r></p></e>
     <e><p><l>masmasach<s n="adj"/></l><r>jiooldagh<s n="adj"/></r></p></e>
     <e><p><l>mastóideach<s n="adj"/></l><r>mastoidagh<s n="adj"/></r></p></e>
+    <e><p><l>matamaiticiúil<s n="adj"/></l><r>maddaghtoil<s n="adj"/></r></p></e>
     <e><p><l>máthartha<s n="adj"/></l><r>moiragh<s n="adj"/></r></p></e>
     <e><p><l>matrarcach<s n="adj"/></l><r>moir-reillagh<s n="adj"/></r></p></e>
     <e><p><l>meabhlach<s n="adj"/></l><r>kialgagh<s n="adj"/></r></p></e>
@@ -20604,6 +20743,7 @@
     <e><p><l>mealltach<s n="adj"/></l><r>moltoil<s n="adj"/></r></p></e>
     <e><p><l>meánach<s n="adj"/></l><r>meanagh<s n="adj"/></r></p></e>
     <e><p><l>meánaoiseach<s n="adj"/></l><r>mean-eashagh<s n="adj"/></r></p></e>
+    <e><p><l>meánaosta<s n="adj"/></l><r>mean-eashit<s n="adj"/></r></p></e>
     <e><p><l>méanar<s n="adj"/></l><r>maynrey<s n="adj"/></r></p></e>
     <e><p><l>meánchiorclach<s n="adj"/></l><r>menachiarkylagh<s n="adj"/></r></p></e>
     <e><p><l>meandarach<s n="adj"/></l><r>tullaghtagh<s n="adj"/></r></p></e>
@@ -20625,6 +20765,7 @@
     <e><p><l>meathshearbh<s n="adj"/></l><r>geyragh<s n="adj"/></r></p></e>
     <e><p><l>meath-thinn<s n="adj"/></l><r>treih<s n="adj"/></r></p></e>
     <e><p><l>meath-thuairimeach<s n="adj"/></l><r>sheiltynagh<s n="adj"/></r></p></e>
+    <e><p><l>meicniúil<s n="adj"/></l><r>obbrinagh<s n="adj"/></r></p></e>
     <e><p><l>Meicsiceach<s n="adj"/></l><r>Mecsiagh<s n="adj"/></r></p></e>
     <e><p><l>meidhreach<s n="adj"/></l><r>gennal<s n="adj"/></r></p></e>
     <e><p><l>meidhréiseach<s n="adj"/></l><r>gennal<s n="adj"/></r></p></e>
@@ -20660,6 +20801,7 @@
     <e><p><l>mícharthanach<s n="adj"/></l><r>meeghiastyllagh<s n="adj"/></r></p></e>
     <e><p><l>míchéadfach<s n="adj"/></l><r>neuvakinagh<s n="adj"/></r></p></e>
     <e><p><l>mícheansa<s n="adj"/></l><r>kione-daaney<s n="adj"/></r></p></e>
+    <e><p><l>mícheart<s n="adj"/></l><r>neuchiart<s n="adj"/></r></p></e>
     <e><p><l>míchéillí<s n="adj"/></l><r>bolvaneagh<s n="adj"/></r></p></e>
     <e><p><l>míchineálta<s n="adj"/></l><r>neuchenjal<s n="adj"/></r></p></e>
     <e><p><l>míchinniúnach<s n="adj"/></l><r>meefortanagh<s n="adj"/></r></p></e>
@@ -20684,6 +20826,7 @@
     <e><p><l>mídhleathach<s n="adj"/></l><r>anleighalagh<s n="adj"/></r></p></e>
     <e><p><l>mífhabhrach<s n="adj"/></l><r>meefoayragh<s n="adj"/></r></p></e>
     <e><p><l>mífhearúil<s n="adj"/></l><r>mee-yrryn<s n="adj"/></r></p></e>
+    <e><p><l>mífhoighneach<s n="adj"/></l><r>meehurransagh<s n="adj"/></r></p></e>
     <e><p><l>mífholláin<s n="adj"/></l><r>doghanagh<s n="adj"/></r></p></e>
     <e><p><l>mífhonnmhar<s n="adj"/></l><r>neuarryltagh<s n="adj"/></r></p></e>
     <e><p><l>mífhortúnach<s n="adj"/></l><r>meehaghyrtagh<s n="adj"/></r></p></e>
@@ -20703,6 +20846,7 @@
     <e><p><l>milis<s n="adj"/></l><r>millish<s n="adj"/></r></p></e>
     <e><p><l>mílítheach<s n="adj"/></l><r>treih<s n="adj"/></r></p></e>
     <e><p><l>milleánach<s n="adj"/></l><r>olrooanagh<s n="adj"/></r></p></e>
+    <e><p><l>milliún<s n="adj"/></l><r>millioon<s n="adj"/></r></p></e>
     <e><p><l>millteach<s n="adj"/></l><r>milltagh<s n="adj"/></r></p></e>
     <e><p><l>millteanach<s n="adj"/></l><r>atchimagh<s n="adj"/></r></p></e>
     <e><p><l>millte<s n="adj"/></l><r>millit<s n="adj"/></r></p></e>
@@ -20716,6 +20860,7 @@
     <e><p><l>mímhorálta<s n="adj"/></l><r>drogh-veaysagh<s n="adj"/></r></p></e>
     <e><p><l>mímhuiníneach<s n="adj"/></l><r>ouryssagh<s n="adj"/></r></p></e>
     <e><p><l>mímhúinte<s n="adj"/></l><r>neuellynagh<s n="adj"/></r></p></e>
+    <e><p><l>mínádúrtha<s n="adj"/></l><r>neughooghyssagh<s n="adj"/></r></p></e>
     <e><p><l>mínáireach<s n="adj"/></l><r>meenearagh<s n="adj"/></r></p></e>
     <e><p><l>mineach<s n="adj"/></l><r>meinnoil<s n="adj"/></r></p></e>
     <e><p><l>minic<s n="adj"/></l><r>mennick<s n="adj"/></r></p></e>
@@ -20739,6 +20884,7 @@
     <e><p><l>míosta<s n="adj"/></l><r>coorsagh<s n="adj"/></r></p></e>
     <e><p><l>míosúil<s n="adj"/></l><r>dy<b/>meeoil<s n="adj"/></r></p></e>
     <e><p><l>miotalach<s n="adj"/></l><r>reen<s n="adj"/></r></p></e>
+    <e><p><l>miotasach<s n="adj"/></l><r>feayn-skeeallagh<s n="adj"/></r></p></e>
     <e><p><l>miotaseolaíoch<s n="adj"/></l><r>feayn-skeealleydagh<s n="adj"/></r></p></e>
     <e><p><l>míréasúnta<s n="adj"/></l><r>meeresoonagh<s n="adj"/></r></p></e>
     <e><p><l>míréireach<s n="adj"/></l><r>meereiragh<s n="adj"/></r></p></e>
@@ -20758,6 +20904,7 @@
     <e><p><l>míshuaimhneach<s n="adj"/></l><r>neuaashagh<s n="adj"/></r></p></e>
     <e><p><l>míshuairc<s n="adj"/></l><r>groamagh<s n="adj"/></r></p></e>
     <e><p><l>misniúil<s n="adj"/></l><r>tramylt<s n="adj"/></r></p></e>
+    <e><p><l>mistéireach<s n="adj"/></l><r>folliaghtagh<s n="adj"/></r></p></e>
     <e><p><l>místiúrtha<s n="adj"/></l><r>meestiurit<s n="adj"/></r></p></e>
     <e><p><l>místuama<s n="adj"/></l><r>anchreeney<s n="adj"/></r></p></e>
     <e><p><l>míthairbheach<s n="adj"/></l><r>neuvondeishagh<s n="adj"/></r></p></e>
@@ -20790,6 +20937,7 @@
     <e><p><l>mongach<s n="adj"/></l><r>mwingagh<s n="adj"/></r></p></e>
     <e><p><l>móraigeanta<s n="adj"/></l><r>mooaraighnagh<s n="adj"/></r></p></e>
     <e><p><l>mórálach<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
+    <e><p><l>morálta<s n="adj"/></l><r>beasagh<s n="adj"/></r></p></e>
     <e><p><l>mórbholgach<s n="adj"/></l><r>mooar-volgagh<s n="adj"/></r></p></e>
     <e><p><l>mór<b/>le<b/>rá<s n="adj"/></l><r>mooar-chooishagh<s n="adj"/></r></p></e>
     <e><p><l>mór<b/>millteach<s n="adj"/></l><r>mooar<b/>ass<b/>towse<s n="adj"/></r></p></e>
@@ -20797,6 +20945,7 @@
     <e><p><l>mórchroíoch<s n="adj"/></l><r>mooar-chreeagh<s n="adj"/></r></p></e>
     <e><p><l>mórchúiseach<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>mórchumhachta<s n="adj"/></l><r>mooar-chummaghtagh<s n="adj"/></r></p></e>
+    <e><p><l>móréilimh<s n="adj"/></l><r>feer<b/>ennoil<b/>ec<b/>yn<b/>theay<s n="adj"/></r></p></e>
     <e><p><l>mórfhoclach<s n="adj"/></l><r>mooar-ocklagh<s n="adj"/></r></p></e>
     <e><p><l>mórga<s n="adj"/></l><r>mooaral<s n="adj"/></r></p></e>
     <e><p><l>morgthach<s n="adj"/></l><r>loau<s n="adj"/></r></p></e>
@@ -20818,6 +20967,7 @@
     <e><p><l>múchtach<s n="adj"/></l><r>kyaghtagh<s n="adj"/></r></p></e>
     <e><p><l>múchta<s n="adj"/></l><r>plooghit<s n="adj"/></r></p></e>
     <e><p><l>mucúil<s n="adj"/></l><r>mucoil<s n="adj"/></r></p></e>
+    <e><p><l>Muimhneach<s n="adj"/></l><r>Mooanagh<s n="adj"/></r></p></e>
     <e><p><l>muineálach<s n="adj"/></l><r>mwannalagh<s n="adj"/></r></p></e>
     <e><p><l>muiniceach<s n="adj"/></l><r>raghtanagh<s n="adj"/></r></p></e>
     <e><p><l>muiníneach<s n="adj"/></l><r>treishteilagh<s n="adj"/></r></p></e>
@@ -20849,8 +20999,11 @@
     <e><p><l>náisiúnta<s n="adj"/></l><r>dooie<s n="adj"/></r></p></e>
     <e><p><l>Naitsíoch<s n="adj"/></l><r>Natseeagh<s n="adj"/></r></p></e>
     <e><p><l>naofa<s n="adj"/></l><r>noo<s n="adj"/></r></p></e>
+    <e><p><l>naoi<b/>déag<s n="adj"/></l><r>nuy-jeig<s n="adj"/></r></p></e>
+    <e><p><l>naoi<s n="adj"/></l><r>nuy<s n="adj"/></r></p></e>
     <e><p><l>naomhaithiseach<s n="adj"/></l><r>neuammysagh<s n="adj"/></r></p></e>
     <e><p><l>naomh<s n="adj"/></l><r>bannee<s n="adj"/></r></p></e>
+    <e><p><l>naoú<s n="adj"/></l><r>nuyoo<s n="adj"/></r></p></e>
     <e><p><l>Nasarthach<s n="adj"/></l><r>Nasaragh<s n="adj"/></r></p></e>
     <e><p><l>nasctha<s n="adj"/></l><r>sniemmit<s n="adj"/></r></p></e>
     <e><p><l>nathach<s n="adj"/></l><r>raaoil<s n="adj"/></r></p></e>
@@ -21002,6 +21155,7 @@
     <e><p><l>neamh-mhóiréiseach<s n="adj"/></l><r>gyn<b/>mooaralys<s n="adj"/></r></p></e>
     <e><p><l>neamhnáireach<s n="adj"/></l><r>neunearagh<s n="adj"/></r></p></e>
     <e><p><l>neamhnitheach<s n="adj"/></l><r>gyn<b/>foaynoo<s n="adj"/></r></p></e>
+    <e><p><l>neamhoifigiúil<s n="adj"/></l><r>neuoikoil<s n="adj"/></r></p></e>
     <e><p><l>neamhoilte<s n="adj"/></l><r>neuschleioil<s n="adj"/></r></p></e>
     <e><p><l>neamhómósach<s n="adj"/></l><r>meeammyssagh<s n="adj"/></r></p></e>
     <e><p><l>neamhonórach<s n="adj"/></l><r>gyn<b/>onnor<s n="adj"/></r></p></e>
@@ -21065,6 +21219,8 @@
     <e><p><l>neasa<s n="adj"/></l><r>niessey<s n="adj"/></r></p></e>
     <e><p><l>neimhe<s n="adj"/></l><r>flaunyssagh<s n="adj"/></r></p></e>
     <e><p><l>Neipealach<s n="adj"/></l><r>Nepaalagh<s n="adj"/></r></p></e>
+    <e><p><l>neirbhíseach<s n="adj"/></l><r>faitçhagh<s n="adj"/></r></p></e>
+    <e><p><l>neodrach<s n="adj"/></l><r>neuchommeeagh<s n="adj"/></r></p></e>
     <e><p><l>neoid<s n="adj"/></l><r>faitagh<s n="adj"/></r></p></e>
     <e><p><l>Neoiliteach<s n="adj"/></l><r>noalittagh<s n="adj"/></r></p></e>
     <e><p><l>nialasach<s n="adj"/></l><r>er<b/>neunhee<s n="adj"/></r></p></e>
@@ -21110,11 +21266,13 @@
     <e><p><l>ochtagánach<s n="adj"/></l><r>hoght<b/>lhiatteeagh<s n="adj"/></r></p></e>
     <e><p><l>ochtaihéidreach<s n="adj"/></l><r>oghtaheedragh<s n="adj"/></r></p></e>
     <e><p><l>ocht<s n="adj"/></l><r>hoght<s n="adj"/></r></p></e>
+    <e><p><l>ochtú<s n="adj"/></l><r>hoghtoo<s n="adj"/></r></p></e>
     <e><p><l>ocrach<s n="adj"/></l><r>peajeogagh<s n="adj"/></r></p></e>
     <e><p><l>ógánach<s n="adj"/></l><r>aegoil<s n="adj"/></r></p></e>
-    <e><p><l>óg<s n="adj"/></l><r>oor<s n="adj"/></r></p></e>
+    <e><p><l>óg<s n="adj"/></l><r>aeg<s n="adj"/></r></p></e>
     <e><p><l>oibleagáideach<s n="adj"/></l><r>kianglagh<s n="adj"/></r></p></e>
     <e><p><l>oibríoch<s n="adj"/></l><r>obbragh<s n="adj"/></r></p></e>
+    <e><p><l>oideachasúil<s n="adj"/></l><r>ynsee<s n="adj"/></r></p></e>
     <e><p><l>oideolaíoch<s n="adj"/></l><r>saase<b/>ynsee<s n="adj"/></r></p></e>
     <e><p><l>oidhreach<s n="adj"/></l><r>eirit<s n="adj"/></r></p></e>
     <e><p><l>oidhreachtúil<s n="adj"/></l><r>eiraghtoil<s n="adj"/></r></p></e>
@@ -21156,6 +21314,7 @@
     <e><p><l>onórach<s n="adj"/></l><r>onnorit<s n="adj"/></r></p></e>
     <e><p><l>óraice<s n="adj"/></l><r>cairagh<s n="adj"/></r></p></e>
     <e><p><l>óráideach<s n="adj"/></l><r>oraidagh<s n="adj"/></r></p></e>
+    <e><p><l>Oráisteach<s n="adj"/></l><r>Oranjagh<s n="adj"/></r></p></e>
     <e><p><l>óraithe<s n="adj"/></l><r>airhey<s n="adj"/></r></p></e>
     <e><p><l>órbhuí<s n="adj"/></l><r>airhey<s n="adj"/></r></p></e>
     <e><p><l>órdhonn<s n="adj"/></l><r>doo-ruy<s n="adj"/></r></p></e>
@@ -21195,6 +21354,7 @@
     <e><p><l>paradacsúil<s n="adj"/></l><r>sou-cheeayllagh<s n="adj"/></r></p></e>
     <e><p><l>paraimíleatach<s n="adj"/></l><r>fo-hidooragh<s n="adj"/></r></p></e>
     <e><p><l>Párasach<s n="adj"/></l><r>Paarysagh<s n="adj"/></r></p></e>
+    <e><p><l>parlaiminteach<s n="adj"/></l><r>ardwhaiyllagh<s n="adj"/></r></p></e>
     <e><p><l>patrarcach<s n="adj"/></l><r>ard-ayroil<s n="adj"/></r></p></e>
     <e><p><l>patuar<s n="adj"/></l><r>feayr-chooishagh<s n="adj"/></r></p></e>
     <e><p><l>peacach<s n="adj"/></l><r>peccoil<s n="adj"/></r></p></e>
@@ -21208,6 +21368,7 @@
     <e><p><l>péisteach<s n="adj"/></l><r>beishteigagh<s n="adj"/></r></p></e>
     <e><p><l>péistiúil<s n="adj"/></l><r>beishteigagh<s n="adj"/></r></p></e>
     <e><p><l>piachánach<s n="adj"/></l><r>peeaghaneagh<s n="adj"/></r></p></e>
+    <e><p><l>pianmhar<s n="adj"/></l><r>piandagh<s n="adj"/></r></p></e>
     <e><p><l>pianpháiseach<s n="adj"/></l><r>angaishagh<s n="adj"/></r></p></e>
     <e><p><l>picilte<s n="adj"/></l><r>piggylit<s n="adj"/></r></p></e>
     <e><p><l>pinc<s n="adj"/></l><r>bane-yiarg<s n="adj"/></r></p></e>
@@ -21269,6 +21430,7 @@
     <e><p><l>pragmatach<s n="adj"/></l><r>pragmatagh<s n="adj"/></r></p></e>
     <e><p><l>práinneach<s n="adj"/></l><r>preaysagh<s n="adj"/></r></p></e>
     <e><p><l>práisciúil<s n="adj"/></l><r>fud<b/>y<b/>cheilley<s n="adj"/></r></p></e>
+    <e><p><l>praiticiúil<s n="adj"/></l><r>ynobbree<s n="adj"/></r></p></e>
     <e><p><l>praitinniúil<s n="adj"/></l><r>kioot<s n="adj"/></r></p></e>
     <e><p><l>prámhaí<s n="adj"/></l><r>twoaieagh<s n="adj"/></r></p></e>
     <e><p><l>prapanta<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
@@ -21289,9 +21451,11 @@
     <e><p><l>priontáilte<s n="adj"/></l><r>prentit<s n="adj"/></r></p></e>
     <e><p><l>priosmach<s n="adj"/></l><r>prismagh<s n="adj"/></r></p></e>
     <e><p><l>proifideach<s n="adj"/></l><r>vondeishagh<s n="adj"/></r></p></e>
+    <e><p><l>proifisiúnta<s n="adj"/></l><r>gerrymoil<s n="adj"/></r></p></e>
     <e><p><l>Proinsiasach<s n="adj"/></l><r>Fransiscagh<s n="adj"/></r></p></e>
     <e><p><l>prólatáireach<s n="adj"/></l><r>obbree<s n="adj"/></r></p></e>
     <e><p><l>prósach<s n="adj"/></l><r>prosoil<s n="adj"/></r></p></e>
+    <e><p><l>Protastúnach<s n="adj"/></l><r>Protestoonagh<s n="adj"/></r></p></e>
     <e><p><l>prúiseach<s n="adj"/></l><r>prooshagh<s n="adj"/></r></p></e>
     <e><p><l>Prúiseach<s n="adj"/></l><r>Prooshagh<s n="adj"/></r></p></e>
     <e><p><l>púbasach<s n="adj"/></l><r>roamagh<s n="adj"/></r></p></e>
@@ -21307,6 +21471,7 @@
     <e><p><l>rabhach<s n="adj"/></l><r>monneydagh<s n="adj"/></r></p></e>
     <e><p><l>racánach<s n="adj"/></l><r>boiraneagh<s n="adj"/></r></p></e>
     <e><p><l>rachmasach<s n="adj"/></l><r>berchagh<s n="adj"/></r></p></e>
+    <e><p><l>radacach<s n="adj"/></l><r>fraueoil<s n="adj"/></r></p></e>
     <e><p><l>radaighníomhach<s n="adj"/></l><r>goul-rooragh<s n="adj"/></r></p></e>
     <e><p><l>rádalaithe<s n="adj"/></l><r>scart<b/>er<b/>y<b/>cheilley<s n="adj"/></r></p></e>
     <e><p><l>radúil<s n="adj"/></l><r>raadeeoil<s n="adj"/></r></p></e>
@@ -21315,6 +21480,8 @@
     <e><p><l>raiceáilte<s n="adj"/></l><r>tholtanagh<s n="adj"/></r></p></e>
     <e><p><l>raidhsiúil<s n="adj"/></l><r>messoil<s n="adj"/></r></p></e>
     <e><p><l>ráiteach<s n="adj"/></l><r>cabberagh<s n="adj"/></r></p></e>
+    <e><p><l>ráite<s n="adj"/></l><r>grait<s n="adj"/></r></p></e>
+    <e><p><l>ráithiúil<s n="adj"/></l><r>raieeoil<s n="adj"/></r></p></e>
     <e><p><l>ramhar<s n="adj"/></l><r>roauyr<s n="adj"/></r></p></e>
     <e><p><l>rancásach<s n="adj"/></l><r>reagh<s n="adj"/></r></p></e>
     <e><p><l>randamach<s n="adj"/></l><r>gyn<b/>tort<s n="adj"/></r></p></e>
@@ -21325,8 +21492,10 @@
     <e><p><l>rathúil<s n="adj"/></l><r>rahoil<s n="adj"/></r></p></e>
     <e><p><l>rathúnasach<s n="adj"/></l><r>sonnyssagh<s n="adj"/></r></p></e>
     <e><p><l>reabhrach<s n="adj"/></l><r>gammanagh<s n="adj"/></r></p></e>
+    <e><p><l>reachtach<s n="adj"/></l><r>slattysagh<s n="adj"/></r></p></e>
     <e><p><l>reachtmhar<s n="adj"/></l><r>rere<b/>yn<b/>leigh<s n="adj"/></r></p></e>
     <e><p><l>reachtúil<s n="adj"/></l><r>reeaghtagh<s n="adj"/></r></p></e>
+    <e><p><l>réadúil<s n="adj"/></l><r>rieughagh<s n="adj"/></r></p></e>
     <e><p><l>réaltach<s n="adj"/></l><r>rollageagh<s n="adj"/></r></p></e>
     <e><p><l>réaltúil<s n="adj"/></l><r>rollageagh<s n="adj"/></r></p></e>
     <e><p><l>réamach<s n="adj"/></l><r>smuggagh<s n="adj"/></r></p></e>
@@ -21348,6 +21517,7 @@
     <e><p><l>réasúnaithe<s n="adj"/></l><r>resoonit<s n="adj"/></r></p></e>
     <e><p><l>réasúnta<s n="adj"/></l><r>resoonagh<s n="adj"/></r></p></e>
     <e><p><l>reathach<s n="adj"/></l><r>roie<s n="adj"/></r></p></e>
+    <e><p><l>reatha<s n="adj"/></l><r>roie<s n="adj"/></r></p></e>
     <e><p><l>réchúiseach<s n="adj"/></l><r>soccaragh<s n="adj"/></r></p></e>
     <e><p><l>rédhorcha<s n="adj"/></l><r>gyn<b/>eayst<s n="adj"/></r></p></e>
     <e><p><l>reibiliúnach<s n="adj"/></l><r>meereiltagh<s n="adj"/></r></p></e>
@@ -21355,6 +21525,7 @@
     <e><p><l>réidh<s n="adj"/></l><r>rea<s n="adj"/></r></p></e>
     <e><p><l>réigiúnach<s n="adj"/></l><r>ardjynagh<s n="adj"/></r></p></e>
     <e><p><l>reiligíneach<s n="adj"/></l><r>cam-chassagh<s n="adj"/></r></p></e>
+    <e><p><l>reiligiúnach<s n="adj"/></l><r>crauee<s n="adj"/></r></p></e>
     <e><p><l>réimiúil<s n="adj"/></l><r>staydoil<s n="adj"/></r></p></e>
     <e><p><l>reisimintiúil<s n="adj"/></l><r>rejimentagh<s n="adj"/></r></p></e>
     <e><p><l>réitithe<s n="adj"/></l><r>greihit<s n="adj"/></r></p></e>
@@ -21387,14 +21558,19 @@
     <e><p><l>ríphurgóideach<s n="adj"/></l><r>feer-phurgaidagh<s n="adj"/></r></p></e>
     <e><p><l>ris<s n="adj"/></l><r>rooisht<s n="adj"/></r></p></e>
     <e><p><l>rite<s n="adj"/></l><r>attit<s n="adj"/></r></p></e>
+    <e><p><l>ríthábhachtach<s n="adj"/></l><r>feer<b/>scanshoil<s n="adj"/></r></p></e>
     <e><p><l>rithimeach<s n="adj"/></l><r>ryddimagh<s n="adj"/></r></p></e>
     <e><p><l>ríúil<s n="adj"/></l><r>reeoil<s n="adj"/></r></p></e>
+    <e><p><l>ró-ard<s n="adj"/></l><r>ro<b/>ard<s n="adj"/></r></p></e>
     <e><p><l>róbheag<s n="adj"/></l><r>ro<b/>veg<s n="adj"/></r></p></e>
     <e><p><l>rocach<s n="adj"/></l><r>roagagh<s n="adj"/></r></p></e>
+    <e><p><l>róchasta<s n="adj"/></l><r>ro<b/>co-chast<s n="adj"/></r></p></e>
     <e><p><l>róchinnte<s n="adj"/></l><r>ro-hickyr<s n="adj"/></r></p></e>
+    <e><p><l>róchostasach<s n="adj"/></l><r>ro<b/>costalagh<s n="adj"/></r></p></e>
     <e><p><l>ródach<s n="adj"/></l><r>rouailtagh<s n="adj"/></r></p></e>
     <e><p><l>ródheacair<s n="adj"/></l><r>ro-ghoillee<s n="adj"/></r></p></e>
     <e><p><l>rodta<s n="adj"/></l><r>loau<s n="adj"/></r></p></e>
+    <e><p><l>ró-éasca<s n="adj"/></l><r>ro<b/>aashagh<s n="adj"/></r></p></e>
     <e><p><l>rófhada<s n="adj"/></l><r>roud<s n="adj"/></r></p></e>
     <e><p><l>rógánta<s n="adj"/></l><r>cleaderagh<s n="adj"/></r></p></e>
     <e><p><l>roghnach<s n="adj"/></l><r>reihyssagh<s n="adj"/></r></p></e>
@@ -21406,16 +21582,24 @@
     <e><p><l>roimh<b/>ionú<s n="adj"/></l><r>roish<b/>yn<b/>traa<s n="adj"/></r></p></e>
     <e><p><l>roimh<b/>ré<s n="adj"/></l><r>rolaue<s n="adj"/></r></p></e>
     <e><p><l>roinnteach<s n="adj"/></l><r>rheynnagh<s n="adj"/></r></p></e>
+    <e><p><l>ró-íseal<s n="adj"/></l><r>ro<b/>injil<s n="adj"/></r></p></e>
+    <e><p><l>róláidir<s n="adj"/></l><r>ro<b/>lajer<s n="adj"/></r></p></e>
+    <e><p><l>róluath<s n="adj"/></l><r>ro<b/>leah<s n="adj"/></r></p></e>
     <e><p><l>Rómánach<s n="adj"/></l><r>Roomainagh<s n="adj"/></r></p></e>
     <e><p><l>rómánsach<s n="adj"/></l><r>romansagh<s n="adj"/></r></p></e>
     <e><p><l>rómhaith<s n="adj"/></l><r>ro<b/>vie<s n="adj"/></r></p></e>
+    <e><p><l>rómhall<s n="adj"/></l><r>ro<b/>moal<s n="adj"/></r></p></e>
     <e><p><l>Rómhánach<s n="adj"/></l><r>Romanagh<s n="adj"/></r></p></e>
+    <e><p><l>rómhinic<s n="adj"/></l><r>ro<b/>mennick<s n="adj"/></r></p></e>
     <e><p><l>rómhór<s n="adj"/></l><r>ro<b/>vooar<s n="adj"/></r></p></e>
+    <e><p><l>ró-óg<s n="adj"/></l><r>ro<b/>aeg<s n="adj"/></r></p></e>
     <e><p><l>ropánta<s n="adj"/></l><r>rastagh<s n="adj"/></r></p></e>
     <e><p><l>rosach<s n="adj"/></l><r>billagh<s n="adj"/></r></p></e>
     <e><p><l>rósach<s n="adj"/></l><r>ruissagh<s n="adj"/></r></p></e>
     <e><p><l>roscach<s n="adj"/></l><r>earishagh<s n="adj"/></r></p></e>
     <e><p><l>rósdearg<s n="adj"/></l><r>rosejiarg<s n="adj"/></r></p></e>
+    <e><p><l>róshásta<s n="adj"/></l><r>ro<b/>saasit<s n="adj"/></r></p></e>
+    <e><p><l>róshimplí<s n="adj"/></l><r>ro<b/>neuchramp<s n="adj"/></r></p></e>
     <e><p><l>rósta<s n="adj"/></l><r>rostit<s n="adj"/></r></p></e>
     <e><p><l>rothach<s n="adj"/></l><r>fainnagh<s n="adj"/></r></p></e>
     <e><p><l>rothlach<s n="adj"/></l><r>chyndaaee<s n="adj"/></r></p></e>
@@ -21449,6 +21633,7 @@
     <e><p><l>Sacsanach<s n="adj"/></l><r>Sostynagh<s n="adj"/></r></p></e>
     <e><p><l>sádach<s n="adj"/></l><r>sadagh<s n="adj"/></r></p></e>
     <e><p><l>sagartúil<s n="adj"/></l><r>saggyrtoil<s n="adj"/></r></p></e>
+    <e><p><l>saibhir<s n="adj"/></l><r>berçhagh<s n="adj"/></r></p></e>
     <e><p><l>Saibíneach<s n="adj"/></l><r>Sabeenagh<s n="adj"/></r></p></e>
     <e><p><l>saighdiúrtha<s n="adj"/></l><r>sidooragh<s n="adj"/></r></p></e>
     <e><p><l>Sailéiseach<s n="adj"/></l><r>Saleesagh<s n="adj"/></r></p></e>
@@ -21465,6 +21650,7 @@
     <e><p><l>sáithithe<s n="adj"/></l><r>saiagh<s n="adj"/></r></p></e>
     <e><p><l>salach<s n="adj"/></l><r>sallagh<s n="adj"/></r></p></e>
     <e><p><l>salanda<s n="adj"/></l><r>sollanagh<s n="adj"/></r></p></e>
+    <e><p><l>samhalta<s n="adj"/></l><r>soylagh<s n="adj"/></r></p></e>
     <e><p><l>sámhasach<s n="adj"/></l><r>sayntoil<s n="adj"/></r></p></e>
     <e><p><l>samhlachúil<s n="adj"/></l><r>sampleyragh<s n="adj"/></r></p></e>
     <e><p><l>samhlaíoch<s n="adj"/></l><r>sheiltynagh<s n="adj"/></r></p></e>
@@ -21494,8 +21680,9 @@
     <e><p><l>sáraitheach<s n="adj"/></l><r>deinagh<s n="adj"/></r></p></e>
     <e><p><l>sáraithe<s n="adj"/></l><r>crost<s n="adj"/></r></p></e>
     <e><p><l>sárchéimeach<s n="adj"/></l><r>sur-cheimagh<s n="adj"/></r></p></e>
+    <e><p><l>sármhaith<s n="adj"/></l><r>ree-vie<s n="adj"/></r></p></e>
     <e><p><l>Sasanach<s n="adj"/></l><r>Sostnagh<s n="adj"/></r></p></e>
-    <e><p><l>sásta<s n="adj"/></l><r>gastey<s n="adj"/></r></p></e>
+    <e><p><l>sásta<s n="adj"/></l><r>saasit<s n="adj"/></r></p></e>
     <e><p><l>sásúil<s n="adj"/></l><r>booisal<s n="adj"/></r></p></e>
     <e><p><l>scabhartha<s n="adj"/></l><r>scoorit<s n="adj"/></r></p></e>
     <e><p><l>scáfar<s n="adj"/></l><r>agglagh<s n="adj"/></r></p></e>
@@ -21531,6 +21718,7 @@
     <e><p><l>scealpach<s n="adj"/></l><r>skeiltit<s n="adj"/></r></p></e>
     <e><p><l>sceartach<s n="adj"/></l><r>prinjeigagh<s n="adj"/></r></p></e>
     <e><p><l>sceidealach<s n="adj"/></l><r>bioyr<s n="adj"/></r></p></e>
+    <e><p><l>sceidealta<s n="adj"/></l><r>currit<b/>er<b/>skedjal<s n="adj"/></r></p></e>
     <e><p><l>sceimhlithe<s n="adj"/></l><r>agglit<b/>ass<s n="adj"/></r></p></e>
     <e><p><l>scéiniúil<s n="adj"/></l><r>agglit<b/>ass<s n="adj"/></r></p></e>
     <e><p><l>sceiteach<s n="adj"/></l><r>brishtagh<s n="adj"/></r></p></e>
@@ -21578,9 +21766,11 @@
     <e><p><l>seachantach<s n="adj"/></l><r>noi-heshaghtagh<s n="adj"/></r></p></e>
     <e><p><l>seachmallach<s n="adj"/></l><r>mollit<s n="adj"/></r></p></e>
     <e><p><l>seachránach<s n="adj"/></l><r>shaghrynagh<s n="adj"/></r></p></e>
+    <e><p><l>seachtainiúil<s n="adj"/></l><r>shiaghtinoil<s n="adj"/></r></p></e>
     <e><p><l>seachtfhillte<s n="adj"/></l><r>shiaght<b/>filley<s n="adj"/></r></p></e>
     <e><p><l>seachtrach<s n="adj"/></l><r>mooie<s n="adj"/></r></p></e>
     <e><p><l>seacht<s n="adj"/></l><r>shiaght<s n="adj"/></r></p></e>
+    <e><p><l>seachtú<s n="adj"/></l><r>çhiaghtoo<s n="adj"/></r></p></e>
     <e><p><l>seadánach<s n="adj"/></l><r>sheadanagh<s n="adj"/></r></p></e>
     <e><p><l>seafóideach<s n="adj"/></l><r>ommidjagh<s n="adj"/></r></p></e>
     <e><p><l>sealadach<s n="adj"/></l><r>shallidagh<s n="adj"/></r></p></e>
@@ -21632,6 +21822,7 @@
     <e><p><l>seolta<s n="adj"/></l><r>aghtal<s n="adj"/></r></p></e>
     <e><p><l>seo<s n="adj"/></l><r>shoh<s n="adj"/></r></p></e>
     <e><p><l>sé<s n="adj"/></l><r>shey<s n="adj"/></r></p></e>
+    <e><p><l>séú<s n="adj"/></l><r>çheyoo<s n="adj"/></r></p></e>
     <e><p><l>Siamach<s n="adj"/></l><r>Seeamagh<s n="adj"/></r></p></e>
     <e><p><l>siansach<s n="adj"/></l><r>sheeansagh<s n="adj"/></r></p></e>
     <e><p><l>siansánach<s n="adj"/></l><r>kiaullaneagh<s n="adj"/></r></p></e>
@@ -21640,6 +21831,7 @@
     <e><p><l>sibhialtach<s n="adj"/></l><r>shivoilagh<s n="adj"/></r></p></e>
     <e><p><l>sibhialta<s n="adj"/></l><r>cooyrtoil<s n="adj"/></r></p></e>
     <e><p><l>síceach<s n="adj"/></l><r>sheekagh<s n="adj"/></r></p></e>
+    <e><p><l>síceolaíoch<s n="adj"/></l><r>shicklaagagh<s n="adj"/></r></p></e>
     <e><p><l>síciatrach<s n="adj"/></l><r>shickeeatragh<s n="adj"/></r></p></e>
     <e><p><l>Sicileach<s n="adj"/></l><r>Shisslagh<s n="adj"/></r></p></e>
     <e><p><l>sifleáilte<s n="adj"/></l><r>meecheeayllagh<s n="adj"/></r></p></e>
@@ -21649,7 +21841,7 @@
     <e><p><l>silteach<s n="adj"/></l><r>feoiltagh<s n="adj"/></r></p></e>
     <e><p><l>silte<s n="adj"/></l><r>annooinit<s n="adj"/></r></p></e>
     <e><p><l>siméadrach<s n="adj"/></l><r>shimmeadragh<s n="adj"/></r></p></e>
-    <e><p><l>simplí<s n="adj"/></l><r>jeeragh<s n="adj"/></r></p></e>
+    <e><p><l>simplí<s n="adj"/></l><r>neuchramp<s n="adj"/></r></p></e>
     <e><p><l>Síneach<s n="adj"/></l><r>Sheenagh<s n="adj"/></r></p></e>
     <e><p><l>singil<s n="adj"/></l><r>thanney<s n="adj"/></r></p></e>
     <e><p><l>sinsearach<s n="adj"/></l><r>shennayragh<s n="adj"/></r></p></e>
@@ -21668,6 +21860,7 @@
     <e><p><l>síolach<s n="adj"/></l><r>sheelagh<s n="adj"/></r></p></e>
     <e><p><l>siollach<s n="adj"/></l><r>sheelagh<s n="adj"/></r></p></e>
     <e><p><l>síolmhar<s n="adj"/></l><r>sluightoil<s n="adj"/></r></p></e>
+    <e><p><l>siombalach<s n="adj"/></l><r>cosoylagh<s n="adj"/></r></p></e>
     <e><p><l>Siónach<s n="adj"/></l><r>Seionagh<s n="adj"/></r></p></e>
     <e><p><l>síonbhuailte<s n="adj"/></l><r>ceaut<b/>ec<b/>yn<b/>emshir<s n="adj"/></r></p></e>
     <e><p><l>síonchaite<s n="adj"/></l><r>as<b/>daah<b/>ny<b/>greiney<b/>er<s n="adj"/></r></p></e>
@@ -21765,6 +21958,8 @@
     <e><p><l>soineanta<s n="adj"/></l><r>oney<s n="adj"/></r></p></e>
     <e><p><l>so-iompair<s n="adj"/></l><r>ymmyrkagh<s n="adj"/></r></p></e>
     <e><p><l>soiscéalach<s n="adj"/></l><r>sushtallagh<s n="adj"/></r></p></e>
+    <e><p><l>sóisearach<s n="adj"/></l><r>saa<s n="adj"/></r></p></e>
+    <e><p><l>sóisialach<s n="adj"/></l><r>sheshoil<s n="adj"/></r></p></e>
     <e><p><l>sóisialaíoch<s n="adj"/></l><r>soshialleeagh<s n="adj"/></r></p></e>
     <e><p><l>sóisialta<s n="adj"/></l><r>sheshoil<s n="adj"/></r></p></e>
     <e><p><l>soithíoch<s n="adj"/></l><r>cuishlagh<s n="adj"/></r></p></e>
@@ -21819,15 +22014,17 @@
     <e><p><l>spéiriúil<s n="adj"/></l><r>gennal<s n="adj"/></r></p></e>
     <e><p><l>speisialaithe<s n="adj"/></l><r>sur-<s n="adj"/></r></p></e>
     <e><p><l>speisialta<s n="adj"/></l><r>neuchadjin<s n="adj"/></r></p></e>
-    <e><p><l>spéisiúil<s n="adj"/></l><r>bwoyagh<s n="adj"/></r></p></e>
+    <e><p><l>spéisiúil<s n="adj"/></l><r>symoil<s n="adj"/></r></p></e>
     <e><p><l>spiacánach<s n="adj"/></l><r>feeacklagh<s n="adj"/></r></p></e>
     <e><p><l>spíceach<s n="adj"/></l><r>spaikagh<s n="adj"/></r></p></e>
     <e><p><l>spídiúil<s n="adj"/></l><r>floutagh<s n="adj"/></r></p></e>
     <e><p><l>spíonach<s n="adj"/></l><r>jialgagh<s n="adj"/></r></p></e>
     <e><p><l>spionnúil<s n="adj"/></l><r>tramylt<s n="adj"/></r></p></e>
     <e><p><l>spíonta<s n="adj"/></l><r>marroo<s n="adj"/></r></p></e>
+    <e><p><l>spioradálta<s n="adj"/></l><r>spyrrydoil<s n="adj"/></r></p></e>
     <e><p><l>splanctha<s n="adj"/></l><r>jymmoosagh<s n="adj"/></r></p></e>
     <e><p><l>splancúil<s n="adj"/></l><r>drillinagh<s n="adj"/></r></p></e>
+    <e><p><l>spleách<s n="adj"/></l><r>croghey<s n="adj"/></r></p></e>
     <e><p><l>spleodrach<s n="adj"/></l><r>annymoil<s n="adj"/></r></p></e>
     <e><p><l>splíonach<s n="adj"/></l><r>goan<s n="adj"/></r></p></e>
     <e><p><l>spontáineach<s n="adj"/></l><r>seyr-hoillagh<s n="adj"/></r></p></e>
@@ -21916,6 +22113,7 @@
     <e><p><l>suarach<s n="adj"/></l><r>carragh<s n="adj"/></r></p></e>
     <e><p><l>subhach<s n="adj"/></l><r>gennal<s n="adj"/></r></p></e>
     <e><p><l>substainteach<s n="adj"/></l><r>substantagh<s n="adj"/></r></p></e>
+    <e><p><l>substaintiúil<s n="adj"/></l><r>fondagh<s n="adj"/></r></p></e>
     <e><p><l>súgach<s n="adj"/></l><r>gennal<s n="adj"/></r></p></e>
     <e><p><l>súgrach<s n="adj"/></l><r>gammanagh<s n="adj"/></r></p></e>
     <e><p><l>súilaibí<s n="adj"/></l><r>geyre-hooillagh<s n="adj"/></r></p></e>
@@ -21941,6 +22139,7 @@
     <e><p><l>tagrach<s n="adj"/></l><r>taagraph<s n="adj"/></r></p></e>
     <e><p><l>taibhseach<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>taibhsiúil<s n="adj"/></l><r>scaanagh<s n="adj"/></r></p></e>
+    <e><p><l>taicticiúil<s n="adj"/></l><r>bartagh<s n="adj"/></r></p></e>
     <e><p><l>taidhiúir<s n="adj"/></l><r>trimshagh<s n="adj"/></r></p></e>
     <e><p><l>tailc<s n="adj"/></l><r>chiu<s n="adj"/></r></p></e>
     <e><p><l>tairbheach<s n="adj"/></l><r>vondeishagh<s n="adj"/></r></p></e>
@@ -22007,7 +22206,9 @@
     <e><p><l>teasghrách<s n="adj"/></l><r>jeean<s n="adj"/></r></p></e>
     <e><p><l>teaspúil<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>teastúil<s n="adj"/></l><r>ard-ghooagh<s n="adj"/></r></p></e>
+    <e><p><l>teibí<s n="adj"/></l><r>neuloaghtagh<s n="adj"/></r></p></e>
     <e><p><l>teicneolaíoch<s n="adj"/></l><r>chaghnoaylleeagh<s n="adj"/></r></p></e>
+    <e><p><l>teicniúil<s n="adj"/></l><r>çhaghnyssagh<s n="adj"/></r></p></e>
     <e><p><l>teidealach<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>teidheach<s n="adj"/></l><r>teaymagh<s n="adj"/></r></p></e>
     <e><p><l>téiglí<s n="adj"/></l><r>lhiastey<s n="adj"/></r></p></e>
@@ -22036,6 +22237,7 @@
     <e><p><l>thar<b/>maoil<s n="adj"/></l><r>er<b/>ghlee<s n="adj"/></r></p></e>
     <e><p><l>thar<b/>oíche<s n="adj"/></l><r>fud<b/>ny<b/>hoie<s n="adj"/></r></p></e>
     <e><p><l>thar<b/>tír<s n="adj"/></l><r>har<b/>cheer<s n="adj"/></r></p></e>
+    <e><p><l>theas<s n="adj"/></l><r>jiass<s n="adj"/></r></p></e>
     <e><p><l>thíosluaite<s n="adj"/></l><r>imraait<b/>heese<s n="adj"/></r></p></e>
     <e><p><l>thíos<s n="adj"/></l><r>aarlee<s n="adj"/></r></p></e>
     <e><p><l>thoir<s n="adj"/></l><r>shiar<s n="adj"/></r></p></e>
@@ -22058,10 +22260,12 @@
     <e><p><l>tinnlag<s n="adj"/></l><r>asslayntagh<s n="adj"/></r></p></e>
     <e><p><l>tinn<s n="adj"/></l><r>ching<s n="adj"/></r></p></e>
     <e><p><l>tíolacthach<s n="adj"/></l><r>toyrtagh<s n="adj"/></r></p></e>
+    <e><p><l>tiomanta<s n="adj"/></l><r>çhymnit<s n="adj"/></r></p></e>
     <e><p><l>tiomsaitheach<s n="adj"/></l><r>co-hellooderagh<s n="adj"/></r></p></e>
     <e><p><l>tiomsaithe<s n="adj"/></l><r>hymsee<s n="adj"/></r></p></e>
     <e><p><l>tionscantach<s n="adj"/></l><r>entreilagh<s n="adj"/></r></p></e>
     <e><p><l>tionsclach<s n="adj"/></l><r>ladoosagh<s n="adj"/></r></p></e>
+    <e><p><l>tionsclaíoch<s n="adj"/></l><r>çhynskylagh<s n="adj"/></r></p></e>
     <e><p><l>tiontaithe<s n="adj"/></l><r>chyndaait<s n="adj"/></r></p></e>
     <e><p><l>tíopúil<s n="adj"/></l><r>sampleyragh<s n="adj"/></r></p></e>
     <e><p><l>tíoránta<s n="adj"/></l><r>tranlaasagh<s n="adj"/></r></p></e>
@@ -22124,6 +22328,7 @@
     <e><p><l>trasna<s n="adj"/></l><r>tessen<s n="adj"/></r></p></e>
     <e><p><l>tráthúil<s n="adj"/></l><r>traaoil<s n="adj"/></r></p></e>
     <e><p><l>treabhar<s n="adj"/></l><r>tramylt<s n="adj"/></r></p></e>
+    <e><p><l>tréadach<s n="adj"/></l><r>bochillagh<s n="adj"/></r></p></e>
     <e><p><l>treallach<s n="adj"/></l><r>teaymagh<s n="adj"/></r></p></e>
     <e><p><l>treallánach<s n="adj"/></l><r>teaymagh<s n="adj"/></r></p></e>
     <e><p><l>treallúsach<s n="adj"/></l><r>treealysagh<s n="adj"/></r></p></e>
@@ -22151,6 +22356,8 @@
     <e><p><l>trianach<s n="adj"/></l><r>trooragh<s n="adj"/></r></p></e>
     <e><p><l>triantánach<s n="adj"/></l><r>trooraneagh<s n="adj"/></r></p></e>
     <e><p><l>triantánúil<s n="adj"/></l><r>trooaneaghtagh<s n="adj"/></r></p></e>
+    <e><p><l>triarach<s n="adj"/></l><r>tree<b/>filley<s n="adj"/></r></p></e>
+    <e><p><l>trí<b/>chéad<s n="adj"/></l><r>tree<b/>cheead<s n="adj"/></r></p></e>
     <e><p><l>tríbhliantúil<s n="adj"/></l><r>treebleeantag<s n="adj"/></r></p></e>
     <e><p><l>tríchosach<s n="adj"/></l><r>tree<b/>cassagh<s n="adj"/></r></p></e>
     <e><p><l>tric<s n="adj"/></l><r>trick<s n="adj"/></r></p></e>
@@ -22204,6 +22411,7 @@
     <e><p><l>tuirseach<s n="adj"/></l><r>trimshagh<s n="adj"/></r></p></e>
     <e><p><l>tuirsiúil<s n="adj"/></l><r>tooilleilagh<s n="adj"/></r></p></e>
     <e><p><l>tuisceanach<s n="adj"/></l><r>tastagh<s n="adj"/></r></p></e>
+    <e><p><l>túisce<s n="adj"/></l><r>leaie<s n="adj"/></r></p></e>
     <e><p><l>tuismitheoirí<s n="adj"/></l><r>ayrey<b/>as<b/>mayrey<s n="adj"/></r></p></e>
     <e><p><l>tuí<s n="adj"/></l><r>thooit<s n="adj"/></r></p></e>
     <e><p><l>Turcach<s n="adj"/></l><r>Turkagh<s n="adj"/></r></p></e>
@@ -22213,11 +22421,13 @@
     <e><p><l>Tuscánach<s n="adj"/></l><r>Tuscaanagh<s n="adj"/></r></p></e>
     <e><p><l>tútach<s n="adj"/></l><r>kiuttagh<s n="adj"/></r></p></e>
     <e><p><l>tuthógach<s n="adj"/></l><r>breinn<s n="adj"/></r></p></e>
+    <e><p><l>uachtarach<s n="adj"/></l><r>eaghtyragh<s n="adj"/></r></p></e>
     <e><p><l>uachtaráin<s n="adj"/></l><r>eaghtyraneagh<s n="adj"/></r></p></e>
     <e><p><l>uafar<s n="adj"/></l><r>graney<s n="adj"/></r></p></e>
     <e><p><l>uafásach<s n="adj"/></l><r>atchimagh<s n="adj"/></r></p></e>
     <e><p><l>uaibhreach<s n="adj"/></l><r>rank<s n="adj"/></r></p></e>
     <e><p><l>uaigneach<s n="adj"/></l><r>neuheiltagh<s n="adj"/></r></p></e>
+    <e><p><l>uaillmhianach<s n="adj"/></l><r>mooaralagh<s n="adj"/></r></p></e>
     <e><p><l>uaineach<s n="adj"/></l><r>anchinjagh<s n="adj"/></r></p></e>
     <e><p><l>uaine<s n="adj"/></l><r>geayney<s n="adj"/></r></p></e>
     <e><p><l>ualaithe<s n="adj"/></l><r>laadit<s n="adj"/></r></p></e>
@@ -22230,8 +22440,10 @@
     <e><p><l>uascánta<s n="adj"/></l><r>macaintagh<s n="adj"/></r></p></e>
     <e><p><l>uaslathach<s n="adj"/></l><r>ooasle<s n="adj"/></r></p></e>
     <e><p><l>uasta<s n="adj"/></l><r>syrjey<s n="adj"/></r></p></e>
+    <e><p><l>uathoibríoch<s n="adj"/></l><r>seyr-obbragh<s n="adj"/></r></p></e>
     <e><p><l>uathoibrithe<s n="adj"/></l><r>jeant<b/>seyr-obbragh<s n="adj"/></r></p></e>
     <e><p><l>uathspreagtha<s n="adj"/></l><r>joinagh<s n="adj"/></r></p></e>
+    <e><p><l>uathúil<s n="adj"/></l><r>ynrican<s n="adj"/></r></p></e>
     <e><p><l>ubhach<s n="adj"/></l><r>oohagh<s n="adj"/></r></p></e>
     <e><p><l>uchtach<s n="adj"/></l><r>cleeauagh<s n="adj"/></r></p></e>
     <e><p><l>uchtúil<s n="adj"/></l><r>sheeintagh<s n="adj"/></r></p></e>
@@ -22246,12 +22458,14 @@
     <e><p><l>uilechoiteann<s n="adj"/></l><r>tuinnaghyn<s n="adj"/></r></p></e>
     <e><p><l>uilechuimsitheach<s n="adj"/></l><r>cummalagh<s n="adj"/></r></p></e>
     <e><p><l>uilechumhachtach<s n="adj"/></l><r>ooilley-niartal<s n="adj"/></r></p></e>
+    <e><p><l>uile-Éireann<s n="adj"/></l><r>ooilley-Nerin<s n="adj"/></r></p></e>
     <e><p><l>uilefheasach<s n="adj"/></l><r>ooilley-creenagh<s n="adj"/></r></p></e>
     <e><p><l>uileghabhálach<s n="adj"/></l><r>ooilley-ghoaillagh<s n="adj"/></r></p></e>
     <e><p><l>uileláithreach<s n="adj"/></l><r>ooilley-laaragh<s n="adj"/></r></p></e>
     <e><p><l>uile<s n="adj"/></l><r>ooilley<s n="adj"/></r></p></e>
     <e><p><l>uilíoch<s n="adj"/></l><r>tuinneym<s n="adj"/></r></p></e>
     <e><p><l>uiliteach<s n="adj"/></l><r>ooilley-jeeillagh<s n="adj"/></r></p></e>
+    <e><p><l>uilleach<s n="adj"/></l><r>uillinagh<s n="adj"/></r></p></e>
     <e><p><l>uimheartha<s n="adj"/></l><r>earrooagh<s n="adj"/></r></p></e>
     <e><p><l>uimhríochtúil<s n="adj"/></l><r>earrooaghtagh<s n="adj"/></r></p></e>
     <e><p><l>úimléideach<s n="adj"/></l><r>ymmydoil<s n="adj"/></r></p></e>

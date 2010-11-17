@@ -6914,6 +6914,20 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kynne/y__n_m">
+      <e>
+        <p>
+          <l>y</l>
+          <r>y<s n="n"/><s n="m"/><s n="sg"/><s n="com"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>y<s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="k/eeill__n_f">
       <e>
         <p>
@@ -7137,20 +7151,6 @@
         <p>
           <l>ir</l>
           <r>r<s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="b/olg__n_m">
-      <e>
-        <p>
-          <l>olg</l>
-          <r>olg<s n="n"/><s n="m"/><s n="sg"/><s n="com"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>uilg</l>
-          <r>olg<s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
         </p>
       </e>
     </pardef>
@@ -9429,20 +9429,6 @@
         <p>
           <l>jyn</l>
           <r>ley<s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="oe__n_m">
-      <e>
-        <p>
-          <l></l>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="com"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ghyn</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
         </p>
       </e>
     </pardef>
@@ -12315,20 +12301,6 @@
         <p>
           <l>it</l>
           <r><s n="vblex"/><s n="pp"/><s n="sg"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="modde/y__n_m">
-      <e>
-        <p>
-          <l>y</l>
-          <r>y<s n="n"/><s n="m"/><s n="sg"/><s n="com"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>e</l>
-          <r>y<s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
         </p>
       </e>
     </pardef>
@@ -16068,6 +16040,20 @@
         </p>
       </e>
     </pardef>
+    <pardef n="b/olg__n_m">
+      <e>
+        <p>
+          <l>olg</l>
+          <r>olg<s n="n"/><s n="m"/><s n="sg"/><s n="com"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uilg</l>
+          <r>olg<s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="et/tyl__vblex">
       <e>
         <p>
@@ -18134,6 +18120,20 @@
         </p>
       </e>
     </pardef>
+    <pardef n="oe__n_m">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="com"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ghyn</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="com"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="cas/s__vblex">
       <e>
         <p>
@@ -19868,6 +19868,7 @@
     <e lm="çhyrmee"><par n="initial-çh"/><i>yrm</i><par n="re/ee__vblex"/></e>
     <e lm="jarroo"><par n="initial-j"/><i>arroo</i><par n="fo__adj"/></e>
     <e lm="margeeaght"><par n="initial-m"/><i>argeeaght</i><par n="muc__n_f"/></e>
+    <e lm="raieeoil"><i>raieeoil</i><par n="fo__adj"/></e>
     <e lm="scroggyl"><par n="initial-s"/><i>croggyl</i><par n="ee__n_m"/></e>
     <e lm="beekyr"><par n="initial-b"/><i>eekyr</i><par n="ee__n_m"/></e>
     <e lm="cluicagh"><par n="initial-c"/><i>luicagh</i><par n="fo__adj"/></e>
@@ -19879,6 +19880,7 @@
     <e lm="toghtit"><par n="initial-t"/><i>oghtit</i><par n="fo__adj"/></e>
     <e lm="freggyragh"><par n="initial-f"/><i>reggyragh</i><par n="fo__adj"/></e>
     <e lm="faaishneyder"><par n="initial-f"/><i>aaishneyder</i><par n="ee__n_m"/></e>
+    <e lm="çhaghnyssagh"><par n="initial-çh"/><i>aghnyssagh</i><par n="fo__adj"/></e>
     <e lm="garleid"><par n="initial-g"/><i>arleid</i><par n="muc__n_f"/></e>
     <e lm="barelagh"><par n="initial-b"/><i>arelagh</i><par n="fo__adj"/></e>
     <e lm="granganys"><par n="initial-g"/><i>ranganys</i><par n="fys__n_m"/></e>
@@ -20013,7 +20015,7 @@
     <e lm="beeagheyder"><par n="initial-b"/><i>eeagheyder</i><par n="ee__n_m"/></e>
     <e lm="scoylgernee"><par n="initial-s"/><i>coylgernee</i><par n="muc__n_f"/></e>
     <e lm="neufasteeagh"><i>neufasteeagh</i><par n="fo__adj"/></e>
-    <e lm="noi-physhoon"><i>noi-physhoon</i><par n="ee__n_m"/></e>
+    <e lm="cloaie"><par n="initial-c"/><i>loaie</i><par n="fo__adj"/></e>
     <e lm="sideyraght"><par n="initial-s"/><i>ideyraght</i><par n="muc__n_f"/></e>
     <e lm="jiargan"><par n="initial-j"/><i>iargan</i><par n="ee__n_m"/></e>
     <e lm="martyrys"><par n="initial-m"/><i>artyrys</i><par n="fys__n_m"/></e>
@@ -20061,6 +20063,7 @@
     <e lm="guirr"><par n="initial-g"/><i>uirr</i><par n="soo__vblex"/></e>
     <e lm="tango"><par n="initial-t"/><i>ango</i><par n="ee__n_m"/></e>
     <e lm="clouscreeuder"><par n="initial-c"/><i>louscreeuder</i><par n="ee__n_m"/></e>
+    <e lm="raghtal"><i>raghtal</i><par n="fo__adj"/></e>
     <e lm="asney"><par n="initial-a"/><i>sn</i><par n="t/ey__n_m"/></e>
     <e lm="stratafeyr"><par n="initial-str"/><i>atafeyr</i><par n="ee__n_m"/></e>
     <e lm="Pershish"><par n="initial-P"/><i>ershish</i><par n="muc__n_f"/></e>
@@ -20185,6 +20188,7 @@
     <e lm="volcaanagh"><i>volcaanagh</i><par n="fo__adj"/></e>
     <e lm="clea"><par n="initial-c"/><i>le</i><par n="cle/a__n_f"/></e>
     <e lm="faih"><par n="initial-f"/><i>aih</i><par n="ee__n_m"/></e>
+    <e lm="moggylagh"><par n="initial-m"/><i>oggylagh</i><par n="fo__adj"/></e>
     <e lm="clee"><par n="initial-c"/><i>lee</i><par n="ee__n_m"/></e>
     <e lm="clee"><par n="initial-c"/><i>lee</i><par n="fo__adj"/></e>
     <e lm="missilid"><par n="initial-m"/><i>issilid</i><par n="ee__n_m"/></e>
@@ -20262,6 +20266,7 @@
     <e lm="booie"><par n="initial-b"/><i>ooie</i><par n="ee__n_m"/></e>
     <e lm="booie"><par n="initial-b"/><i>ooie</i><par n="fo__adj"/></e>
     <e lm="urrysaght"><par n="initial-u"/><i>rrysaght</i><par n="muc__n_f"/></e>
+    <e lm="feedoo"><par n="initial-f"/><i>eedoo</i><par n="fo__adj"/></e>
     <e lm="failleydagh"><par n="initial-f"/><i>ailleyd</i><par n="e/agh__n_m"/></e>
     <e lm="caarjoil"><par n="initial-c"/><i>aarjoil</i><par n="ee__n_m"/></e>
     <e lm="caarjoil"><par n="initial-c"/><i>aarjoil</i><par n="fo__adj"/></e>
@@ -20313,6 +20318,7 @@
     <e lm="leeideilty"><i>leeideilty</i><par n="ee__n_m"/></e>
     <e lm="essyn"><par n="initial-e"/><i>ssyn</i><par n="ee__n_m"/></e>
     <e lm="braddee"><par n="initial-b"/><i>raddee</i><par n="ee__n_m"/></e>
+    <e lm="clinicoil"><par n="initial-c"/><i>linicoil</i><par n="fo__adj"/></e>
     <e lm="credjalaght"><par n="initial-c"/><i>redjalaght</i><par n="muc__n_f"/></e>
     <e lm="frauehoylley"><par n="initial-f"/><i>rauehoyll</i><par n="r/ey__n_f"/></e>
     <e lm="Paishagh"><par n="initial-P"/><i>aish</i><par n="e/agh__n_m"/></e>
@@ -20431,6 +20437,7 @@
     <e lm="Armeain"><i>Armeain</i><par n="veg__n_GU"/></e>
     <e lm="skeog"><par n="initial-s"/><i>keog</i><par n="muc__n_f"/></e>
     <e lm="naightanee"><i>naightanee</i><par n="ee__n_m"/></e>
+    <e lm="tradishoon"><par n="initial-t"/><i>radishoon</i><par n="ee__n_m"/></e>
     <e lm="trooid-heeltaght"><par n="initial-t"/><i>rooid-heeltaght</i><par n="muc__n_f"/></e>
     <e lm="cassit"><par n="initial-c"/><i>assit</i><par n="fo__adj"/></e>
     <e lm="lhiasteyr"><i>lhiasteyr</i><par n="ee__n_m"/></e>
@@ -20447,6 +20454,7 @@
     <e lm="lhoob"><i>lhoob</i><par n="mest__vblex"/></e>
     <e lm="croshag"><par n="initial-c"/><i>roshag</i><par n="muc__n_f"/></e>
     <e lm="messoil"><par n="initial-m"/><i>essoil</i><par n="fo__adj"/></e>
+    <e lm="kioneraadagh"><par n="initial-k"/><i>ioneraadagh</i><par n="fo__adj"/></e>
     <e lm="sladdan"><par n="initial-sl"/><i>addan</i><par n="ee__n_m"/></e>
     <e lm="noaght"><i>noaght</i><par n="muc__n_f"/></e>
     <e lm="ooill-yalloo"><par n="initial-o"/><i>oill-yalloo</i><par n="muc__n_f"/></e>
@@ -20501,7 +20509,7 @@
     <e lm="kioneysagh"><par n="initial-k"/><i>ioneysagh</i><par n="fo__adj"/></e>
     <e lm="jerrinagh"><par n="initial-j"/><i>errin</i><par n="e/agh__n_m"/></e>
     <e lm="jerrinagh"><par n="initial-j"/><i>errinagh</i><par n="fo__adj"/></e>
-    <e lm="oanluckeyr"><par n="initial-o"/><i>anluckeyr</i><par n="ee__n_m"/></e>
+    <e lm="cohirreydagh"><par n="initial-c"/><i>ohirreydagh</i><par n="fo__adj"/></e>
     <e lm="streng"><par n="initial-str"/><i>eng</i><par n="muc__n_f"/></e>
     <e lm="catalytagh"><par n="initial-c"/><i>atalytagh</i><par n="fo__adj"/></e>
     <e lm="troagyraght"><par n="initial-t"/><i>roagyraght</i><par n="muc__n_f"/></e>
@@ -20586,7 +20594,7 @@
     <e lm="bunaghey"><par n="initial-b"/><i>unagh</i><par n="t/ey__n_m"/></e>
     <e lm="kieddagh"><par n="initial-k"/><i>iedd</i><par n="e/agh__n_m"/></e>
     <e lm="kieddagh"><par n="initial-k"/><i>ieddagh</i><par n="fo__adj"/></e>
-    <e lm="gallasyn"><par n="initial-g"/><i>allasyn</i><par n="ee__n_m"/></e>
+    <e lm="daan"><par n="initial-d"/><i>aan</i><par n="ee__n_m"/></e>
     <e lm="pryssoonagh"><par n="initial-p"/><i>ryssoon</i><par n="e/agh__n_m"/></e>
     <e lm="sleetch"><par n="initial-sl"/><i>eetch</i><par n="ee__n_m"/></e>
     <e lm="taghys"><par n="initial-t"/><i>aghys</i><par n="lus__n_f"/></e>
@@ -20738,10 +20746,12 @@
     <e lm="fynney"><par n="initial-f"/><i>ynn</i><par n="t/ey__n_m"/></e>
     <e lm="aa-insh"><par n="initial-a"/><i>a-insh</i><par n="ee__n_m"/></e>
     <e lm="lommeyder"><i>lommeyder</i><par n="ee__n_m"/></e>
+    <e lm="laue-jeant"><i>laue-jeant</i><par n="fo__adj"/></e>
     <e lm="Albaan"><i>Albaan</i><par n="veg__n_GU"/></e>
     <e lm="aspickys"><par n="initial-a"/><i>spickys</i><par n="fys__n_m"/></e>
     <e lm="boggyssagh"><par n="initial-b"/><i>oggyss</i><par n="e/agh__n_m"/></e>
     <e lm="maidjey"><par n="initial-m"/><i>aidj</i><par n="t/ey__n_m"/></e>
+    <e lm="maidjey"><par n="initial-m"/><i>aidjey</i><par n="fo__adj"/></e>
     <e lm="chymshallys"><par n="initial-c"/><i>hymshallys</i><par n="fys__n_m"/></e>
     <e lm="meehaghyrtagh"><par n="initial-m"/><i>eehaghyrtagh</i><par n="fo__adj"/></e>
     <e lm="mastodon"><par n="initial-m"/><i>astodon</i><par n="ee__n_m"/></e>
@@ -20886,6 +20896,7 @@
     <e lm="absaloidaghys"><par n="initial-a"/><i>bsaloidaghys</i><par n="fys__n_m"/></e>
     <e lm="aggair"><par n="initial-a"/><i>ggair</i><par n="muc__n_f"/></e>
     <e lm="cooin"><par n="initial-c"/><i>oo</i><par n="coo/in__vblex"/></e>
+    <e lm="kiare-uillinagh"><par n="initial-k"/><i>iare-uillinagh</i><par n="fo__adj"/></e>
     <e lm="lane-yerkallagh"><i>lane-yerkall</i><par n="e/agh__n_m"/></e>
     <e lm="sheeanaghtys"><par n="initial-sh"/><i>eeanaghtys</i><par n="fys__n_m"/></e>
     <e lm="iightyr"><par n="initial-i"/><i>ightyr</i><par n="ee__n_m"/></e>
@@ -20997,6 +21008,7 @@
     <e lm="doarnaig"><par n="initial-d"/><i>oarnaig</i><par n="muc__n_f"/></e>
     <e lm="uranium"><par n="initial-u"/><i>ranium</i><par n="ee__n_m"/></e>
     <e lm="comissar"><par n="initial-c"/><i>omissar</i><par n="ee__n_m"/></e>
+    <e lm="ardghooagh"><par n="initial-a"/><i>rdghooagh</i><par n="fo__adj"/></e>
     <e lm="lughtaghey"><i>lughtagh</i><par n="t/ey__n_m"/></e>
     <e lm="reaylteyr"><i>reaylteyr</i><par n="ee__n_m"/></e>
     <e lm="seihllt"><par n="initial-s"/><i>eihllt</i><par n="fo__adj"/></e>
@@ -21040,6 +21052,7 @@
     <e lm="aa-eaysley"><par n="initial-a"/><i>a-eaysl</i><par n="t/ey__n_m"/></e>
     <e lm="grineenagh"><par n="initial-g"/><i>rineenagh</i><par n="fo__adj"/></e>
     <e lm="parsal"><par n="initial-p"/><i>arsal</i><par n="muc__n_f"/></e>
+    <e lm="nane-jeig"><i>nane-jeig</i><par n="fo__adj"/></e>
     <e lm="karrit"><par n="initial-k"/><i>arrit</i><par n="fo__adj"/></e>
     <e lm="tranlaase-agglagh"><par n="initial-t"/><i>ranlaase-aggl</i><par n="e/agh__n_m"/></e>
     <e lm="Jeheiney"><par n="initial-J"/><i>ehein</i><par n="t/ey__n_m"/></e>
@@ -21193,6 +21206,7 @@
     <e lm="errooid"><par n="initial-e"/><i>rrooid</i><par n="ee__n_m"/></e>
     <e lm="Berleen"><par n="initial-B"/><i>erleen</i><par n="ee__n_m"/></e>
     <e lm="Freeshlannish"><par n="initial-F"/><i>reeshlannish</i><par n="muc__n_f"/></e>
+    <e lm="Unnaneys"><par n="initial-U"/><i>nnaneys</i><par n="fo__adj"/></e>
     <e lm="jee-volgey"><par n="initial-j"/><i>ee-volg</i><par n="t/ey__n_m"/></e>
     <e lm="ymmyrch"><i>ymmyrch</i><par n="muc__n_f"/></e>
     <e lm="assaraght"><par n="initial-a"/><i>ssaraght</i><par n="muc__n_f"/></e>
@@ -21411,6 +21425,7 @@
     <e lm="stannagh"><par n="initial-s"/><i>tannagh</i><par n="fo__adj"/></e>
     <e lm="sliss"><par n="initial-sl"/><i>iss</i><par n="ee__n_m"/></e>
     <e lm="oardee"><par n="initial-o"/><i>ard</i><par n="re/ee__vblex"/></e>
+    <e lm="spyrrydoil"><par n="initial-s"/><i>pyrrydoil</i><par n="fo__adj"/></e>
     <e lm="thootagh"><par n="initial-th"/><i>ootagh</i><par n="fo__adj"/></e>
     <e lm="dulleyder"><par n="initial-d"/><i>ulleyder</i><par n="ee__n_m"/></e>
     <e lm="fenish"><par n="initial-f"/><i>enish</i><par n="muc__n_f"/></e>
@@ -21424,7 +21439,7 @@
     <e lm="geyre-ghaue"><par n="initial-g"/><i>eyre-ghaue</i><par n="ee__n_m"/></e>
     <e lm="tashteydane"><par n="initial-t"/><i>ashteydane</i><par n="ee__n_m"/></e>
     <e lm="fochrackan"><par n="initial-f"/><i>ochrackan</i><par n="ee__n_m"/></e>
-    <e lm="coayl"><par n="initial-c"/><i>oayl</i><par n="ee__n_m"/></e>
+    <e lm="grenns"><par n="initial-g"/><i>renns</i><par n="ee__n_m"/></e>
     <e lm="garvel"><par n="initial-g"/><i>arvel</i><par n="ee__n_m"/></e>
     <e lm="kelkagh"><par n="initial-k"/><i>elkagh</i><par n="fo__adj"/></e>
     <e lm="greimmag"><par n="initial-g"/><i>reimmag</i><par n="muc__n_f"/></e>
@@ -21464,6 +21479,7 @@
     <e lm="talkeyder"><par n="initial-t"/><i>alkeyder</i><par n="ee__n_m"/></e>
     <e lm="guess"><par n="initial-g"/><i>uess</i><par n="ee__n_m"/></e>
     <e lm="speiy"><par n="initial-s"/><i>peiy</i><par n="muc__n_f"/></e>
+    <e lm="yn-aanoaghey"><i>yn-aanoaghey</i><par n="fo__adj"/></e>
     <e lm="Corsickey"><i>Corsick</i><par n="br/ey__n_GU"/></e>
     <e lm="laineyr"><i>laineyr</i><par n="ee__n_m"/></e>
     <e lm="curmane"><par n="initial-c"/><i>urmane</i><par n="ee__n_m"/></e>
@@ -21648,6 +21664,7 @@
     <e lm="co-unnaneys"><par n="initial-c"/><i>o-unnaneys</i><par n="fys__n_m"/></e>
     <e lm="sonney"><par n="initial-s"/><i>onney</i><par n="fo__adj"/></e>
     <e lm="co-lhiabbagh"><par n="initial-c"/><i>o-lhiabb</i><par n="m/agh__n_f"/></e>
+    <e lm="co-chast"><par n="initial-c"/><i>o-chast</i><par n="fo__adj"/></e>
     <e lm="neureggyragh"><i>neureggyragh</i><par n="fo__adj"/></e>
     <e lm="loau"><i>loau</i><par n="fo__adj"/></e>
     <e lm="jerkyn"><par n="initial-j"/><i>erkyn</i><par n="ee__n_m"/></e>
@@ -21673,6 +21690,7 @@
     <e lm="seiyjagh"><par n="initial-s"/><i>eiyjagh</i><par n="fo__adj"/></e>
     <e lm="meeshaght"><par n="initial-m"/><i>eeshaght</i><par n="muc__n_f"/></e>
     <e lm="berçhagh"><par n="initial-b"/><i>erçh</i><par n="e/agh__n_m"/></e>
+    <e lm="berçhagh"><par n="initial-b"/><i>erçhagh</i><par n="fo__adj"/></e>
     <e lm="roie-raa"><i>roie-raa</i><par n="ee__n_m"/></e>
     <e lm="crosheen"><i>crosheen</i><par n="veg__n_GU"/></e>
     <e lm="sheeraght"><par n="initial-sh"/><i>eeraght</i><par n="muc__n_f"/></e>
@@ -21746,7 +21764,7 @@
     <e lm="ard-whaiylagh"><par n="initial-a"/><i>rd-whaiyl</i><par n="e/agh__n_m"/></e>
     <e lm="giastyllagh"><par n="initial-g"/><i>iastyllagh</i><par n="fo__adj"/></e>
     <e lm="aascrutaghey"><par n="initial-a"/><i>ascrutagh</i><par n="t/ey__n_m"/></e>
-    <e lm="moggylagh"><par n="initial-m"/><i>oggylagh</i><par n="fo__adj"/></e>
+    <e lm="eddyr-chountee"><par n="initial-e"/><i>ddyr-chountee</i><par n="fo__adj"/></e>
     <e lm="baljys"><par n="initial-b"/><i>aljys</i><par n="fys__n_m"/></e>
     <e lm="saveen"><par n="initial-s"/><i>aveen</i><par n="muc__n_f"/></e>
     <e lm="saveen"><par n="initial-s"/><i>aveen</i><par n="mest__vblex"/></e>
@@ -21821,6 +21839,7 @@
     <e lm="beayntonney"><par n="initial-b"/><i>eayntonn</i><par n="t/ey__n_m"/></e>
     <e lm="rackeen"><i>rackeen</i><par n="ee__n_m"/></e>
     <e lm="co-chialg"><par n="initial-c"/><i>o-chialg</i><par n="muc__n_f"/></e>
+    <e lm="chadjinit"><par n="initial-c"/><i>hadjinit</i><par n="fo__adj"/></e>
     <e lm="deinaghtagh"><par n="initial-d"/><i>einaghtagh</i><par n="fo__adj"/></e>
     <e lm="cruinneydaght"><par n="initial-c"/><i>ruinneydaght</i><par n="ee__n_m"/></e>
     <e lm="neuloaghtagh"><i>neuloaghtagh</i><par n="fo__adj"/></e>
@@ -21852,6 +21871,7 @@
     <e lm="jallooeen"><par n="initial-j"/><i>allooeen</i><par n="ee__n_m"/></e>
     <e lm="faag"><par n="initial-f"/><i>aag</i><par n="faag__vblex"/></e>
     <e lm="flagon"><par n="initial-f"/><i>lagon</i><par n="ee__n_m"/></e>
+    <e lm="un"><par n="initial-u"/><i>n</i><par n="fo__adj"/></e>
     <e lm="co-chiarklagh"><par n="initial-c"/><i>o-chiarklagh</i><par n="fo__adj"/></e>
     <e lm="imraa"><par n="initial-i"/><i>mraa</i><par n="muc__n_f"/></e>
     <e lm="myrneen"><par n="initial-m"/><i>yrneen</i><par n="ee__n_m"/></e>
@@ -21861,6 +21881,7 @@
     <e lm="imnea"><par n="initial-i"/><i>mnea</i><par n="ee__n_m"/></e>
     <e lm="tashid"><par n="initial-t"/><i>ashid</i><par n="ee__n_m"/></e>
     <e lm="neuvlayst"><i>neuvlayst</i><par n="ee__n_m"/></e>
+    <e lm="mhuinneelagh"><par n="initial-m"/><i>huinneelagh</i><par n="fo__adj"/></e>
     <e lm="karree"><par n="initial-k"/><i>arr</i><par n="re/ee__vblex"/></e>
     <e lm="rouan"><i>rouan</i><par n="ee__n_m"/></e>
     <e lm="saill"><par n="initial-s"/><i>aill</i><par n="ee__n_m"/></e>
@@ -21869,6 +21890,7 @@
     <e lm="ruegagh"><i>rueg</i><par n="e/agh__n_m"/></e>
     <e lm="mooarleaghagh"><par n="initial-m"/><i>ooarleaghagh</i><par n="fo__adj"/></e>
     <e lm="naightaneaghys"><i>naightaneaghys</i><par n="fys__n_m"/></e>
+    <e lm="ardsmooinaghtagh"><par n="initial-a"/><i>rdsmooinaghtagh</i><par n="fo__adj"/></e>
     <e lm="aneeaghyn"><par n="initial-a"/><i>neeaghyn</i><par n="ee__n_m"/></e>
     <e lm="tarr"><par n="initial-t"/><i>arr</i><par n="ee__n_m"/></e>
     <e lm="beeal-daah"><par n="initial-b"/><i>eeal-daah</i><par n="ee__n_m"/></e>
@@ -21877,6 +21899,7 @@
     <e lm="mealaastey"><par n="initial-m"/><i>ealaast</i><par n="t/ey__n_m"/></e>
     <e lm="shickyrys"><par n="initial-sh"/><i>ickyrys</i><par n="fys__n_m"/></e>
     <e lm="doaie"><par n="initial-d"/><i>oaie</i><par n="muc__n_f"/></e>
+    <e lm="Canaaragh"><par n="initial-C"/><i>anaaragh</i><par n="fo__adj"/></e>
     <e lm="ventyragh"><i>ventyragh</i><par n="fo__adj"/></e>
     <e lm="curmallagh"><par n="initial-c"/><i>urmall</i><par n="e/agh__n_m"/></e>
     <e lm="folliaght"><par n="initial-f"/><i>olliaght</i><par n="muc__n_f"/></e>
@@ -21915,7 +21938,7 @@
     <e lm="andoaie"><par n="initial-a"/><i>ndoaie</i><par n="ee__n_m"/></e>
     <e lm="chaghter"><par n="initial-c"/><i>haghter</i><par n="ee__n_m"/></e>
     <e lm="prig"><par n="initial-p"/><i>rig</i><par n="ee__n_m"/></e>
-    <e lm="barragagh"><par n="initial-b"/><i>arragagh</i><par n="fo__adj"/></e>
+    <e lm="kinseyr"><par n="initial-k"/><i>inseyr</i><par n="ee__n_m"/></e>
     <e lm="cummeydoil"><par n="initial-c"/><i>ummeydoil</i><par n="fo__adj"/></e>
     <e lm="iguaan"><par n="initial-i"/><i>guaan</i><par n="ee__n_m"/></e>
     <e lm="anugh"><par n="initial-a"/><i>nugh</i><par n="fo__adj"/></e>
@@ -21990,6 +22013,7 @@
     <e lm="kayteen"><par n="initial-k"/><i>ayteen</i><par n="ee__n_m"/></e>
     <e lm="burgleyr"><par n="initial-b"/><i>urgleyr</i><par n="ee__n_m"/></e>
     <e lm="creckeyder"><par n="initial-c"/><i>reckeyder</i><par n="ee__n_m"/></e>
+    <e lm="neuoikoil"><i>neuoikoil</i><par n="fo__adj"/></e>
     <e lm="cuckolt"><par n="initial-c"/><i>uckolt</i><par n="ee__n_m"/></e>
     <e lm="Eeraanagh"><par n="initial-E"/><i>eraan</i><par n="e/agh__n_m"/></e>
     <e lm="Eeraanagh"><par n="initial-E"/><i>eraanagh</i><par n="fo__adj"/></e>
@@ -22011,7 +22035,7 @@
     <e lm="innagh"><par n="initial-i"/><i>nnagh</i><par n="fo__adj"/></e>
     <e lm="criggad"><par n="initial-c"/><i>riggad</i><par n="ee__n_m"/></e>
     <e lm="lostit"><i>lostit</i><par n="fo__adj"/></e>
-    <e lm="kinseyr"><par n="initial-k"/><i>inseyr</i><par n="ee__n_m"/></e>
+    <e lm="barragagh"><par n="initial-b"/><i>arragagh</i><par n="fo__adj"/></e>
     <e lm="spagey"><par n="initial-s"/><i>pag</i><par n="t/ey__n_m"/></e>
     <e lm="liturgagh"><i>liturgagh</i><par n="fo__adj"/></e>
     <e lm="co-effaght"><par n="initial-c"/><i>o-effaght</i><par n="muc__n_f"/></e>
@@ -22104,6 +22128,7 @@
     <e lm="uail"><par n="initial-u"/><i>ail</i><par n="ee__n_m"/></e>
     <e lm="neuslane"><i>neuslane</i><par n="fo__adj"/></e>
     <e lm="myrgeddyn"><par n="initial-m"/><i>yrgeddyn</i><par n="ee__n_m"/></e>
+    <e lm="leighalagh"><i>leighalagh</i><par n="fo__adj"/></e>
     <e lm="streeleyder"><par n="initial-str"/><i>eeleyder</i><par n="ee__n_m"/></e>
     <e lm="kialgeyr"><par n="initial-k"/><i>ialgeyr</i><par n="ee__n_m"/></e>
     <e lm="borrish"><par n="initial-b"/><i>orrish</i><par n="muc__n_f"/></e>
@@ -22146,6 +22171,7 @@
     <e lm="linney"><i>linn</i><par n="r/ey__n_f"/></e>
     <e lm="aahroggal"><par n="initial-a"/><i>ahroggal</i><par n="ee__n_m"/></e>
     <e lm="dubbey"><par n="initial-d"/><i>ubb</i><par n="t/ey__n_m"/></e>
+    <e lm="magneeish"><par n="initial-m"/><i>agneeish</i><par n="muc__n_f"/></e>
     <e lm="jelleen"><par n="initial-j"/><i>elleen</i><par n="ee__n_m"/></e>
     <e lm="oltaghey"><par n="initial-o"/><i>ltagh</i><par n="t/ey__n_m"/></e>
     <e lm="briggin"><par n="initial-b"/><i>riggin</i><par n="ee__n_m"/></e>
@@ -22270,12 +22296,14 @@
     <e lm="slanechreckeyder"><par n="initial-sl"/><i>anechreckeyder</i><par n="ee__n_m"/></e>
     <e lm="farveeal"><par n="initial-f"/><i>arveeal</i><par n="ee__n_m"/></e>
     <e lm="meeonnoragh"><par n="initial-m"/><i>eeonnoragh</i><par n="fo__adj"/></e>
+    <e lm="aeg"><par n="initial-a"/><i>eg</i><par n="ard__adj"/></e>
     <e lm="rein"><i>rein</i><par n="muc__n_f"/></e>
     <e lm="reih"><i>reih</i><par n="ee__n_m"/></e>
     <e lm="reih"><i>reih</i><par n="reih__vblex"/></e>
     <e lm="hene-lostey"><i>hene-lost</i><par n="t/ey__n_m"/></e>
     <e lm="reenid"><i>reenid</i><par n="ee__n_m"/></e>
     <e lm="joostey"><par n="initial-j"/><i>oost</i><par n="t/ey__n_m"/></e>
+    <e lm="abbyrlhitagh"><par n="initial-a"/><i>bbyrlhitagh</i><par n="fo__adj"/></e>
     <e lm="cantoon"><par n="initial-c"/><i>antoon</i><par n="ee__n_m"/></e>
     <e lm="gloo-pharteeaght"><par n="initial-g"/><i>loo-pharteeaght</i><par n="muc__n_f"/></e>
     <e lm="sproghan"><par n="initial-s"/><i>proghan</i><par n="ee__n_m"/></e>
@@ -22608,9 +22636,9 @@
     <e lm="unraghey"><par n="initial-u"/><i>nragh</i><par n="t/ey__n_m"/></e>
     <e lm="cheuee"><par n="initial-c"/><i>heu</i><par n="bio/ee__vblex"/></e>
     <e lm="Sloveanagh"><par n="initial-Sl"/><i>ovean</i><par n="e/agh__n_m"/></e>
-    <e lm="daan"><par n="initial-d"/><i>aan</i><par n="ee__n_m"/></e>
     <e lm="abbyr"><par n="initial-a"/><i></i><par n="a/bbyr__vblex"/></e>
     <e lm="glennit"><par n="initial-g"/><i>lennit</i><par n="fo__adj"/></e>
+    <e lm="soylagh"><par n="initial-s"/><i>oylagh</i><par n="fo__adj"/></e>
     <e lm="faaie"><par n="initial-f"/><i>aaie</i><par n="roih__n_f"/></e>
     <e lm="ollishagh"><par n="initial-o"/><i>llishagh</i><par n="fo__adj"/></e>
     <e lm="crosh-ockle"><par n="initial-c"/><i>rosh-ockle</i><par n="ee__n_m"/></e>
@@ -22883,6 +22911,7 @@
     <e lm="deinagh"><par n="initial-d"/><i>einagh</i><par n="fo__adj"/></e>
     <e lm="toilleeaght"><par n="initial-t"/><i>oilleeaght</i><par n="muc__n_f"/></e>
     <e lm="raadjum"><i>raadjum</i><par n="ee__n_m"/></e>
+    <e lm="co-chorpagh"><par n="initial-c"/><i>o-chorpagh</i><par n="fo__adj"/></e>
     <e lm="daee"><par n="initial-d"/><i>a</i><par n="re/ee__vblex"/></e>
     <e lm="airh"><par n="initial-a"/><i>irh</i><par n="mest__vblex"/></e>
     <e lm="covuilley"><par n="initial-c"/><i>ovuill</i><par n="t/ey__n_m"/></e>
@@ -22949,6 +22978,7 @@
     <e lm="plutacraataghys"><par n="initial-p"/><i>lutacraataghys</i><par n="fys__n_m"/></e>
     <e lm="traghtee"><par n="initial-t"/><i>raghtee</i><par n="fo__adj"/></e>
     <e lm="cloreenee"><par n="initial-c"/><i>loreen</i><par n="re/ee__vblex"/></e>
+    <e lm="soiee"><par n="initial-s"/><i>oi</i><par n="re/ee__vblex"/></e>
     <e lm="fedjag"><par n="initial-f"/><i>edjag</i><par n="muc__n_f"/></e>
     <e lm="creutchal"><par n="initial-c"/><i>reutchal</i><par n="ee__n_m"/></e>
     <e lm="gunneyder"><par n="initial-g"/><i>unneyder</i><par n="ee__n_m"/></e>
@@ -23241,6 +23271,7 @@
     <e lm="crystal"><par n="initial-c"/><i>rystal</i><par n="ee__n_m"/></e>
     <e lm="far-eeacklyn"><par n="initial-f"/><i>ar-eeacklyn</i><par n="ee__n_m"/></e>
     <e lm="deayrtey"><par n="initial-d"/><i>eayrt</i><par n="t/ey__n_m"/></e>
+    <e lm="croghey"><par n="initial-c"/><i>roghey</i><par n="fo__adj"/></e>
     <e lm="chynskyleyr"><par n="initial-c"/><i>hynskyleyr</i><par n="ee__n_m"/></e>
     <e lm="lhongeyder"><i>lhongeyder</i><par n="ee__n_m"/></e>
     <e lm="cooyl-'er"><par n="initial-c"/><i>ooyl-'er</i><par n="ee__n_m"/></e>
@@ -23288,7 +23319,7 @@
     <e lm="neuymmydagh"><i>neuymmydagh</i><par n="fo__adj"/></e>
     <e lm="deal-shiaulley"><par n="initial-d"/><i>eal-shiaull</i><par n="t/ey__n_m"/></e>
     <e lm="serrick"><par n="initial-s"/><i>errick</i><par n="ee__n_m"/></e>
-    <e lm="kynney"><par n="initial-k"/><i>ynne</i><par n="modde/y__n_m"/></e>
+    <e lm="kynney"><par n="initial-k"/><i>ynne</i><par n="kynne/y__n_m"/></e>
     <e lm="dailleyder"><par n="initial-d"/><i>ailleyder</i><par n="ee__n_m"/></e>
     <e lm="pachyderm"><par n="initial-p"/><i>achyderm</i><par n="muc__n_f"/></e>
     <e lm="gahlagh"><par n="initial-g"/><i>ahl</i><par n="e/agh__n_m"/></e>
@@ -23355,7 +23386,7 @@
     <e lm="stronnan"><par n="initial-str"/><i>onnan</i><par n="ee__n_m"/></e>
     <e lm="barrantoilid"><par n="initial-b"/><i>arrantoilid</i><par n="ee__n_m"/></e>
     <e lm="mooar-hroinagh"><par n="initial-m"/><i>ooar-hroinagh</i><par n="fo__adj"/></e>
-    <e lm="meshtallys"><par n="initial-m"/><i>eshtallys</i><par n="fys__n_m"/></e>
+    <e lm="aesthetagh"><par n="initial-a"/><i>esthetagh</i><par n="fo__adj"/></e>
     <e lm="Assyriagh"><par n="initial-A"/><i>ssyri</i><par n="e/agh__n_m"/></e>
     <e lm="Assyriagh"><par n="initial-A"/><i>ssyriagh</i><par n="fo__adj"/></e>
     <e lm="meereaghys"><par n="initial-m"/><i>eereaghys</i><par n="lus__n_f"/></e>
@@ -23377,9 +23408,9 @@
     <e lm="aahaghyrt"><par n="initial-a"/><i>ahaghyrt</i><par n="ee__n_m"/></e>
     <e lm="stad-ooreyder"><par n="initial-s"/><i>tad-ooreyder</i><par n="ee__n_m"/></e>
     <e lm="glistyr"><par n="initial-g"/><i>listyr</i><par n="ee__n_m"/></e>
-    <e lm="grenns"><par n="initial-g"/><i>renns</i><par n="ee__n_m"/></e>
     <e lm="tayrneyder"><par n="initial-t"/><i>ayrneyder</i><par n="ee__n_m"/></e>
     <e lm="ooirragh"><par n="initial-o"/><i>oirragh</i><par n="fo__adj"/></e>
+    <e lm="çhynskylagh"><par n="initial-çh"/><i>ynskylagh</i><par n="fo__adj"/></e>
     <e lm="taarnagh"><par n="initial-t"/><i>aarn</i><par n="taarn/agh__n_m"/></e>
     <e lm="markee"><par n="initial-m"/><i>ark</i><par n="mark/ee__vblex"/></e>
     <e lm="doodee"><par n="initial-d"/><i>oodee</i><par n="muc__n_f"/></e>
@@ -23549,6 +23580,7 @@
     <e lm="Paarysagh"><par n="initial-P"/><i>aarys</i><par n="e/agh__n_m"/></e>
     <e lm="Paarysagh"><par n="initial-P"/><i>aarysagh</i><par n="fo__adj"/></e>
     <e lm="kiare-wheeyllagh"><par n="initial-k"/><i>iare-wheeyllagh</i><par n="fo__adj"/></e>
+    <e lm="kione-daanys"><par n="initial-k"/><i>ione-daanys</i><par n="fys__n_m"/></e>
     <e lm="laaraghey"><i>laaragh</i><par n="t/ey__n_m"/></e>
     <e lm="tetraheedran"><par n="initial-t"/><i>etraheedran</i><par n="ee__n_m"/></e>
     <e lm="grinderys"><par n="initial-g"/><i>rinderys</i><par n="lus__n_f"/></e>
@@ -23588,7 +23620,7 @@
     <e lm="Islamagh"><par n="initial-I"/><i>slamagh</i><par n="fo__adj"/></e>
     <e lm="chlorophyll"><par n="initial-c"/><i>hlorophyll</i><par n="ee__n_m"/></e>
     <e lm="riojagh"><i>riojagh</i><par n="fo__adj"/></e>
-    <e lm="soiee"><par n="initial-s"/><i>oi</i><par n="re/ee__vblex"/></e>
+    <e lm="sheeaghys"><par n="initial-sh"/><i>eeaghys</i><par n="fys__n_m"/></e>
     <e lm="slat"><par n="initial-sl"/><i>at</i><par n="slat__n_f"/></e>
     <e lm="Vanuatu"><i>Vanuatu</i><par n="muc__n_f"/></e>
     <e lm="ronniaght"><i>ronniaght</i><par n="muc__n_f"/></e>
@@ -23604,8 +23636,10 @@
     <e lm="fockley-dean"><par n="initial-f"/><i>ockley-dean</i><par n="ee__n_m"/></e>
     <e lm="lhoobagh"><i>lhoobagh</i><par n="fo__adj"/></e>
     <e lm="neayragh"><i>neayragh</i><par n="fo__adj"/></e>
+    <e lm="whieggoo"><i>whieggoo</i><par n="fo__adj"/></e>
     <e lm="diftheyr"><par n="initial-d"/><i>iftheyr</i><par n="ee__n_m"/></e>
     <e lm="jeeskeaylley"><par n="initial-j"/><i>eeskeayll</i><par n="t/ey__n_m"/></e>
+    <e lm="ynsee"><i>ynsee</i><par n="fo__adj"/></e>
     <e lm="ynsee"><i>yns</i><par n="re/ee__vblex"/></e>
     <e lm="bwilloght"><par n="initial-bw"/><i>illoght</i><par n="muc__n_f"/></e>
     <e lm="Cheeroylagh"><par n="initial-C"/><i>heeroylagh</i><par n="fo__adj"/></e>
@@ -23707,7 +23741,7 @@
     <e lm="pluck"><par n="initial-p"/><i>luck</i><par n="mest__vblex"/></e>
     <e lm="broie"><par n="initial-b"/><i>roie</i><par n="soo__vblex"/></e>
     <e lm="broid"><par n="initial-b"/><i>roid</i><par n="ee__n_m"/></e>
-    <e lm="kiare-uillinagh"><par n="initial-k"/><i>iare-uillinagh</i><par n="fo__adj"/></e>
+    <e lm="cheader"><par n="initial-c"/><i>header</i><par n="ee__n_m"/></e>
     <e lm="troiddey"><par n="initial-t"/><i>roidd</i><par n="t/ey__n_m"/></e>
     <e lm="crooagagh"><par n="initial-c"/><i>rooagagh</i><par n="fo__adj"/></e>
     <e lm="Eearvee"><i>Eearvee</i><par n="veg__n_GU"/></e>
@@ -23716,6 +23750,7 @@
     <e lm="daa-'illit"><par n="initial-d"/><i>aa-'illit</i><par n="fo__adj"/></e>
     <e lm="chellapattagh"><par n="initial-c"/><i>hellapattagh</i><par n="fo__adj"/></e>
     <e lm="spooillit"><par n="initial-s"/><i>pooillit</i><par n="fo__adj"/></e>
+    <e lm="hoghtoo"><i>hoghtoo</i><par n="fo__adj"/></e>
     <e lm="musthaa"><par n="initial-m"/><i>usthaa</i><par n="ee__n_m"/></e>
     <e lm="cadlagh"><par n="initial-c"/><i>adl</i><par n="e/agh__n_m"/></e>
     <e lm="cadlagh"><par n="initial-c"/><i>adlagh</i><par n="fo__adj"/></e>
@@ -23761,6 +23796,7 @@
     <e lm="shid"><par n="initial-sh"/><i>id</i><par n="fo__adj"/></e>
     <e lm="malaaragh"><par n="initial-m"/><i>alaaragh</i><par n="fo__adj"/></e>
     <e lm="grammeydys"><par n="initial-g"/><i>rammeydys</i><par n="fys__n_m"/></e>
+    <e lm="seyr-obbragh"><par n="initial-s"/><i>eyr-obbragh</i><par n="fo__adj"/></e>
     <e lm="Bashtagh"><par n="initial-B"/><i>asht</i><par n="e/agh__n_m"/></e>
     <e lm="scut"><par n="initial-s"/><i>cut</i><par n="muc__n_f"/></e>
     <e lm="doaieid"><par n="initial-d"/><i>oaieid</i><par n="ee__n_m"/></e>
@@ -23793,6 +23829,7 @@
     <e lm="ennym-ockle"><par n="initial-e"/><i>nnym-ockle</i><par n="ee__n_m"/></e>
     <e lm="ienchys"><par n="initial-i"/><i>enchys</i><par n="fys__n_m"/></e>
     <e lm="Protestoonagh"><par n="initial-P"/><i>rotestoon</i><par n="e/agh__n_m"/></e>
+    <e lm="Protestoonagh"><par n="initial-P"/><i>rotestoonagh</i><par n="fo__adj"/></e>
     <e lm="geirr"><par n="initial-g"/><i>eirr</i><par n="muc__n_f"/></e>
     <e lm="nauntee"><i>nauntee</i><par n="muc__n_f"/></e>
     <e lm="feamagh"><par n="initial-f"/><i>eamagh</i><par n="fo__adj"/></e>
@@ -23803,11 +23840,12 @@
     <e lm="tessen-leeideilagh"><par n="initial-t"/><i>essen-leeideil</i><par n="e/agh__n_m"/></e>
     <e lm="deillit"><par n="initial-d"/><i>eillit</i><par n="fo__adj"/></e>
     <e lm="millioon"><par n="initial-m"/><i>illioon</i><par n="ee__n_m"/></e>
+    <e lm="millioon"><par n="initial-m"/><i>illioon</i><par n="fo__adj"/></e>
     <e lm="foad"><par n="initial-f"/><i>oad</i><par n="gred__vblex"/></e>
     <e lm="entreilaght"><par n="initial-e"/><i>ntreilaght</i><par n="muc__n_f"/></e>
     <e lm="rooishtit"><i>rooishtit</i><par n="fo__adj"/></e>
     <e lm="coaym"><par n="initial-c"/><i>oaym</i><par n="ee__n_m"/></e>
-    <e lm="kione-daanys"><par n="initial-k"/><i>ione-daanys</i><par n="fys__n_m"/></e>
+    <e lm="coayl"><par n="initial-c"/><i>oayl</i><par n="ee__n_m"/></e>
     <e lm="cymbal"><par n="initial-c"/><i>ymbal</i><par n="ee__n_m"/></e>
     <e lm="clougraafagh"><par n="initial-c"/><i>lougraafagh</i><par n="fo__adj"/></e>
     <e lm="foar"><par n="initial-f"/><i>oar</i><par n="ee__n_m"/></e>
@@ -23836,6 +23874,7 @@
     <e lm="lieh-ard"><i>lieh-ard</i><par n="fo__adj"/></e>
     <e lm="leeg"><i>leeg</i><par n="muc__n_f"/></e>
     <e lm="pioban"><par n="initial-p"/><i>ioban</i><par n="ee__n_m"/></e>
+    <e lm="rieughagh"><i>rieughagh</i><par n="fo__adj"/></e>
     <e lm="neufirrinagh"><i>neufirrinagh</i><par n="fo__adj"/></e>
     <e lm="kiarklagh"><par n="initial-k"/><i>iarklagh</i><par n="fo__adj"/></e>
     <e lm="smarreeys"><par n="initial-s"/><i>marreeys</i><par n="fys__n_m"/></e>
@@ -23901,7 +23940,7 @@
     <e lm="aaghlenney"><par n="initial-a"/><i>aghlenn</i><par n="t/ey__n_m"/></e>
     <e lm="skeeder"><par n="initial-s"/><i>keeder</i><par n="ee__n_m"/></e>
     <e lm="kiaull-chloie"><par n="initial-k"/><i>iaull-chloie</i><par n="muc__n_f"/></e>
-    <e lm="rouanys"><i>rouanys</i><par n="lus__n_f"/></e>
+    <e lm="neuchommeeagh"><i>neuchommeeagh</i><par n="fo__adj"/></e>
     <e lm="pardooney"><par n="initial-p"/><i>ardoon</i><par n="t/ey__n_m"/></e>
     <e lm="meeghiastyllagh"><par n="initial-m"/><i>eeghiastyllagh</i><par n="fo__adj"/></e>
     <e lm="sheeraghey"><par n="initial-sh"/><i>eeragh</i><par n="t/ey__n_m"/></e>
@@ -23936,6 +23975,7 @@
     <e lm="muilteen"><par n="initial-m"/><i>uilteen</i><par n="ee__n_m"/></e>
     <e lm="bun-chooish"><par n="initial-b"/><i>un-chooish</i><par n="muc__n_f"/></e>
     <e lm="meehaitnyssagh"><par n="initial-m"/><i>eehaitnyssagh</i><par n="fo__adj"/></e>
+    <e lm="Baarlagh-Yernish"><par n="initial-B"/><i>aarlagh-Yernish</i><par n="fo__adj"/></e>
     <e lm="thager"><par n="initial-th"/><i>ager</i><par n="ee__n_m"/></e>
     <e lm="scanney"><par n="initial-s"/><i>cann</i><par n="t/ey__n_m"/></e>
     <e lm="feeaih"><par n="initial-f"/><i>eeaih</i><par n="feeaih__n_m"/></e>
@@ -23947,6 +23987,7 @@
     <e lm="bacilleen"><par n="initial-b"/><i>acilleen</i><par n="ee__n_m"/></e>
     <e lm="spongit"><par n="initial-s"/><i>pongit</i><par n="fo__adj"/></e>
     <e lm="juit"><par n="initial-j"/><i>uit</i><par n="ee__n_m"/></e>
+    <e lm="ooilley-Yernish"><par n="initial-o"/><i>oilley-Yernish</i><par n="fo__adj"/></e>
     <e lm="gial-ghlackeyder"><par n="initial-g"/><i>ial-ghlackeyder</i><par n="ee__n_m"/></e>
     <e lm="consyllagh"><par n="initial-c"/><i>onsyllagh</i><par n="fo__adj"/></e>
     <e lm="eebyrtys"><par n="initial-e"/><i>ebyrtys</i><par n="fys__n_m"/></e>
@@ -23967,6 +24008,7 @@
     <e lm="geamee"><par n="initial-g"/><i>eam</i><par n="re/ee__vblex"/></e>
     <e lm="ymmyrchagh"><i>ymmyrchagh</i><par n="fo__adj"/></e>
     <e lm="eebis"><par n="initial-e"/><i>ebis</i><par n="muc__n_f"/></e>
+    <e lm="diploamagh"><par n="initial-d"/><i>iploamagh</i><par n="fo__adj"/></e>
     <e lm="Australasia"><i>Australasia</i><par n="veg__n_GU"/></e>
     <e lm="lieh-vio"><i>lieh-vio</i><par n="fo__adj"/></e>
     <e lm="laboraght"><i>laboraght</i><par n="muc__n_f"/></e>
@@ -23994,6 +24036,7 @@
     <e lm="corree"><par n="initial-c"/><i>orree</i><par n="muc__n_f"/></e>
     <e lm="corree"><par n="initial-c"/><i>orree</i><par n="fo__adj"/></e>
     <e lm="ymmodee"><i>ymmod</i><par n="re/ee__vblex"/></e>
+    <e lm="aggindys"><par n="initial-a"/><i>ggindys</i><par n="fys__n_m"/></e>
     <e lm="surransagh"><par n="initial-s"/><i>urrans</i><par n="e/agh__n_m"/></e>
     <e lm="surransagh"><par n="initial-s"/><i>urransagh</i><par n="fo__adj"/></e>
     <e lm="co-hooy"><par n="initial-c"/><i>o-hooy</i><par n="ee__n_m"/></e>
@@ -24147,7 +24190,9 @@
     <e lm="slaneid"><par n="initial-sl"/><i>aneid</i><par n="ee__n_m"/></e>
     <e lm="fakinit"><par n="initial-f"/><i>akinit</i><par n="fo__adj"/></e>
     <e lm="fardailagh"><par n="initial-f"/><i>ardailagh</i><par n="fo__adj"/></e>
+    <e lm="Gaelgagh"><par n="initial-G"/><i>aelgagh</i><par n="fo__adj"/></e>
     <e lm="carmeish"><par n="initial-c"/><i>armeish</i><par n="muc__n_f"/></e>
+    <e lm="oanluckeyr"><par n="initial-o"/><i>anluckeyr</i><par n="ee__n_m"/></e>
     <e lm="blasstal"><par n="initial-b"/><i>lasstal</i><par n="fo__adj"/></e>
     <e lm="jough"><par n="initial-j"/><i>ough</i><par n="muc__n_f"/></e>
     <e lm="prindeysaght"><par n="initial-p"/><i>rindeysaght</i><par n="muc__n_f"/></e>
@@ -24342,6 +24387,7 @@
     <e lm="sheil"><par n="initial-sh"/><i>eil</i><par n="rosh__vblex"/></e>
     <e lm="calameen"><par n="initial-c"/><i>alameen</i><par n="ee__n_m"/></e>
     <e lm="shicklaagagh"><par n="initial-sh"/><i>icklaag</i><par n="e/agh__n_m"/></e>
+    <e lm="shicklaagagh"><par n="initial-sh"/><i>icklaagagh</i><par n="fo__adj"/></e>
     <e lm="amateyragh"><par n="initial-a"/><i>mateyr</i><par n="e/agh__n_m"/></e>
     <e lm="crayon"><par n="initial-c"/><i>rayon</i><par n="ee__n_m"/></e>
     <e lm="poggaid"><par n="initial-p"/><i>oggaid</i><par n="muc__n_f"/></e>
@@ -24498,6 +24544,7 @@
     <e lm="grine"><par n="initial-g"/><i>rine</i><par n="ee__n_m"/></e>
     <e lm="mee-vingys"><par n="initial-m"/><i>ee-vingys</i><par n="lus__n_f"/></e>
     <e lm="pleateyder"><par n="initial-p"/><i>leateyder</i><par n="ee__n_m"/></e>
+    <e lm="deincharrjoil"><par n="initial-d"/><i>eincharrjoil</i><par n="fo__adj"/></e>
     <e lm="falleayssagh"><par n="initial-f"/><i>alleayssagh</i><par n="fo__adj"/></e>
     <e lm="gas-veih"><par n="initial-g"/><i>as-veih</i><par n="ee__n_m"/></e>
     <e lm="reeastagh"><i>reeastagh</i><par n="fo__adj"/></e>
@@ -24638,6 +24685,7 @@
     <e lm="bolvaneagh"><par n="initial-b"/><i>olvaneagh</i><par n="fo__adj"/></e>
     <e lm="curneeinys"><par n="initial-c"/><i>urneeinys</i><par n="fys__n_m"/></e>
     <e lm="Conamara"><i>Conamara</i><par n="veg__n_GU"/></e>
+    <e lm="shiaghtinoil"><par n="initial-sh"/><i>iaghtinoil</i><par n="fo__adj"/></e>
     <e lm="dogmey"><par n="initial-d"/><i>ogm</i><par n="t/ey__n_m"/></e>
     <e lm="aachooinee"><par n="initial-a"/><i>achooin</i><par n="re/ee__vblex"/></e>
     <e lm="doo-chassagh"><par n="initial-d"/><i>oo-chassagh</i><par n="fo__adj"/></e>
@@ -24662,6 +24710,7 @@
     <e lm="roosteenys"><i>roosteenys</i><par n="fys__n_m"/></e>
     <e lm="keylann"><par n="initial-k"/><i>eylann</i><par n="muc__n_f"/></e>
     <e lm="slayntagh"><par n="initial-sl"/><i>ayntagh</i><par n="fo__adj"/></e>
+    <e lm="gallasyn"><par n="initial-g"/><i>allasyn</i><par n="ee__n_m"/></e>
     <e lm="paragraaf"><par n="initial-p"/><i>aragraaf</i><par n="ee__n_m"/></e>
     <e lm="ermyn"><par n="initial-e"/><i>rmyn</i><par n="muc__n_f"/></e>
     <e lm="fo-ennaghtagh"><par n="initial-f"/><i>o-ennaghtagh</i><par n="fo__adj"/></e>
@@ -24681,6 +24730,7 @@
     <e lm="kiaulldrameydagh"><par n="initial-k"/><i>iaulldrameydagh</i><par n="fo__adj"/></e>
     <e lm="penneyrys"><par n="initial-p"/><i>enneyrys</i><par n="fys__n_m"/></e>
     <e lm="poodyr"><par n="initial-p"/><i>oodyr</i><par n="ee__n_m"/></e>
+    <e lm="pollyp"><par n="initial-p"/><i>ollyp</i><par n="ee__n_m"/></e>
     <e lm="ballagh"><par n="initial-b"/><i>all</i><par n="e/agh__n_m"/></e>
     <e lm="alcoal"><par n="initial-a"/><i>lcoal</i><par n="ee__n_m"/></e>
     <e lm="Noo"><i>Noo</i><par n="veg__n_GU"/></e>
@@ -24691,7 +24741,9 @@
     <e lm="euar"><par n="initial-e"/><i>uar</i><par n="ee__n_m"/></e>
     <e lm="Afgaanagh"><par n="initial-A"/><i>fgaanagh</i><par n="fo__adj"/></e>
     <e lm="taitnyssagh"><par n="initial-t"/><i>aitnyssagh</i><par n="fo__adj"/></e>
+    <e lm="yn-jantagh"><i>yn-jantagh</i><par n="fo__adj"/></e>
     <e lm="daeed"><par n="initial-d"/><i>aeed</i><par n="ee__n_m"/></e>
+    <e lm="daeed"><par n="initial-d"/><i>aeed</i><par n="fo__adj"/></e>
     <e lm="kimmagh"><par n="initial-k"/><i>imm</i><par n="e/agh__n_m"/></e>
     <e lm="mooir-oaylleeaght"><par n="initial-m"/><i>ooir-oaylleeaght</i><par n="muc__n_f"/></e>
     <e lm="anchreest"><par n="initial-a"/><i>nchreest</i><par n="anchreest__n_m"/></e>
@@ -24912,7 +24964,7 @@
     <e lm="keiltynys"><par n="initial-k"/><i>eiltynys</i><par n="fys__n_m"/></e>
     <e lm="kiaullanaghey"><par n="initial-k"/><i>iaullanagh</i><par n="t/ey__n_m"/></e>
     <e lm="larsh"><i>larsh</i><par n="ee__n_m"/></e>
-    <e lm="kione-heidyl"><par n="initial-k"/><i>ione-heidyl</i><par n="ee__n_m"/></e>
+    <e lm="grineenaghey"><par n="initial-g"/><i>rineenagh</i><par n="t/ey__n_m"/></e>
     <e lm="drogh-ymmyd"><par n="initial-d"/><i>rogh-ymmyd</i><par n="ee__n_m"/></e>
     <e lm="messeyder"><par n="initial-m"/><i>esseyder</i><par n="ee__n_m"/></e>
     <e lm="magnaidys"><par n="initial-m"/><i>agnaidys</i><par n="fys__n_m"/></e>
@@ -24974,7 +25026,7 @@
     <e lm="leeid"><i>leeid</i><par n="ee__n_m"/></e>
     <e lm="boireyder"><par n="initial-b"/><i>oireyder</i><par n="ee__n_m"/></e>
     <e lm="rotor"><i>rotor</i><par n="ee__n_m"/></e>
-    <e lm="birree"><par n="initial-b"/><i>irr</i><par n="re/ee__vblex"/></e>
+    <e lm="ark"><i></i><par n="/ark__n_f"/></e>
     <e lm="cooinidagh"><par n="initial-c"/><i>ooinidagh</i><par n="fo__adj"/></e>
     <e lm="Máire"><par n="initial-M"/><i>áire</i><par n="muc__n_f"/></e>
     <e lm="daagh"><par n="initial-d"/><i>aagh</i><par n="fo__adj"/></e>
@@ -24990,7 +25042,7 @@
     <e lm="sur-oayllee"><par n="initial-s"/><i>ur-oayllee</i><par n="ee__n_m"/></e>
     <e lm="plaastyr"><par n="initial-p"/><i>laastyr</i><par n="ee__n_m"/></e>
     <e lm="tromman"><par n="initial-t"/><i>romman</i><par n="ee__n_m"/></e>
-    <e lm="neuskyrraghtagh"><i>neuskyrraghtagh</i><par n="fo__adj"/></e>
+    <e lm="kiare-jeig"><par n="initial-k"/><i>iare-jeig</i><par n="fo__adj"/></e>
     <e lm="rag-obbyr"><i>rag-obbyr</i><par n="muc__n_f"/></e>
     <e lm="vertebragh"><i>vertebr</i><par n="e/agh__n_m"/></e>
     <e lm="vertebragh"><i>vertebragh</i><par n="fo__adj"/></e>
@@ -25046,6 +25098,7 @@
     <e lm="druggeyder"><par n="initial-d"/><i>ruggeyder</i><par n="ee__n_m"/></e>
     <e lm="noi-Ewnagh"><i>noi-Ewnagh</i><par n="fo__adj"/></e>
     <e lm="uillinagh"><par n="initial-u"/><i>illin</i><par n="e/agh__n_m"/></e>
+    <e lm="uillinagh"><par n="initial-u"/><i>illinagh</i><par n="fo__adj"/></e>
     <e lm="eginee"><par n="initial-e"/><i>gin</i><par n="re/ee__vblex"/></e>
     <e lm="reamys"><i>reamys</i><par n="fys__n_m"/></e>
     <e lm="siyree"><par n="initial-s"/><i>iyr</i><par n="re/ee__vblex"/></e>
@@ -25148,6 +25201,7 @@
     <e lm="marmalaid"><par n="initial-m"/><i>armalaid</i><par n="muc__n_f"/></e>
     <e lm="kianglane"><par n="initial-k"/><i>ianglane</i><par n="ee__n_m"/></e>
     <e lm="balloon"><par n="initial-b"/><i>alloon</i><par n="ee__n_m"/></e>
+    <e lm="glonney"><par n="initial-g"/><i>lonn</i><par n="r/ey__n_f"/></e>
     <e lm="neuwooise"><i>neuwooise</i><par n="ee__n_m"/></e>
     <e lm="Ethiopagh"><par n="initial-E"/><i>thiop</i><par n="e/agh__n_m"/></e>
     <e lm="Ethiopagh"><par n="initial-E"/><i>thiopagh</i><par n="fo__adj"/></e>
@@ -25171,6 +25225,7 @@
     <e lm="clippeyr"><par n="initial-c"/><i>lippeyr</i><par n="ee__n_m"/></e>
     <e lm="fortanagh"><par n="initial-f"/><i>ortanagh</i><par n="fo__adj"/></e>
     <e lm="cleeauagh"><par n="initial-c"/><i>leeauagh</i><par n="fo__adj"/></e>
+    <e lm="Connaghtagh"><par n="initial-C"/><i>onnaghtagh</i><par n="fo__adj"/></e>
     <e lm="argidys"><par n="initial-a"/><i>rgidys</i><par n="fys__n_m"/></e>
     <e lm="dollit"><par n="initial-d"/><i>ollit</i><par n="fo__adj"/></e>
     <e lm="jackad"><par n="initial-j"/><i>ackad</i><par n="ee__n_m"/></e>
@@ -25270,7 +25325,7 @@
     <e lm="sheidit"><par n="initial-sh"/><i>eidit</i><par n="fo__adj"/></e>
     <e lm="ponkagh"><par n="initial-p"/><i>onkagh</i><par n="fo__adj"/></e>
     <e lm="scuitch"><par n="initial-s"/><i>cuitch</i><par n="arr__vblex"/></e>
-    <e lm="moltoil"><par n="initial-m"/><i>oltoil</i><par n="fo__adj"/></e>
+    <e lm="çheyoo"><par n="initial-çh"/><i>eyoo</i><par n="fo__adj"/></e>
     <e lm="piobeen"><par n="initial-p"/><i>iobeen</i><par n="ee__n_m"/></e>
     <e lm="magganid"><par n="initial-m"/><i>agganid</i><par n="ee__n_m"/></e>
     <e lm="reaghys"><i>reaghys</i><par n="lus__n_f"/></e>
@@ -25333,6 +25388,7 @@
     <e lm="scelpee"><par n="initial-s"/><i>celp</i><par n="re/ee__vblex"/></e>
     <e lm="stap"><par n="initial-s"/><i>tap</i><par n="stap__vblex"/></e>
     <e lm="foddey"><par n="initial-f"/><i>odd</i><par n="t/ey__n_m"/></e>
+    <e lm="foddey"><par n="initial-f"/><i>oddey</i><par n="fo__adj"/></e>
     <e lm="Australasianagh"><par n="initial-A"/><i>ustralasianagh</i><par n="fo__adj"/></e>
     <e lm="neuvaynrys"><i>neuvaynrys</i><par n="lus__n_f"/></e>
     <e lm="neusondid"><i>neusondid</i><par n="ee__n_m"/></e>
@@ -25364,6 +25420,7 @@
     <e lm="kellofane"><par n="initial-k"/><i>ellofane</i><par n="ee__n_m"/></e>
     <e lm="Garnagh"><par n="initial-G"/><i>arn</i><par n="e/agh__n_m"/></e>
     <e lm="Garnagh"><par n="initial-G"/><i>arnagh</i><par n="fo__adj"/></e>
+    <e lm="slattysagh"><par n="initial-sl"/><i>attysagh</i><par n="fo__adj"/></e>
     <e lm="feddagh"><par n="initial-f"/><i>edd</i><par n="e/agh__n_m"/></e>
     <e lm="mirrilagh"><par n="initial-m"/><i>irrilagh</i><par n="fo__adj"/></e>
     <e lm="Loghlynish"><i>Loghlynish</i><par n="muc__n_f"/></e>
@@ -25497,7 +25554,6 @@
     <e lm="faagail"><par n="initial-f"/><i>aagail</i><par n="ee__n_m"/></e>
     <e lm="ollanagh"><par n="initial-o"/><i>llanagh</i><par n="fo__adj"/></e>
     <e lm="çhirrym-ghlen"><par n="initial-çh"/><i>irrym-ghlen</i><par n="glen__vblex"/></e>
-    <e lm="cheader"><par n="initial-c"/><i>header</i><par n="ee__n_m"/></e>
     <e lm="giateen"><par n="initial-g"/><i>iateen</i><par n="ee__n_m"/></e>
     <e lm="punt"><par n="initial-p"/><i>u</i><par n="pu/nt__n_m"/></e>
     <e lm="Carmelagh"><par n="initial-C"/><i>armel</i><par n="e/agh__n_m"/></e>
@@ -25511,6 +25567,7 @@
     <e lm="simentaghey"><par n="initial-s"/><i>imentagh</i><par n="t/ey__n_m"/></e>
     <e lm="ben-reiree"><par n="initial-b"/><i>en-reiree</i><par n="muc__n_f"/></e>
     <e lm="unnaneys"><par n="initial-u"/><i>nnaneys</i><par n="fys__n_m"/></e>
+    <e lm="unnaneys"><par n="initial-u"/><i>nnaneys</i><par n="fo__adj"/></e>
     <e lm="broogh"><par n="initial-b"/><i>roo</i><par n="broo/gh__n_f"/></e>
     <e lm="coodee"><par n="initial-c"/><i>ood</i><par n="re/ee__vblex"/></e>
     <e lm="prental"><par n="initial-p"/><i>rental</i><par n="ee__n_m"/></e>
@@ -25620,6 +25677,7 @@
     <e lm="sigar"><par n="initial-s"/><i>igar</i><par n="ee__n_m"/></e>
     <e lm="ogher"><par n="initial-o"/><i>gher</i><par n="muc__n_f"/></e>
     <e lm="nuyoo"><i>nuyoo</i><par n="muc__n_f"/></e>
+    <e lm="nuyoo"><i>nuyoo</i><par n="fo__adj"/></e>
     <e lm="folmit"><par n="initial-f"/><i>olmit</i><par n="fo__adj"/></e>
     <e lm="fereen"><par n="initial-f"/><i>ereen</i><par n="ee__n_m"/></e>
     <e lm="combaase"><par n="initial-c"/><i>ombaase</i><par n="ee__n_m"/></e>
@@ -25647,6 +25705,7 @@
     <e lm="treihid"><par n="initial-t"/><i>reihid</i><par n="ee__n_m"/></e>
     <e lm="soost"><par n="initial-s"/><i>oost</i><par n="muc__n_f"/></e>
     <e lm="mee-staartaght"><par n="initial-m"/><i>ee-staartaght</i><par n="muc__n_f"/></e>
+    <e lm="çhiaghtoo"><par n="initial-çh"/><i>iaghtoo</i><par n="fo__adj"/></e>
     <e lm="sou-aignagh"><par n="initial-s"/><i>ou-aignagh</i><par n="fo__adj"/></e>
     <e lm="neuhaitnysagh"><i>neuhaitnysagh</i><par n="fo__adj"/></e>
     <e lm="neuraait"><i>neuraait</i><par n="fo__adj"/></e>
@@ -25771,6 +25830,7 @@
     <e lm="sornaigey"><par n="initial-s"/><i>ornaig</i><par n="t/ey__n_m"/></e>
     <e lm="ooillagh"><par n="initial-o"/><i>oillagh</i><par n="fo__adj"/></e>
     <e lm="assaaragh"><par n="initial-a"/><i>ssaar</i><par n="e/agh__n_m"/></e>
+    <e lm="mean-eashit"><par n="initial-m"/><i>ean-eashit</i><par n="fo__adj"/></e>
     <e lm="smooirlagh"><par n="initial-s"/><i>mooirl</i><par n="m/agh__n_f"/></e>
     <e lm="assphurtanyn"><par n="initial-a"/><i>ssphurtanyn</i><par n="ee__n_m"/></e>
     <e lm="assagagh"><par n="initial-a"/><i>ssagagh</i><par n="fo__adj"/></e>
@@ -25827,6 +25887,7 @@
     <e lm="treealtys"><par n="initial-t"/><i>reealtys</i><par n="fys__n_m"/></e>
     <e lm="tartragh"><par n="initial-t"/><i>artragh</i><par n="fo__adj"/></e>
     <e lm="olkys"><par n="initial-o"/><i>lkys</i><par n="lus__n_f"/></e>
+    <e lm="obbrinagh"><par n="initial-o"/><i>bbrinagh</i><par n="fo__adj"/></e>
     <e lm="giubbylaght"><par n="initial-g"/><i>iubbylaght</i><par n="muc__n_f"/></e>
     <e lm="quassia"><par n="initial-qu"/><i>assia</i><par n="ee__n_m"/></e>
     <e lm="jesh"><par n="initial-j"/><i>esh</i><par n="fo__adj"/></e>
@@ -25840,6 +25901,7 @@
     <e lm="guilley"><par n="initial-g"/><i>uill</i><par n="baat/ey__n_m"/></e>
     <e lm="chellegrafagh"><par n="initial-c"/><i>hellegrafagh</i><par n="fo__adj"/></e>
     <e lm="arryltagh"><par n="initial-a"/><i>rryltagh</i><par n="fo__adj"/></e>
+    <e lm="leaie"><i>leaie</i><par n="fo__adj"/></e>
     <e lm="marranys"><par n="initial-m"/><i>arranys</i><par n="fys__n_m"/></e>
     <e lm="mynjeig"><par n="initial-m"/><i>ynjeig</i><par n="muc__n_f"/></e>
     <e lm="cosoylaght"><par n="initial-c"/><i>osoylaght</i><par n="muc__n_f"/></e>
@@ -25919,6 +25981,7 @@
     <e lm="dean"><par n="initial-d"/><i>ean</i><par n="ee__n_m"/></e>
     <e lm="deam"><par n="initial-d"/><i>eam</i><par n="mest__vblex"/></e>
     <e lm="finneig"><par n="initial-f"/><i>inneig</i><par n="muc__n_f"/></e>
+    <e lm="noi-physhoon"><i>noi-physhoon</i><par n="ee__n_m"/></e>
     <e lm="eelips"><par n="initial-e"/><i>elips</i><par n="ee__n_m"/></e>
     <e lm="tankeyr"><par n="initial-t"/><i>ankeyr</i><par n="ee__n_m"/></e>
     <e lm="fo-chooinsheansagh"><par n="initial-f"/><i>o-chooinsheans</i><par n="e/agh__n_m"/></e>
@@ -25969,6 +26032,7 @@
     <e lm="lieh"><i>lieh</i><par n="caa__n_f"/></e>
     <e lm="eiyrtys"><par n="initial-e"/><i>iyrtys</i><par n="fys__n_m"/></e>
     <e lm="bluightys"><par n="initial-b"/><i>luightys</i><par n="fys__n_m"/></e>
+    <e lm="nuy-jeig"><i>nuy-jeig</i><par n="fo__adj"/></e>
     <e lm="saagh-blaa"><par n="initial-s"/><i>aagh-blaa</i><par n="ee__n_m"/></e>
     <e lm="shiaulley"><par n="initial-sh"/><i>iaull</i><par n="t/ey__n_m"/></e>
     <e lm="sushtal"><par n="initial-s"/><i>ushtal</i><par n="ee__n_m"/></e>
@@ -26149,6 +26213,7 @@
     <e lm="cummynagh"><par n="initial-c"/><i>ummynagh</i><par n="fo__adj"/></e>
     <e lm="ooh"><par n="initial-o"/><i>oh</i><par n="muc__n_f"/></e>
     <e lm="pobble"><par n="initial-p"/><i>obble</i><par n="ee__n_m"/></e>
+    <e lm="fraueoil"><par n="initial-f"/><i>raueoil</i><par n="fo__adj"/></e>
     <e lm="commagh"><par n="initial-c"/><i>omm</i><par n="e/agh__n_m"/></e>
     <e lm="obbraid"><par n="initial-o"/><i>bbraid</i><par n="muc__n_f"/></e>
     <e lm="cashoo"><par n="initial-c"/><i>ashoo</i><par n="ee__n_m"/></e>
@@ -26156,7 +26221,7 @@
     <e lm="oor"><par n="initial-o"/><i>or</i><par n="ree__n_m"/></e>
     <e lm="oor"><par n="initial-o"/><i>or</i><par n="fo__adj"/></e>
     <e lm="olive"><par n="initial-o"/><i>live</i><par n="ee__n_m"/></e>
-    <e lm="pollyp"><par n="initial-p"/><i>ollyp</i><par n="ee__n_m"/></e>
+    <e lm="appee"><par n="initial-a"/><i>ppee</i><par n="fo__adj"/></e>
     <e lm="goul-rooragh"><par n="initial-g"/><i>oul-rooragh</i><par n="fo__adj"/></e>
     <e lm="sloo"><par n="initial-sl"/><i>oo</i><par n="fo__adj"/></e>
     <e lm="condaig"><par n="initial-c"/><i>ondaig</i><par n="muc__n_f"/></e>
@@ -26380,6 +26445,7 @@
     <e lm="ronsaght"><i>ronsaght</i><par n="muc__n_f"/></e>
     <e lm="argidoil"><par n="initial-a"/><i>rgidoil</i><par n="fo__adj"/></e>
     <e lm="ethicoil"><par n="initial-e"/><i>thicoil</i><par n="ee__n_m"/></e>
+    <e lm="ethicoil"><par n="initial-e"/><i>thicoil</i><par n="fo__adj"/></e>
     <e lm="ynsit"><i>ynsit</i><par n="fo__adj"/></e>
     <e lm="gyrn"><par n="initial-g"/><i>yrn</i><par n="ee__n_m"/></e>
     <e lm="gyrn"><par n="initial-g"/><i>yrn</i><par n="arr__vblex"/></e>
@@ -26501,6 +26567,7 @@
     <e lm="springeragh"><par n="initial-s"/><i>pringeragh</i><par n="fo__adj"/></e>
     <e lm="barbagh"><par n="initial-b"/><i>arbagh</i><par n="fo__adj"/></e>
     <e lm="fo-hraid"><par n="initial-f"/><i>o-hraid</i><par n="muc__n_f"/></e>
+    <e lm="amlagh"><par n="initial-a"/><i>mlagh</i><par n="fo__adj"/></e>
     <e lm="brollaghan"><par n="initial-b"/><i>rollaghan</i><par n="ee__n_m"/></e>
     <e lm="tashey"><par n="initial-t"/><i>ash</i><par n="t/ey__n_m"/></e>
     <e lm="greeishyn"><par n="initial-g"/><i>reeishyn</i><par n="muc__n_f"/></e>
@@ -26585,6 +26652,7 @@
     <e lm="lainoil"><i>lainoil</i><par n="muc__n_f"/></e>
     <e lm="mooie-cheeayl"><par n="initial-m"/><i>ooie-cheeayl</i><par n="towl__vblex"/></e>
     <e lm="geyre-reayrtagh"><par n="initial-g"/><i>eyre-reayrtagh</i><par n="fo__adj"/></e>
+    <e lm="geinnee"><par n="initial-g"/><i>einnee</i><par n="fo__adj"/></e>
     <e lm="jesh-focklaght"><par n="initial-j"/><i>esh-focklaght</i><par n="muc__n_f"/></e>
     <e lm="mynlagh"><par n="initial-m"/><i>ynl</i><par n="e/agh__n_m"/></e>
     <e lm="spank"><par n="initial-s"/><i>pank</i><par n="ee__n_m"/></e>
@@ -26714,6 +26782,7 @@
     <e lm="rollageydys"><i>rollageydys</i><par n="fys__n_m"/></e>
     <e lm="mynchoontey"><par n="initial-m"/><i>ynchoont</i><par n="t/ey__n_m"/></e>
     <e lm="fulmyr"><par n="initial-f"/><i>ulmyr</i><par n="ee__n_m"/></e>
+    <e lm="Mooanagh"><par n="initial-M"/><i>ooanagh</i><par n="fo__adj"/></e>
     <e lm="cannial"><par n="initial-c"/><i>annial</i><par n="ee__n_m"/></e>
     <e lm="prise"><par n="initial-p"/><i>rise</i><par n="muc__n_f"/></e>
     <e lm="cannian"><par n="initial-c"/><i>annian</i><par n="ee__n_m"/></e>
@@ -26778,6 +26847,7 @@
     <e lm="heraldagh"><i>heraldagh</i><par n="fo__adj"/></e>
     <e lm="stiureyder"><par n="initial-s"/><i>tiureyder</i><par n="ee__n_m"/></e>
     <e lm="fo-ooir"><par n="initial-f"/><i>o-ooir</i><par n="muc__n_f"/></e>
+    <e lm="meehurransagh"><par n="initial-m"/><i>eehurransagh</i><par n="fo__adj"/></e>
     <e lm="druggey"><par n="initial-d"/><i>rugg</i><par n="drugg/ey__n_m"/></e>
     <e lm="meeyllyn"><par n="initial-m"/><i>eeyllyn</i><par n="muc__n_f"/></e>
     <e lm="caairliaght"><par n="initial-c"/><i>aairliaght</i><par n="ee__n_m"/></e>
@@ -26935,6 +27005,7 @@
     <e lm="foddeeaght"><par n="initial-f"/><i>oddeeaght</i><par n="muc__n_f"/></e>
     <e lm="ynnyd"><i>ynnyd</i><par n="ee__n_m"/></e>
     <e lm="crivassan"><par n="initial-c"/><i>rivassan</i><par n="ee__n_m"/></e>
+    <e lm="therapey"><par n="initial-th"/><i>erap</i><par n="t/ey__n_m"/></e>
     <e lm="mwatlag-maaigagh"><par n="initial-mw"/><i>atlag-maaig</i><par n="m/agh__n_f"/></e>
     <e lm="astroaylleeagh"><par n="initial-a"/><i>stroaylleeagh</i><par n="fo__adj"/></e>
     <e lm="lommanit"><i>lommanit</i><par n="fo__adj"/></e>
@@ -26953,6 +27024,7 @@
     <e lm="bruightey"><par n="initial-b"/><i>ruight</i><par n="t/ey__n_m"/></e>
     <e lm="gobban"><par n="initial-g"/><i>obban</i><par n="ee__n_m"/></e>
     <e lm="shennskyl"><par n="initial-sh"/><i>ennskyl</i><par n="ee__n_m"/></e>
+    <e lm="ynobbree"><i>ynobbree</i><par n="fo__adj"/></e>
     <e lm="rank"><i>rank</i><par n="fo__adj"/></e>
     <e lm="ennoilys"><par n="initial-e"/><i>nnoilys</i><par n="fys__n_m"/></e>
     <e lm="gobbag"><par n="initial-g"/><i>obbag</i><par n="muc__n_f"/></e>
@@ -27014,6 +27086,7 @@
     <e lm="inshagh"><par n="initial-i"/><i>nshagh</i><par n="fo__adj"/></e>
     <e lm="jeyd"><par n="initial-j"/><i>eyd</i><par n="ee__n_m"/></e>
     <e lm="oardreilagh"><par n="initial-o"/><i>ardreilagh</i><par n="fo__adj"/></e>
+    <e lm="eaghtyragh"><par n="initial-e"/><i>aghtyragh</i><par n="fo__adj"/></e>
     <e lm="scaipail"><par n="initial-s"/><i>caipail</i><par n="fo__adj"/></e>
     <e lm="kiare-chuilleig"><par n="initial-k"/><i>iare-chuilleig</i><par n="muc__n_f"/></e>
     <e lm="kipp"><par n="initial-k"/><i>ipp</i><par n="muc__n_f"/></e>
@@ -27150,6 +27223,7 @@
     <e lm="fo-leigh"><par n="initial-f"/><i>o-leigh</i><par n="ee__n_m"/></e>
     <e lm="yn-churmal"><i>yn-churmal</i><par n="fo__adj"/></e>
     <e lm="neuhymnaght"><i>neuhymnaght</i><par n="muc__n_f"/></e>
+    <e lm="reayrtagh"><i>reayrtagh</i><par n="fo__adj"/></e>
     <e lm="croymmagh"><par n="initial-c"/><i>roymmagh</i><par n="fo__adj"/></e>
     <e lm="scollag"><par n="initial-s"/><i>collag</i><par n="ee__n_m"/></e>
     <e lm="fank"><par n="initial-f"/><i>ank</i><par n="muc__n_f"/></e>
@@ -27161,6 +27235,7 @@
     <e lm="eggoalleeaght"><par n="initial-e"/><i>ggoalleeaght</i><par n="ee__n_m"/></e>
     <e lm="fant"><par n="initial-f"/><i>ant</i><par n="fo__adj"/></e>
     <e lm="çheghnaiçhum"><par n="initial-çh"/><i>eghnaiçhum</i><par n="ee__n_m"/></e>
+    <e lm="gien-oaylleeagh"><par n="initial-g"/><i>ien-oaylleeagh</i><par n="fo__adj"/></e>
     <e lm="paish"><par n="initial-p"/><i>aish</i><par n="muc__n_f"/></e>
     <e lm="ym-obbree"><i>ym-obbree</i><par n="ee__n_m"/></e>
     <e lm="ym-obbree"><i>ym-obbr</i><par n="re/ee__vblex"/></e>
@@ -27270,6 +27345,7 @@
     <e lm="tast"><par n="initial-t"/><i>ast</i><par n="arr__vblex"/></e>
     <e lm="meeveasagh"><par n="initial-m"/><i>eeveasagh</i><par n="fo__adj"/></e>
     <e lm="ancheirdagh"><par n="initial-a"/><i>ncheird</i><par n="e/agh__n_m"/></e>
+    <e lm="ancheirdagh"><par n="initial-a"/><i>ncheirdagh</i><par n="fo__adj"/></e>
     <e lm="firrinaght"><par n="initial-f"/><i>irrinaght</i><par n="muc__n_f"/></e>
     <e lm="sonaase"><par n="initial-s"/><i>onaase</i><par n="muc__n_f"/></e>
     <e lm="kiartee"><par n="initial-k"/><i>iart</i><par n="re/ee__vblex"/></e>
@@ -27280,7 +27356,6 @@
     <e lm="kiartey"><par n="initial-k"/><i>iart</i><par n="t/ey__n_m"/></e>
     <e lm="smooinaghtagh"><par n="initial-s"/><i>mooinaght</i><par n="e/agh__n_m"/></e>
     <e lm="smooinaghtagh"><par n="initial-s"/><i>mooinaghtagh</i><par n="fo__adj"/></e>
-    <e lm="goaney"><par n="initial-g"/><i>oaney</i><par n="fo__adj"/></e>
     <e lm="aalhieeney"><par n="initial-a"/><i>alhieen</i><par n="t/ey__n_m"/></e>
     <e lm="doltaghys"><par n="initial-d"/><i>oltaghys</i><par n="fys__n_m"/></e>
     <e lm="shangaghey"><par n="initial-sh"/><i>angagh</i><par n="t/ey__n_m"/></e>
@@ -27338,6 +27413,7 @@
     <e lm="saar"><par n="initial-s"/><i>aar</i><par n="ee__n_m"/></e>
     <e lm="rubbeyder"><i>rubbeyder</i><par n="ee__n_m"/></e>
     <e lm="naaer"><i>naaer</i><par n="ee__n_m"/></e>
+    <e lm="neuchramp"><i>neuchramp</i><par n="fo__adj"/></e>
     <e lm="cooidjaghtagh"><par n="initial-c"/><i>ooidjaghtagh</i><par n="fo__adj"/></e>
     <e lm="jeirkagh"><par n="initial-j"/><i>eirk</i><par n="e/agh__n_m"/></e>
     <e lm="jeirkagh"><par n="initial-j"/><i>eirkagh</i><par n="fo__adj"/></e>
@@ -27399,7 +27475,7 @@
     <e lm="Babel"><par n="initial-B"/><i>abel</i><par n="ee__n_m"/></e>
     <e lm="thalhearaght"><par n="initial-th"/><i>alhearaght</i><par n="muc__n_f"/></e>
     <e lm="jattan"><par n="initial-j"/><i>attan</i><par n="ee__n_m"/></e>
-    <e lm="therapey"><par n="initial-th"/><i>erap</i><par n="t/ey__n_m"/></e>
+    <e lm="rouanys"><i>rouanys</i><par n="lus__n_f"/></e>
     <e lm="chellafotografeeaght"><par n="initial-c"/><i>hellafotografeeaght</i><par n="muc__n_f"/></e>
     <e lm="garaghtagh"><par n="initial-g"/><i>araghtagh</i><par n="fo__adj"/></e>
     <e lm="thie-jeant"><par n="initial-th"/><i>ie-jeant</i><par n="fo__adj"/></e>
@@ -27499,6 +27575,7 @@
     <e lm="giall"><par n="initial-g"/><i>ial</i><par n="gial/l__vblex"/></e>
     <e lm="secant"><par n="initial-s"/><i>ecant</i><par n="ee__n_m"/></e>
     <e lm="rinkeyr"><i>rinkeyr</i><par n="ee__n_m"/></e>
+    <e lm="coloayrtysagh"><par n="initial-c"/><i>oloayrtysagh</i><par n="fo__adj"/></e>
     <e lm="pobblaghtys"><par n="initial-p"/><i>obblaghtys</i><par n="fys__n_m"/></e>
     <e lm="linneydeyrys"><i>linneydeyrys</i><par n="fys__n_m"/></e>
     <e lm="feeyn-gheayragh"><par n="initial-f"/><i>eeyn-gheayragh</i><par n="fo__adj"/></e>
@@ -27575,6 +27652,7 @@
     <e lm="ullymar"><par n="initial-u"/><i>llymar</i><par n="muc__n_f"/></e>
     <e lm="clashtyn"><par n="initial-c"/><i>lashtyn</i><par n="ee__n_m"/></e>
     <e lm="joarree-feohder"><par n="initial-j"/><i>oarree-feohder</i><par n="ee__n_m"/></e>
+    <e lm="piandagh"><par n="initial-p"/><i>iandagh</i><par n="fo__adj"/></e>
     <e lm="eeasaght"><par n="initial-e"/><i>easaght</i><par n="muc__n_f"/></e>
     <e lm="scag-heeley"><par n="initial-s"/><i>cag-heel</i><par n="t/ey__n_m"/></e>
     <e lm="meeshagh"><par n="initial-m"/><i>eesh</i><par n="m/agh__n_f"/></e>
@@ -27598,7 +27676,7 @@
     <e lm="croym-hooillagh"><par n="initial-c"/><i>roym-hooillagh</i><par n="fo__adj"/></e>
     <e lm="bratlhong"><par n="initial-b"/><i>ratlhong</i><par n="muc__n_f"/></e>
     <e lm="tensoor"><par n="initial-t"/><i>ensoor</i><par n="ee__n_m"/></e>
-    <e lm="magneeish"><par n="initial-m"/><i>agneeish</i><par n="muc__n_f"/></e>
+    <e lm="kione-ching"><par n="initial-k"/><i>ione-ching</i><par n="ee__n_m"/></e>
     <e lm="spittal"><par n="initial-s"/><i>pittal</i><par n="ee__n_m"/></e>
     <e lm="gamman"><par n="initial-g"/><i>amman</i><par n="ee__n_m"/></e>
     <e lm="sherrish"><par n="initial-sh"/><i>errish</i><par n="muc__n_f"/></e>
@@ -27609,6 +27687,7 @@
     <e lm="bing"><par n="initial-b"/><i>ing</i><par n="fo__adj"/></e>
     <e lm="neuhurransagh"><i>neuhurransagh</i><par n="fo__adj"/></e>
     <e lm="farvollee"><par n="initial-f"/><i>arvollee</i><par n="muc__n_f"/></e>
+    <e lm="chied"><par n="initial-c"/><i>hied</i><par n="fo__adj"/></e>
     <e lm="yl-chengagh"><i>yl-cheng</i><par n="e/agh__n_m"/></e>
     <e lm="yl-chengagh"><i>yl-chengagh</i><par n="fo__adj"/></e>
     <e lm="stevedore"><par n="initial-s"/><i>tevedore</i><par n="ee__n_m"/></e>
@@ -27645,6 +27724,7 @@
     <e lm="chammah"><par n="initial-c"/><i>hammah</i><par n="fo__adj"/></e>
     <e lm="lhigg"><i>lhigg</i><par n="mest__vblex"/></e>
     <e lm="daa"><par n="initial-d"/><i>aa</i><par n="ee__n_m"/></e>
+    <e lm="daa"><par n="initial-d"/><i>aa</i><par n="fo__adj"/></e>
     <e lm="hene-veashnyssagh"><i>hene-veashnyssagh</i><par n="fo__adj"/></e>
     <e lm="manganaish"><par n="initial-m"/><i>anganaish</i><par n="ee__n_m"/></e>
     <e lm="tanishtaght"><par n="initial-t"/><i>anishtaght</i><par n="muc__n_f"/></e>
@@ -27871,6 +27951,7 @@
     <e lm="foddey-reayrtagh"><par n="initial-f"/><i>oddey-reayrtagh</i><par n="fo__adj"/></e>
     <e lm="madran"><par n="initial-m"/><i>adran</i><par n="ee__n_m"/></e>
     <e lm="corys"><par n="initial-c"/><i>orys</i><par n="fys__n_m"/></e>
+    <e lm="Creestee"><par n="initial-C"/><i>reestee</i><par n="fo__adj"/></e>
     <e lm="drillinagh"><par n="initial-d"/><i>rillinagh</i><par n="fo__adj"/></e>
     <e lm="krysant"><par n="initial-k"/><i>rysant</i><par n="muc__n_f"/></e>
     <e lm="voteyr"><i>voteyr</i><par n="ee__n_m"/></e>
@@ -27927,7 +28008,7 @@
     <e lm="sheeynteyr"><par n="initial-sh"/><i>eeynteyr</i><par n="ee__n_m"/></e>
     <e lm="treechoshagh"><par n="initial-t"/><i>reechosh</i><par n="e/agh__n_m"/></e>
     <e lm="kiarteyder"><par n="initial-k"/><i>iarteyder</i><par n="ee__n_m"/></e>
-    <e lm="aggindys"><par n="initial-a"/><i>ggindys</i><par n="fys__n_m"/></e>
+    <e lm="faitçhagh"><par n="initial-f"/><i>aitçhagh</i><par n="fo__adj"/></e>
     <e lm="trappagh"><par n="initial-t"/><i>rapp</i><par n="e/agh__n_m"/></e>
     <e lm="impiraght"><par n="initial-i"/><i>mpiraght</i><par n="muc__n_f"/></e>
     <e lm="reaid"><i>reaid</i><par n="ee__n_m"/></e>
@@ -27984,6 +28065,7 @@
     <e lm="Serbagh"><par n="initial-S"/><i>erb</i><par n="e/agh__n_m"/></e>
     <e lm="Serbagh"><par n="initial-S"/><i>erbagh</i><par n="fo__adj"/></e>
     <e lm="crivassanagh"><par n="initial-c"/><i>rivassanagh</i><par n="fo__adj"/></e>
+    <e lm="quaaghid"><par n="initial-qu"/><i>aaghid</i><par n="ee__n_m"/></e>
     <e lm="shennayragh"><par n="initial-sh"/><i>ennayragh</i><par n="fo__adj"/></e>
     <e lm="glibbeeys"><par n="initial-g"/><i>libbeeys</i><par n="fys__n_m"/></e>
     <e lm="rassey"><i>rass</i><par n="t/ey__n_m"/></e>
@@ -28236,6 +28318,7 @@
     <e lm="Mahommadagh"><par n="initial-M"/><i>ahommad</i><par n="e/agh__n_m"/></e>
     <e lm="Mahommadagh"><par n="initial-M"/><i>ahommadagh</i><par n="fo__adj"/></e>
     <e lm="pontoon"><par n="initial-p"/><i>ontoon</i><par n="ee__n_m"/></e>
+    <e lm="Yernish-Baarlagh"><i>Yernish-Baarlagh</i><par n="fo__adj"/></e>
     <e lm="greddey"><par n="initial-g"/><i>redd</i><par n="t/ey__n_m"/></e>
     <e lm="foddey-heilltagh"><par n="initial-f"/><i>oddey-heilltagh</i><par n="fo__adj"/></e>
     <e lm="cass-scammylagh"><par n="initial-c"/><i>ass-scammylagh</i><par n="fo__adj"/></e>
@@ -28290,6 +28373,7 @@
     <e lm="kiaulldane"><par n="initial-k"/><i>iaulldane</i><par n="ee__n_m"/></e>
     <e lm="meainoayllys"><par n="initial-m"/><i>eainoayllys</i><par n="fys__n_m"/></e>
     <e lm="valoor"><i>valoor</i><par n="ee__n_m"/></e>
+    <e lm="Injinagh"><par n="initial-I"/><i>njinagh</i><par n="fo__adj"/></e>
     <e lm="keyl-chooishagh"><par n="initial-k"/><i>eyl-chooishagh</i><par n="fo__adj"/></e>
     <e lm="sthrap"><par n="initial-s"/><i>thrap</i><par n="stap__vblex"/></e>
     <e lm="stadd"><par n="initial-s"/><i>tadd</i><par n="ee__n_m"/></e>
@@ -28322,6 +28406,7 @@
     <e lm="fiosagh"><par n="initial-f"/><i>iosagh</i><par n="fo__adj"/></e>
     <e lm="lhiantyn"><i>lhiantyn</i><par n="muc__n_f"/></e>
     <e lm="kilowatt"><par n="initial-k"/><i>ilowatt</i><par n="ee__n_m"/></e>
+    <e lm="ardwhaiyllagh"><par n="initial-a"/><i>rdwhaiyllagh</i><par n="fo__adj"/></e>
     <e lm="laplin"><i>laplin</i><par n="ee__n_m"/></e>
     <e lm="mess"><par n="initial-m"/><i>ess</i><par n="ee__n_m"/></e>
     <e lm="mest"><par n="initial-m"/><i>est</i><par n="mest__vblex"/></e>
@@ -28359,7 +28444,7 @@
     <e lm="billad"><par n="initial-b"/><i>illad</i><par n="ee__n_m"/></e>
     <e lm="sollan"><par n="initial-s"/><i>ollan</i><par n="ee__n_m"/></e>
     <e lm="sheshaghtagh"><par n="initial-sh"/><i>eshaght</i><par n="e/agh__n_m"/></e>
-    <e lm="grineenaghey"><par n="initial-g"/><i>rineenagh</i><par n="t/ey__n_m"/></e>
+    <e lm="kione-heidyl"><par n="initial-k"/><i>ione-heidyl</i><par n="ee__n_m"/></e>
     <e lm="brooight"><par n="initial-b"/><i>rooight</i><par n="mest__vblex"/></e>
     <e lm="breear"><par n="initial-b"/><i>reear</i><par n="ee__n_m"/></e>
     <e lm="Maritaan"><i>Maritaan</i><par n="veg__n_GU"/></e>
@@ -28417,6 +28502,7 @@
     <e lm="fo-heidyl"><par n="initial-f"/><i>o-heidyl</i><par n="ee__n_m"/></e>
     <e lm="bolvane"><par n="initial-b"/><i>olvane</i><par n="ee__n_m"/></e>
     <e lm="gloyroilid"><par n="initial-g"/><i>loyroilid</i><par n="ee__n_m"/></e>
+    <e lm="Nepaal"><i>Nepaal</i><par n="muc__n_f"/></e>
     <e lm="eddyrchultooroilys"><par n="initial-e"/><i>ddyrchultooroilys</i><par n="fys__n_m"/></e>
     <e lm="argidit"><par n="initial-a"/><i>rgidit</i><par n="fo__adj"/></e>
     <e lm="torpaid"><par n="initial-t"/><i>orpaid</i><par n="ee__n_m"/></e>
@@ -28542,6 +28628,7 @@
     <e lm="baih"><par n="initial-b"/><i>aih</i><par n="soo__vblex"/></e>
     <e lm="lantanum"><i>lantanum</i><par n="ee__n_m"/></e>
     <e lm="mirril"><par n="initial-m"/><i>irril</i><par n="muc__n_f"/></e>
+    <e lm="Oranjagh"><par n="initial-O"/><i>ranjagh</i><par n="fo__adj"/></e>
     <e lm="jeeigeyragh"><par n="initial-j"/><i>eeigeyragh</i><par n="fo__adj"/></e>
     <e lm="neuchooinidagh"><i>neuchooinidagh</i><par n="fo__adj"/></e>
     <e lm="boasteyr"><par n="initial-b"/><i>oasteyr</i><par n="ee__n_m"/></e>
@@ -28582,6 +28669,7 @@
     <e lm="stolkeyder"><par n="initial-s"/><i>tolkeyder</i><par n="ee__n_m"/></e>
     <e lm="tarchuirreyder"><par n="initial-t"/><i>archuirreyder</i><par n="ee__n_m"/></e>
     <e lm="anveays"><par n="initial-a"/><i>nveays</i><par n="fys__n_m"/></e>
+    <e lm="nuy"><i>nuy</i><par n="fo__adj"/></e>
     <e lm="chymshallagh"><par n="initial-c"/><i>hymshallagh</i><par n="fo__adj"/></e>
     <e lm="doal-inchynagh"><par n="initial-d"/><i>oal-inchynagh</i><par n="fo__adj"/></e>
     <e lm="bascad"><par n="initial-b"/><i>ascad</i><par n="muc__n_f"/></e>
@@ -28619,7 +28707,7 @@
     <e lm="faasagh"><par n="initial-f"/><i>aasagh</i><par n="fo__adj"/></e>
     <e lm="thunneydys"><par n="initial-th"/><i>unneydys</i><par n="fys__n_m"/></e>
     <e lm="co-eignagh"><par n="initial-c"/><i>o-eignagh</i><par n="fo__adj"/></e>
-    <e lm="quaaghid"><par n="initial-qu"/><i>aaghid</i><par n="ee__n_m"/></e>
+    <e lm="acadoil"><par n="initial-a"/><i>cadoil</i><par n="fo__adj"/></e>
     <e lm="shicklaagey-slaneaghey"><par n="initial-sh"/><i>icklaagey-slaneagh</i><par n="t/ey__n_m"/></e>
     <e lm="stroin"><par n="initial-str"/><i>oin</i><par n="raun__n_f"/></e>
     <e lm="pibbyragh"><par n="initial-p"/><i>ibbyragh</i><par n="fo__adj"/></e>
@@ -28840,6 +28928,7 @@
     <e lm="foshil"><par n="initial-f"/><i>os</i><par n="fos/hil__vblex"/></e>
     <e lm="trie"><par n="initial-t"/><i>rie</i><par n="caa__n_f"/></e>
     <e lm="buggyraght"><par n="initial-b"/><i>uggyraght</i><par n="muc__n_f"/></e>
+    <e lm="graafagh"><par n="initial-g"/><i>raafagh</i><par n="fo__adj"/></e>
     <e lm="freaylleyder"><par n="initial-f"/><i>reaylleyder</i><par n="fo__adj"/></e>
     <e lm="stret"><par n="initial-str"/><i>et</i><par n="fo__adj"/></e>
     <e lm="crocys"><par n="initial-c"/><i>rocys</i><par n="fys__n_m"/></e>
@@ -28906,6 +28995,7 @@
     <e lm="faggyssaght"><par n="initial-f"/><i>aggyssaght</i><par n="muc__n_f"/></e>
     <e lm="neuheiltagh"><i>neuheiltagh</i><par n="fo__adj"/></e>
     <e lm="biootane"><par n="initial-b"/><i>iootane</i><par n="ee__n_m"/></e>
+    <e lm="bun-earrooagh"><par n="initial-b"/><i>un-earrooagh</i><par n="fo__adj"/></e>
     <e lm="feoghaig"><par n="initial-f"/><i>eoghaig</i><par n="muc__n_f"/></e>
     <e lm="gareyder"><par n="initial-g"/><i>areyder</i><par n="ee__n_m"/></e>
     <e lm="oghsanagh"><par n="initial-o"/><i>ghsanagh</i><par n="fo__adj"/></e>
@@ -28933,6 +29023,7 @@
     <e lm="Atlantagh"><par n="initial-A"/><i>tlantagh</i><par n="fo__adj"/></e>
     <e lm="guinnag"><par n="initial-g"/><i>uinnag</i><par n="muc__n_f"/></e>
     <e lm="kiangley"><par n="initial-k"/><i>iangl</i><par n="t/ey__n_m"/></e>
+    <e lm="breneenagh"><par n="initial-b"/><i>reneenagh</i><par n="fo__adj"/></e>
     <e lm="jee-hoaranee"><par n="initial-j"/><i>ee-hoaran</i><par n="re/ee__vblex"/></e>
     <e lm="blonnag"><par n="initial-b"/><i>lonnag</i><par n="muc__n_f"/></e>
     <e lm="ocsaidee"><par n="initial-o"/><i>csaid</i><par n="re/ee__vblex"/></e>
@@ -29034,7 +29125,6 @@
     <e lm="neuronney"><i>neuronney</i><par n="fo__adj"/></e>
     <e lm="Shliggagh"><par n="initial-Shl"/><i>igg</i><par n="e/agh__n_m"/></e>
     <e lm="Tajikistaan"><i>Tajikistaan</i><par n="veg__n_GU"/></e>
-    <e lm="ark"><i></i><par n="/ark__n_f"/></e>
     <e lm="far-choodagh"><par n="initial-f"/><i>ar-chood</i><par n="e/agh__n_m"/></e>
     <e lm="milljaghey"><par n="initial-m"/><i>illjagh</i><par n="t/ey__n_m"/></e>
     <e lm="macainys"><par n="initial-m"/><i>acainys</i><par n="fys__n_m"/></e>
@@ -29164,7 +29254,7 @@
     <e lm="mynvraddagh"><par n="initial-m"/><i>ynvraddagh</i><par n="fo__adj"/></e>
     <e lm="Doirrey"><par n="initial-D"/><i>oirr</i><par n="t/ey__n_m"/></e>
     <e lm="foilleyr"><par n="initial-f"/><i>oilleyr</i><par n="ee__n_m"/></e>
-    <e lm="glonney"><par n="initial-g"/><i>lonn</i><par n="r/ey__n_f"/></e>
+    <e lm="coonee"><par n="initial-c"/><i>oonee</i><par n="fo__adj"/></e>
     <e lm="mieys"><par n="initial-m"/><i>ieys</i><par n="mieys__n_f"/></e>
     <e lm="lhome-vaarit"><i>lhome-vaarit</i><par n="fo__adj"/></e>
     <e lm="paarant"><par n="initial-p"/><i>aarant</i><par n="ee__n_m"/></e>
@@ -29212,7 +29302,7 @@
     <e lm="Prooshagh"><par n="initial-P"/><i>roosh</i><par n="e/agh__n_m"/></e>
     <e lm="Prooshagh"><par n="initial-P"/><i>rooshagh</i><par n="fo__adj"/></e>
     <e lm="shimmeadragh"><par n="initial-sh"/><i>immeadragh</i><par n="fo__adj"/></e>
-    <e lm="tradishoon"><par n="initial-t"/><i>radishoon</i><par n="ee__n_m"/></e>
+    <e lm="er-shaghryn"><par n="initial-e"/><i>r-shaghryn</i><par n="fo__adj"/></e>
     <e lm="mooar-chreeagh"><par n="initial-m"/><i>ooar-chreeagh</i><par n="fo__adj"/></e>
     <e lm="clooid"><par n="initial-c"/><i>looid</i><par n="ee__n_m"/></e>
     <e lm="clooie"><par n="initial-c"/><i>looie</i><par n="muc__n_f"/></e>
@@ -29294,6 +29384,7 @@
     <e lm="curium"><par n="initial-c"/><i>urium</i><par n="ee__n_m"/></e>
     <e lm="feer-phurgaidagh"><par n="initial-f"/><i>eer-phurgaidagh</i><par n="fo__adj"/></e>
     <e lm="drogh-chorrym"><par n="initial-d"/><i>rogh-chorrym</i><par n="muc__n_f"/></e>
+    <e lm="gerrymoil"><par n="initial-g"/><i>errymoil</i><par n="fo__adj"/></e>
     <e lm="teisht"><par n="initial-t"/><i>eisht</i><par n="mest__vblex"/></e>
     <e lm="beayntys"><par n="initial-b"/><i>eayntys</i><par n="fys__n_m"/></e>
     <e lm="noo-chionnaghey"><i>noo-chionnagh</i><par n="t/ey__n_m"/></e>
@@ -29405,6 +29496,7 @@
     <e lm="docamad"><par n="initial-d"/><i>ocamad</i><par n="ee__n_m"/></e>
     <e lm="maylartagh"><par n="initial-m"/><i>aylart</i><par n="e/agh__n_m"/></e>
     <e lm="yl-raght"><i>yl-raght</i><par n="muc__n_f"/></e>
+    <e lm="lheiltagh"><i>lheiltagh</i><par n="fo__adj"/></e>
     <e lm="co-earrooee"><par n="initial-c"/><i>o-earroo</i><par n="re/ee__vblex"/></e>
     <e lm="buillvollee"><par n="initial-b"/><i>uillvollee</i><par n="fo__adj"/></e>
     <e lm="cubbyl"><par n="initial-c"/><i>ubbyl</i><par n="ee__n_m"/></e>
@@ -29479,7 +29571,7 @@
     <e lm="dooan"><par n="initial-d"/><i>ooan</i><par n="ee__n_m"/></e>
     <e lm="caill"><par n="initial-c"/><i></i><par n="c/aill__vblex"/></e>
     <e lm="co-hym"><par n="initial-c"/><i>o-hym</i><par n="ee__n_m"/></e>
-    <e lm="dromman"><par n="initial-d"/><i>romman</i><par n="ee__n_m"/></e>
+    <e lm="bochillagh"><par n="initial-b"/><i>ochillagh</i><par n="fo__adj"/></e>
     <e lm="paart"><par n="initial-p"/><i>aart</i><par n="ee__n_m"/></e>
     <e lm="gred-hiass"><par n="initial-g"/><i>red-hiass</i><par n="ee__n_m"/></e>
     <e lm="yl-cheirdagh"><i>yl-cheird</i><par n="e/agh__n_m"/></e>
@@ -29511,6 +29603,7 @@
     <e lm="nepçhunium"><i>nepçhunium</i><par n="ee__n_m"/></e>
     <e lm="drogh-yannoo"><par n="initial-d"/><i>rogh-yannoo</i><par n="ee__n_m"/></e>
     <e lm="Brasseel"><i>Brasseel</i><par n="veg__n_GU"/></e>
+    <e lm="jeihoo"><par n="initial-j"/><i>eihoo</i><par n="fo__adj"/></e>
     <e lm="breagh"><par n="initial-b"/><i>reagh</i><par n="fo__adj"/></e>
     <e lm="so-lostey"><par n="initial-s"/><i>o-lostey</i><par n="fo__adj"/></e>
     <e lm="greesit"><par n="initial-g"/><i>reesit</i><par n="fo__adj"/></e>
@@ -29703,7 +29796,7 @@
     <e lm="goal"><par n="initial-g"/><i>oal</i><par n="muc__n_f"/></e>
     <e lm="maynagh"><par n="initial-m"/><i>ayn</i><par n="e/agh__n_m"/></e>
     <e lm="goan"><par n="initial-g"/><i>oan</i><par n="ee__n_m"/></e>
-    <e lm="goan"><par n="initial-g"/><i>oan</i><par n="fo__adj"/></e>
+    <e lm="goan"><par n="initial-g"/><i>oan</i><par n="ard__adj"/></e>
     <e lm="gioot"><par n="initial-g"/><i>ioot</i><par n="ee__n_m"/></e>
     <e lm="oyr"><par n="initial-o"/><i>yr</i><par n="ee__n_m"/></e>
     <e lm="nobelium"><i>nobelium</i><par n="ee__n_m"/></e>
@@ -29726,7 +29819,7 @@
     <e lm="politickaght"><par n="initial-p"/><i>olitickaght</i><par n="muc__n_f"/></e>
     <e lm="baatey"><par n="initial-b"/><i>aat</i><par n="baat/ey__n_m"/></e>
     <e lm="Assyria"><i>Assyria</i><par n="veg__n_GU"/></e>
-    <e lm="sheeaghys"><par n="initial-sh"/><i>eeaghys</i><par n="fys__n_m"/></e>
+    <e lm="pashagh"><par n="initial-p"/><i>ashagh</i><par n="fo__adj"/></e>
     <e lm="jioleagh"><par n="initial-j"/><i>ioleagh</i><par n="fo__adj"/></e>
     <e lm="entreil"><par n="initial-e"/><i>ntreil</i><par n="ee__n_m"/></e>
     <e lm="entreil"><par n="initial-e"/><i>ntreil</i><par n="soo__vblex"/></e>
@@ -29771,7 +29864,9 @@
     <e lm="meeviallagh"><par n="initial-m"/><i>eeviallagh</i><par n="fo__adj"/></e>
     <e lm="Veenagh"><i>Veenagh</i><par n="fo__adj"/></e>
     <e lm="neughooghyssagh"><i>neughooghyss</i><par n="e/agh__n_m"/></e>
+    <e lm="neughooghyssagh"><i>neughooghyssagh</i><par n="fo__adj"/></e>
     <e lm="boracks"><par n="initial-b"/><i>oracks</i><par n="ee__n_m"/></e>
+    <e lm="feayn-skeeallagh"><par n="initial-f"/><i>eayn-skeeallagh</i><par n="fo__adj"/></e>
     <e lm="neuwooiagh"><i>neuwooiagh</i><par n="fo__adj"/></e>
     <e lm="ceau"><par n="initial-c"/><i>eau</i><par n="soo__vblex"/></e>
     <e lm="baarelagh"><par n="initial-b"/><i>aarel</i><par n="e/agh__n_m"/></e>
@@ -29814,6 +29909,7 @@
     <e lm="mennee"><par n="initial-m"/><i>ennee</i><par n="muc__n_f"/></e>
     <e lm="thittagh"><par n="initial-th"/><i>itt</i><par n="e/agh__n_m"/></e>
     <e lm="fial"><par n="initial-f"/><i>ial</i><par n="fo__adj"/></e>
+    <e lm="quaiyllagh"><par n="initial-qu"/><i>aiyllagh</i><par n="fo__adj"/></e>
     <e lm="anoayllys"><par n="initial-a"/><i>noayllys</i><par n="lus__n_f"/></e>
     <e lm="commyssey"><par n="initial-c"/><i>ommyss</i><par n="t/ey__n_m"/></e>
     <e lm="shismagh"><par n="initial-sh"/><i>ismagh</i><par n="fo__adj"/></e>
@@ -29850,6 +29946,7 @@
     <e lm="moar"><par n="initial-m"/><i>oar</i><par n="arr__vblex"/></e>
     <e lm="arbyllagh"><par n="initial-a"/><i>rbyllagh</i><par n="fo__adj"/></e>
     <e lm="Baltagh"><par n="initial-B"/><i>alt</i><par n="e/agh__n_m"/></e>
+    <e lm="Baltagh"><par n="initial-B"/><i>altagh</i><par n="fo__adj"/></e>
     <e lm="bane-jirgid"><par n="initial-b"/><i>ane-jirgid</i><par n="ee__n_m"/></e>
     <e lm="fassanagh"><par n="initial-f"/><i>assanagh</i><par n="fo__adj"/></e>
     <e lm="filltag"><par n="initial-f"/><i>illtag</i><par n="muc__n_f"/></e>
@@ -29966,7 +30063,8 @@
     <e lm="bard"><par n="initial-b"/><i>ard</i><par n="ee__n_m"/></e>
     <e lm="uncheillaghys"><par n="initial-u"/><i>ncheillaghys</i><par n="fys__n_m"/></e>
     <e lm="arg"><par n="initial-a"/><i>rg</i><par n="ee__n_m"/></e>
-    <e lm="kione-ching"><par n="initial-k"/><i>ione-ching</i><par n="ee__n_m"/></e>
+    <e lm="meshtallys"><par n="initial-m"/><i>eshtallys</i><par n="fys__n_m"/></e>
+    <e lm="birree"><par n="initial-b"/><i>irr</i><par n="re/ee__vblex"/></e>
     <e lm="arm"><par n="initial-a"/><i>rm</i><par n="ee__n_m"/></e>
     <e lm="clou-screeuyn"><par n="initial-c"/><i>lou-screeuyn</i><par n="ee__n_m"/></e>
     <e lm="chiass-niartallaght"><par n="initial-c"/><i>hiass-niartallaght</i><par n="muc__n_f"/></e>
@@ -30115,6 +30213,7 @@
     <e lm="casley"><par n="initial-c"/><i>asley</i><par n="fo__adj"/></e>
     <e lm="thummid"><par n="initial-th"/><i>ummid</i><par n="ee__n_m"/></e>
     <e lm="perkyn"><par n="initial-p"/><i>erkyn</i><par n="muc__n_f"/></e>
+    <e lm="ard-skeealagh"><par n="initial-a"/><i>rd-skeealagh</i><par n="fo__adj"/></e>
     <e lm="sou-chredjuagh"><par n="initial-s"/><i>ou-chredjuagh</i><par n="fo__adj"/></e>
     <e lm="caardys"><par n="initial-c"/><i>aardys</i><par n="fys__n_m"/></e>
     <e lm="reajyssagh"><i>reajyss</i><par n="e/agh__n_m"/></e>
@@ -30129,6 +30228,7 @@
     <e lm="focharriads"><par n="initial-f"/><i>ocharriads</i><par n="ee__n_m"/></e>
     <e lm="ellynlann"><par n="initial-e"/><i>llynlann</i><par n="ee__n_m"/></e>
     <e lm="reiltagh"><i>reiltagh</i><par n="fo__adj"/></e>
+    <e lm="saa"><par n="initial-s"/><i>aa</i><par n="fo__adj"/></e>
     <e lm="queig-lhiatteeagh"><par n="initial-qu"/><i>eig-lhiatteeagh</i><par n="fo__adj"/></e>
     <e lm="culleeys"><par n="initial-c"/><i>ulleeys</i><par n="fys__n_m"/></e>
     <e lm="neuchorrym"><i>neuchorrym</i><par n="fo__adj"/></e>
@@ -30301,7 +30401,7 @@
     <e lm="faiyragh"><par n="initial-f"/><i>aiyragh</i><par n="fo__adj"/></e>
     <e lm="toill"><par n="initial-t"/><i>oill</i><par n="ee__n_m"/></e>
     <e lm="toill"><par n="initial-t"/><i>oill</i><par n="toill__vblex"/></e>
-    <e lm="moddey"><par n="initial-m"/><i>odde</i><par n="modde/y__n_m"/></e>
+    <e lm="moddey"><par n="initial-m"/><i>odde</i><par n="kynne/y__n_m"/></e>
     <e lm="rubbyr"><i>rubbyr</i><par n="ee__n_m"/></e>
     <e lm="ardane"><par n="initial-a"/><i>rdane</i><par n="ee__n_m"/></e>
     <e lm="possad"><par n="initial-p"/><i>ossad</i><par n="ee__n_m"/></e>
@@ -30430,6 +30530,7 @@
     <e lm="ollanaght"><par n="initial-o"/><i>llanaght</i><par n="muc__n_f"/></e>
     <e lm="cankyr"><par n="initial-c"/><i>ankyr</i><par n="ee__n_m"/></e>
     <e lm="firriney"><par n="initial-f"/><i>irrin</i><par n="r/ey__n_f"/></e>
+    <e lm="neuskyrraghtagh"><i>neuskyrraghtagh</i><par n="fo__adj"/></e>
     <e lm="creenee"><par n="initial-c"/><i>reen</i><par n="re/ee__vblex"/></e>
     <e lm="glen"><par n="initial-g"/><i>len</i><par n="fo__adj"/></e>
     <e lm="glen"><par n="initial-g"/><i>len</i><par n="glen__vblex"/></e>
@@ -30444,6 +30545,7 @@
     <e lm="sacreyr"><par n="initial-s"/><i>acreyr</i><par n="muc__n_f"/></e>
     <e lm="annymaghys"><par n="initial-a"/><i>nnymaghys</i><par n="fys__n_m"/></e>
     <e lm="cliaghtagh"><par n="initial-c"/><i>liaghtagh</i><par n="fo__adj"/></e>
+    <e lm="ooilley-Nerin"><par n="initial-o"/><i>oilley-Nerin</i><par n="fo__adj"/></e>
     <e lm="turban"><par n="initial-t"/><i>urban</i><par n="ee__n_m"/></e>
     <e lm="gley"><par n="initial-g"/><i>ley</i><par n="fo__adj"/></e>
     <e lm="mertraghys"><par n="initial-m"/><i>ertraghys</i><par n="fys__n_m"/></e>
@@ -30459,6 +30561,7 @@
     <e lm="coraee"><par n="initial-c"/><i>ora</i><par n="re/ee__vblex"/></e>
     <e lm="yngin"><i>yngin</i><par n="muc__n_f"/></e>
     <e lm="shassoo"><par n="initial-sh"/><i>assoo</i><par n="ee__n_m"/></e>
+    <e lm="moltoil"><par n="initial-m"/><i>oltoil</i><par n="fo__adj"/></e>
     <e lm="flee"><par n="initial-f"/><i>lee</i><par n="ee__n_m"/></e>
     <e lm="gassee"><par n="initial-g"/><i>ass</i><par n="re/ee__vblex"/></e>
     <e lm="mynneyder"><par n="initial-m"/><i>ynneyder</i><par n="ee__n_m"/></e>
@@ -30528,7 +30631,7 @@
     <e lm="eddyrashoonagh"><par n="initial-e"/><i>ddyrashoonagh</i><par n="fo__adj"/></e>
     <e lm="deynlaghteyr"><par n="initial-d"/><i>eynlaghteyr</i><par n="ee__n_m"/></e>
     <e lm="fuill"><par n="initial-f"/><i>uill</i><par n="muc__n_f"/></e>
-    <e lm="Nepaal"><i>Nepaal</i><par n="muc__n_f"/></e>
+    <e lm="çhymnit"><par n="initial-çh"/><i>ymnit</i><par n="fo__adj"/></e>
     <e lm="droop"><par n="initial-d"/><i>roop</i><par n="ee__n_m"/></e>
     <e lm="sittakose"><par n="initial-s"/><i>ittakose</i><par n="muc__n_f"/></e>
     <e lm="gallee"><par n="initial-g"/><i>allee</i><par n="ee__n_m"/></e>
@@ -30679,6 +30782,7 @@
     <e lm="gyrneder"><par n="initial-g"/><i>yrneder</i><par n="ee__n_m"/></e>
     <e lm="fraue-ockle"><par n="initial-f"/><i>raue-ockle</i><par n="ee__n_m"/></e>
     <e lm="jesheeneyder"><par n="initial-j"/><i>esheeneyder</i><par n="ee__n_m"/></e>
+    <e lm="Philippeenagh"><par n="initial-P"/><i>hilippeenagh</i><par n="fo__adj"/></e>
     <e lm="neuchiangltagh"><i>neuchiangltagh</i><par n="fo__adj"/></e>
     <e lm="doofyr"><par n="initial-d"/><i>oofyr</i><par n="ee__n_m"/></e>
     <e lm="fynn-ruy"><par n="initial-f"/><i>ynn-ruy</i><par n="fo__adj"/></e>
@@ -30698,8 +30802,10 @@
     <e lm="tiert"><par n="initial-t"/><i>iert</i><par n="muc__n_f"/></e>
     <e lm="lane-scaa"><i>lane-scaa</i><par n="ee__n_m"/></e>
     <e lm="ollymin"><par n="initial-o"/><i>llymin</i><par n="ee__n_m"/></e>
+    <e lm="dromman"><par n="initial-d"/><i>romman</i><par n="ee__n_m"/></e>
     <e lm="smuttagh"><par n="initial-s"/><i>muttagh</i><par n="fo__adj"/></e>
     <e lm="keirdagh"><par n="initial-k"/><i>eird</i><par n="e/agh__n_m"/></e>
+    <e lm="grait"><par n="initial-g"/><i>rait</i><par n="fo__adj"/></e>
     <e lm="matroon"><par n="initial-m"/><i>atroon</i><par n="muc__n_f"/></e>
     <e lm="graih"><par n="initial-g"/><i>raih</i><par n="ee__n_m"/></e>
     <e lm="neuerreeishagh"><i>neuerreeishagh</i><par n="fo__adj"/></e>
@@ -30735,7 +30841,7 @@
     <e lm="Coobagh"><par n="initial-C"/><i>oob</i><par n="e/agh__n_m"/></e>
     <e lm="Coobagh"><par n="initial-C"/><i>oobagh</i><par n="fo__adj"/></e>
     <e lm="laarvagh"><i>laarvagh</i><par n="fo__adj"/></e>
-    <e lm="pashagh"><par n="initial-p"/><i>ashagh</i><par n="fo__adj"/></e>
+    <e lm="gilpin"><par n="initial-g"/><i>ilpin</i><par n="ee__n_m"/></e>
     <e lm="geear-vocs"><par n="initial-g"/><i>eear-vocs</i><par n="ee__n_m"/></e>
     <e lm="sheegeraght"><par n="initial-sh"/><i>eegeraght</i><par n="muc__n_f"/></e>
     <e lm="lhottit"><i>lhottit</i><par n="fo__adj"/></e>
@@ -30779,6 +30885,7 @@
     <e lm="gloyree"><par n="initial-g"/><i>loyr</i><par n="re/ee__vblex"/></e>
     <e lm="binkeyr"><par n="initial-b"/><i>inkeyr</i><par n="ee__n_m"/></e>
     <e lm="spohthoilshey"><par n="initial-s"/><i>pohthoilsh</i><par n="t/ey__n_m"/></e>
+    <e lm="maddaghtoil"><par n="initial-m"/><i>addaghtoil</i><par n="fo__adj"/></e>
     <e lm="crost"><par n="initial-c"/><i>rost</i><par n="fo__adj"/></e>
     <e lm="mooirjeenys"><par n="initial-m"/><i>ooirjeenys</i><par n="lus__n_f"/></e>
     <e lm="neuchoadagh"><i>neuchoadagh</i><par n="fo__adj"/></e>
@@ -30800,7 +30907,7 @@
     <e lm="cremeyder"><par n="initial-c"/><i>remeyder</i><par n="ee__n_m"/></e>
     <e lm="neuastreeagh"><i>neuastreeagh</i><par n="fo__adj"/></e>
     <e lm="beishteigagh"><par n="initial-b"/><i>eishteigagh</i><par n="fo__adj"/></e>
-    <e lm="fuinn"><par n="initial-f"/><i>uinn</i><par n="mest__vblex"/></e>
+    <e lm="kione-soilshey"><par n="initial-k"/><i>ione-soilsh</i><par n="t/ey__n_m"/></e>
     <e lm="sollanagh"><par n="initial-s"/><i>ollanagh</i><par n="fo__adj"/></e>
     <e lm="lieh-hraa"><i>lieh-hraa</i><par n="ee__n_m"/></e>
     <e lm="saggyrt"><par n="initial-s"/><i>agg</i><par n="sagg/yrt__n_m"/></e>
@@ -30955,7 +31062,7 @@
     <e lm="coontyseyr"><par n="initial-c"/><i>oontyseyr</i><par n="ee__n_m"/></e>
     <e lm="coloayrtagh"><par n="initial-c"/><i>oloayrt</i><par n="e/agh__n_m"/></e>
     <e lm="gaaue"><par n="initial-g"/><i>aaue</i><par n="bun__n_m"/></e>
-    <e lm="gilpin"><par n="initial-g"/><i>ilpin</i><par n="ee__n_m"/></e>
+    <e lm="jarroodagh"><par n="initial-j"/><i>arroodagh</i><par n="fo__adj"/></e>
     <e lm="maroon"><par n="initial-m"/><i>aroon</i><par n="ee__n_m"/></e>
     <e lm="dowin"><par n="initial-d"/><i>owin</i><par n="fo__adj"/></e>
     <e lm="sellar"><par n="initial-s"/><i>ellar</i><par n="ee__n_m"/></e>
@@ -30966,7 +31073,7 @@
     <e lm="rioane"><i>rioane</i><par n="ee__n_m"/></e>
     <e lm="jummaltagh"><par n="initial-j"/><i>ummalt</i><par n="e/agh__n_m"/></e>
     <e lm="jummaltagh"><par n="initial-j"/><i>ummaltagh</i><par n="fo__adj"/></e>
-    <e lm="kione-soilshey"><par n="initial-k"/><i>ione-soilsh</i><par n="t/ey__n_m"/></e>
+    <e lm="fuinn"><par n="initial-f"/><i>uinn</i><par n="mest__vblex"/></e>
     <e lm="hene-reiltagh"><i>hene-reiltagh</i><par n="fo__adj"/></e>
     <e lm="greeseyder"><par n="initial-g"/><i>reeseyder</i><par n="ee__n_m"/></e>
     <e lm="boor"><par n="initial-b"/><i>oor</i><par n="ee__n_m"/></e>
