@@ -460,9 +460,10 @@
           <r>dh</r>
         </p>
       </e>
+<!-- verify? -->
       <e r="LR">
         <p>
-          <l>nh</l>   <!-- verify? -->
+          <l>nh</l>   
           <r>dh</r>
         </p>
       </e>
@@ -652,7 +653,8 @@
           <r>g</r>
         </p>
       </e>
-      <e r="LR">  <!-- only in ^gi- words -->
+<!-- only in ^gi- words -->
+      <e r="LR">  
         <p>
           <l>y</l>
           <r>g</r>
@@ -697,7 +699,8 @@
           <r>G</r>
         </p>
       </e>
-      <e r="LR">  <!-- only in ^gi- words -->
+<!-- only in ^gi- words -->
+      <e r="LR">  
         <p>
           <l>Y</l>
           <r>G</r>
@@ -941,7 +944,8 @@
           <r>m</r>
         </p>
       </e>
-      <e r="LR">  <!-- moo to woo -->
+<!-- moo to woo -->
+      <e r="LR">  
         <p>
           <l>w</l>
           <r>m</r>
@@ -1349,9 +1353,10 @@
           <r>sl</r>
         </p>
       </e>
+<!-- rarely tl -->
       <e r="LR">
         <p>
-          <l>cl</l>  <!-- rarely tl -->
+          <l>cl</l>  
           <r>sl</r>
         </p>
       </e>
@@ -1376,9 +1381,10 @@
           <r>Sl</r>
         </p>
       </e>
+<!-- rarely tl -->
       <e r="LR">
         <p>
-          <l>Cl</l>  <!-- rarely tl -->
+          <l>Cl</l>  
           <r>Sl</r>
         </p>
       </e>
@@ -1451,9 +1457,10 @@
           <r>sn</r>
         </p>
       </e>
+<!-- rarely -->
       <e r="LR">
         <p>
-          <l>tn</l>  <!-- rarely -->
+          <l>tn</l>  
           <r>sn</r>
         </p>
       </e>
@@ -1478,15 +1485,17 @@
           <r>Sn</r>
         </p>
       </e>
+<!-- rarely -->
       <e r="LR">
         <p>
-          <l>Tn</l>  <!-- rarely -->
+          <l>Tn</l>  
           <r>Sn</r>
         </p>
       </e>
+<!-- rarely -->
       <e r="LR">
         <p>
-          <l>TN</l>  <!-- rarely -->
+          <l>TN</l>  
           <r>SN</r>
         </p>
       </e>
@@ -1619,9 +1628,10 @@
           <r>th</r>
         </p>
       </e>
+<!-- mar shampla 'shooyl ny dhieyn' ó 'thie'=='teach' -->
       <e r="LR">
         <p>
-          <l>dh</l>  <!-- mar shampla 'shooyl ny dhieyn' ó 'thie'=='teach' -->
+          <l>dh</l>  
           <r>th</r>
         </p>
       </e>
@@ -1646,9 +1656,10 @@
           <r>Th</r>
         </p>
       </e>
+<!-- mar shampla 'shooyl ny dhieyn' ó 'thie'=='teach' -->
       <e r="LR">
         <p>
-          <l>Dh</l>  <!-- mar shampla 'shooyl ny dhieyn' ó 'thie'=='teach' -->
+          <l>Dh</l>  
           <r>Th</r>
         </p>
       </e>
